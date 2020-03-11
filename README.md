@@ -9,7 +9,7 @@
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|---|---|---|---|
 | 1 | (Blog) Comment schreiben  | 16.03.2020  | Email  | Buch Seite 67 |
-| 2 | Zetteln durcharbeiten | ??.??.???? | ? | Dateien:<br>* [Gerund_Infinitive_Constructions.pdf](Englisch/Gerund_Infinitive_Constructions.pdf)<br> * [Infinitive_Gerund_Thats_The_Question.pdf](Englisch/Infinitive_Gerund_Thats_The_Question.pdf) |
+| 2 | Zetteln durcharbeiten | ??.??.???? | ? | Dateien:<br> - [Gerund_Infinitive_Constructions.pdf](Englisch/Gerund_Infinitive_Constructions.pdf)<br> - [Infinitive_Gerund_Thats_The_Question.pdf](Englisch/Infinitive_Gerund_Thats_The_Question.pdf) |
 | 3 | "Leaflet" schreiben | ??.??.???? | Email | Thema frei wählbar.<br>Beispiele: Sportwoche, Sprachwoche, etc. |
 
 ## Medientechnik (LOIS)
