@@ -1,5 +1,5 @@
 ## Terminplan
-| MO | DI | MI | DO | FR | SA |        SO       |
+| Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | Sonntag |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |    |    |    |    |    |    | **1**               |
 | **2** |  **3**  | **4**  | **5**  | **6**  | **7**  | **8** |
