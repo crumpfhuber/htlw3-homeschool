@@ -16,4 +16,4 @@
 
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|-------------|-------------|--------|-----------|
-| 1 | Übung 4     | 18.03.2020  | Teams  | Angabe:   |
+| 1 | Übung 4     | 18.03.2020  | Teams  | Angabe: [UE4_Terminkalender.pdf](Medientechnik/UE4_Terminkalender.pdf)   |
