@@ -21,4 +21,4 @@ steps:
         from_secret: deploy_key
       port: 
         from_secret: deploy_port
-      script: "cd /var/www/clmns.dev/htlw3-homeschool && git pull && bash ~/mdhtml.sh"
+      script: "cd /var/www/clmns.dev/htlw3-homeschool && git pull && php7.3 ~/mdhtml.php > index.html"
