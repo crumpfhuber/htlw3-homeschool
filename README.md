@@ -1,3 +1,5 @@
+[![Build Status](https://drone.clmns.dev/api/badges/crumpfhuber/htlw3-homeschool/status.svg)](https://drone.clmns.dev/crumpfhuber/htlw3-homeschool)
+
 ## Informationstechnische Projekte
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
