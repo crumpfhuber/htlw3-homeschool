@@ -5,7 +5,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1      | Analyse       | 21.03.2020  | Moodle |           |
+| 1      | Analyse       | 21.03.2020  | (Moodle)[https://elearn.htl-wels.at/mod/assign/view.php?id=13751] | |
 
 ## Englisch
 
