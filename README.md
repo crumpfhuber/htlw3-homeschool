@@ -24,6 +24,6 @@
 |---|-------------|-------------|--------|-----------|
 | 1 | Übung 4     | 18.03.2020  | Teams  | Angabe: [UE4_Terminkalender.pdf](Medientechnik/UE4_Terminkalender.pdf)   |
 
-
+**
 
 [![Build Status](https://drone.clmns.dev/api/badges/crumpfhuber/htlw3-homeschool/status.svg)](https://drone.clmns.dev/crumpfhuber/htlw3-homeschool)
