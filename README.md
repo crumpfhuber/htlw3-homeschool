@@ -9,7 +9,7 @@
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|---|---|---|---|
 | 1 | (Blog) Comment schreiben  | 16.03.2020  | Email  | Buch Seite 67 |
-| 2 | Zetteln durcharbeiten | ??.??.???? | ? | Dateien:<br> - [Gerund_Infinitive_Constructions.pdf](Englisch/Gerund_Infinitive_Constructions.pdf)<br> - [Infinitive_Gerund_Thats_The_Question.pdf](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)<br> - [Leaflet_StepbyStep.pdf](Englisch/Leaflet_StepbyStep.pdf)<br> - [Revision_Text.pdf](Englisch/Revision_Text.pdf)<br> - [Leaflet_StepbyStep.pdf](Englisch/Leaflet_StepbyStep.pdf)<br> - [Steps_to_Leaflet.pdf](Englisch/Steps_to_Leaflet.pdf)  |
+| 2 | Zetteln durcharbeiten | 23.03.2020 | ? | Dateien:<br> - [Gerund_Infinitive_Constructions.pdf](Englisch/Gerund_Infinitive_Constructions.pdf)<br> - [Infinitive_Gerund_Thats_The_Question.pdf](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)<br> - [Leaflet_StepbyStep.pdf](Englisch/Leaflet_StepbyStep.pdf)<br> - [Revision_Text.pdf](Englisch/Revision_Text.pdf)<br> - [Leaflet_StepbyStep.pdf](Englisch/Leaflet_StepbyStep.pdf)<br> - [Steps_to_Leaflet.pdf](Englisch/Steps_to_Leaflet.pdf)  |
 | 3 | "Leaflet" schreiben | ??.??.???? | Email | Thema frei wählbar.<br>Beispiele: Sportwoche, Sprachwoche, etc. |
 
 ## Medientechnik (LOIS)
