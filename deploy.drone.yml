@@ -1,0 +1,38 @@
+---
+kind: pipeline
+name: deploy
+
+platform:
+  os: linux
+  arch: arm
+
+clone:
+  disable: true
+
+steps: 
+  - name: ssh deploy
+    image: appleboy/drone-ssh
+    settings:
+      host:
+        from_secret: deploy_host
+      username: 
+        from_secret: deploy_user
+      key: 
+        from_secret: deploy_key
+      port: 
+        from_secret: deploy_port
+      script: "cd /var/www/clmns.dev/htlw3-homeschool && git pull && php7.3 ~/mdhtml.php > index.html"
+
+  - name: telegram notification
+    image: appleboy/drone-telegram
+    settings:
+      token:
+        from_secret: telegram_token
+      to:
+        from_secret: telegram_user
+      message: >
+        {{#success build.status}}
+          {{commit.link}} succeeded. Good job.
+        {{else}}
+          {{commit.link}} failed. Fix me please.
+        {{/success}}
