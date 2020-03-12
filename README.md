@@ -53,3 +53,5 @@ Zusätzliche Arbeitszetteln:
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|-------------|-------------|--------|-----------|
 | 1 | Übung 4     | 18.03.2020  | Teams  | [Angabe: Terminkalender](Medientechnik/UE4_Terminkalender.pdf)   |
+| 2 | Übung 2     | 26.03.2020  | Teams  | Nur Gruppe 1; Angabe N/A |
+| 3 | Übung 3     | 26.03.2020  | Teams  | Nur Gruppe 1; https://webdav.htl-wels.at:4343/Lehrer/Lehrer/lois/_Vorlage/MEDT3/MEDT3%20-%20PHP%20UE3_2.pdf |
