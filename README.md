@@ -10,7 +10,7 @@
 |--------|---------------|-------------|--------|-----------|
 | 1 | Bootprozess unter Linux - Grub | 19.03.2020  | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
 
-## Systemtechnik - Betriebssysteme
+## Mathematik
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
