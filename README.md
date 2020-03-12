@@ -34,12 +34,15 @@ set up a presentations on:
 
 alternative and fossil energy forms as onp 62 ( also: wave Energy, tidal energy, offshore windfarms, etc ….)  - include criticsm. 
 
-all the consequences of: C02 and gases in the atmosphere - ways of cutting down its generation, ways how to reduce it (pump it into the ground, the sea or are there some realistic ones ?), 
+all the consequences of: C02 and gases in the atmosphere - ways of cutting down its generation, ways how to reduce it
+(pump it into the ground, the sea or are there some realistic ones ?), 
 
 fracking  - consequences, how much is done, gets sold to ?, etc.
 other forms you can think of.
 
-Send your ideas / choices to me and a rough concept of your presentation as overlapping should be be avoided, the decisions should be made early - helps with organising
+Send your ideas / choices to me and a rough concept of your presentation as overlapping should be be avoided,
+the decisions should be made early - helps with organising
+
 a few weeks are allowed for setting up the presentation itself
 ```
 
