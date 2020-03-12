@@ -26,7 +26,7 @@
 | 3 | Writing Task: Comment | 21.03.2020  | E-Mail | Buch Seite 67/68 Aufgabe 3 |
 | 4 | Writing Task: Leaflet | 28.03.2020 | E-Mail | - [Leaflet: Step by Step](Englisch/Leaflet_StepbyStep.pdf)<br> - [7 Steps to a Leaflet](Englisch/Steps_to_Leaflet.pdf)<br> |
 | 5 | Writing Task: Own Leaflet | 06.04.2020 | E-Mail | Beispiel: Schulband, Sportwoche, Sprachwoche, Schulausflug, etc. |
-| 6 | Presentation: Alternative and fossil Energy form | n/a | E-Mail | siehe Nachricht unten //CLEMENS: Teamsgröße wird erfragt |
+| 6 | Presentation: Alternative and fossil Energy form | n/a | E-Mail | siehe Nachricht unten //CLEMENS: Teamgröße wird erfragt |
 
 ```
 presentations will be part of the grades (in consequence - few or hardly any exams?!)
