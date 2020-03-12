@@ -53,5 +53,5 @@ Zusätzliche Arbeitszetteln:
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|-------------|-------------|--------|-----------|
 | 1 | Alle: Übung 4 | 18.03.2020  | Teams | [Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)   |
-| 2 | Nur Gruppe 1: Übung 2 | 26.03.2020 | Teams | Angabe n/a |
-| 3 | Nur Gruppe 1: Übung 3 | 26.03.2020 | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
+| 2 | Nur Gruppe 1: Übung 2 | 25.03.2020 | Teams | Angabe n/a |
+| 3 | Nur Gruppe 1: Übung 3 | 25.03.2020 | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
