@@ -22,3 +22,17 @@ steps:
       port: 
         from_secret: deploy_port
       script: "cd /var/www/clmns.dev/htlw3-homeschool && git pull && php7.3 ~/mdhtml.php > index.html"
+
+  - name: telegram notification
+    image: appleboy/drone-telegram
+    settings:
+      token:
+        from_secret: telegram_token
+      to:
+        from_secret: telegram_user
+      message: >
+        {{#success build.status}}
+          build {{build.number}} succeeded. Good job.
+        {{else}}
+          build {{build.number}} failed. Fix me please.
+        {{/success}}
