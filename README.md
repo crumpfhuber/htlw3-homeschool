@@ -16,7 +16,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Arbeitszettel | n/a | n/a | [Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!) |
+| 1 | Arbeitsblatt | n/a | n/a | [Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!) |
 | 2 | Hausübung | n/a | n/a | Buch Nummern: 4.70, 4.71, 4.72 |
 
 ## Englisch
