@@ -32,9 +32,7 @@ steps:
             from_secret: cloudflare_zone_identifier
         action: purge_hosts
         list:
-        -   example.com
-        -   foo.example.com
-        -   bar.example.com
+        -  htlw3-homeschool.clmns.dev
 
   - name: telegram notification
     image: appleboy/drone-telegram
