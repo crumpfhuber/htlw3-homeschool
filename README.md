@@ -2,7 +2,9 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1      | Analyse       | 20.03.2020  | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13751) | |
+| 1 | Analyse | 20.03.2020 22:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13751) | |
+| 2 | Design (Zwischenabgabe) | 27.03.2020 22:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13852) | `Um sicher zu stellen, dass der Projektfortschritt gegeben ist, ersuche ich euch um eine Zwischenabgabe des Design-Dokuments. Es muss NICHT fertig sein ...` |
+| 3 | Design (Final) | 03.04.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13849) | |
 
 ## Systemtechnik - Betriebssysteme
 
