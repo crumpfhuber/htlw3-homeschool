@@ -2,15 +2,15 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Analyse | 20.03.2020 22:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13751) | |
-| 2 | Design (Zwischenabgabe) | 27.03.2020 22:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13852) | Um sicher zu stellen, dass der Projektfortschritt gegeben ist, ersuche ich euch um eine Zwischenabgabe des Design-Dokuments. Es muss NICHT fertig sein. |
-| 3 | Design (Final) | 03.04.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13849) | |
+| 1 | Analyse | Fr, 20.03.2020 22:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13751) | |
+| 2 | Design (Zwischenabgabe) | Fr, 27.03.2020 22:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13852) | Um sicher zu stellen, dass der Projektfortschritt gegeben ist, ersuche ich euch um eine Zwischenabgabe des Design-Dokuments. Es muss NICHT fertig sein. |
+| 3 | Design (Final) | Fr, 03.04.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13849) | |
 
 ## Systemtechnik - Betriebssysteme
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Bootprozess unter Linux - Grub | 19.03.2020  | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
+| 1 | Bootprozess unter Linux - Grub | Do, 19.03.2020  | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
 
 ## Mathematik
 
@@ -23,11 +23,11 @@
 
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|---|---|---|---|
-| 1 | Writing Task: Comment (Article with the weired Ideas) | 16.03.2020  | Email | Buch Seite 65 Aufgabe 6<br> - Es sollen Phrasen von Seite 123 eingebaut werden. <br> - 230 Wörter |
+| 1 | Writing Task: Comment (Article with the weired Ideas) | Mo, 16.03.2020  | Email | Buch Seite 65 Aufgabe 6<br> - Es sollen Phrasen von Seite 123 eingebaut werden. <br> - 230 Wörter |
 | 2 | Grammar: If-Clauses  | n/a | n/a | Buch Seite 115/116 Aufgabe 2 |
-| 3 | Writing Task: Comment | 21.03.2020  | E-Mail | Buch Seite 67/68 Aufgabe 3 |
-| 4 | Writing Task: Leaflet | 28.03.2020 | E-Mail | - [Leaflet: Step by Step](Englisch/Leaflet_StepbyStep.pdf)<br> - [7 Steps to a Leaflet](Englisch/Steps_to_Leaflet.pdf)<br> |
-| 5 | Writing Task: Own Leaflet | 06.04.2020 | E-Mail | Beispiel: Schulband, Sportwoche, Sprachwoche, Schulausflug, etc. |
+| 3 | Writing Task: Comment | Sa, 21.03.2020  | E-Mail | Buch Seite 67/68 Aufgabe 3 |
+| 4 | Writing Task: Leaflet | Sa, 28.03.2020 | E-Mail | - [Leaflet: Step by Step](Englisch/Leaflet_StepbyStep.pdf)<br> - [7 Steps to a Leaflet](Englisch/Steps_to_Leaflet.pdf)<br> |
+| 5 | Writing Task: Own Leaflet | Mo, 06.04.2020 | E-Mail | Beispiel: Schulband, Sportwoche, Sprachwoche, Schulausflug, etc. |
 | 6 | Presentation: Alternative and fossil Energy form | n/a | E-Mail | siehe Nachricht unten //CLEMENS: Teamgröße wird erfragt |
 
 ```
@@ -57,6 +57,6 @@ Zusätzliche Arbeitszetteln:
 
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|-------------|-------------|--------|-----------|
-| 1 | Alle: Übung 4 | 25.03.2020  | Teams | [Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)   |
-| 2 | Nur Gruppe 1: Übung 2 | 25.03.2020 | Teams | [Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf) |
-| 3 | Nur Gruppe 1: Übung 3 | 25.03.2020 | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
+| 1 | Alle: Übung 4 | Mi, 25.03.2020  | Teams | [Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)   |
+| 2 | Nur Gruppe 1: Übung 2 | Mi, 25.03.2020 | Teams | [Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf) |
+| 3 | Nur Gruppe 1: Übung 3 | Mi, 25.03.2020 | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
