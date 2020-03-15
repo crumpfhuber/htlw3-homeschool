@@ -1,3 +1,9 @@
+## Softwareentwicklung
+
+| #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
+|--------|---------------|-------------|--------|-----------|
+| 1 | Literaturrecherche | Di, 17.03.2020 08:00 Uhr | Teams | Datei in Teams! |
+
 ## Informationstechnische Projekte
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
