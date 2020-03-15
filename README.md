@@ -1,4 +1,4 @@
-## Wochenübersicht (16. bis 22.03.2020)
+## Wochenübersicht (16.03. bis 22.03.2020)
 
 | Datum | Beschreibung |
 |---|---|
