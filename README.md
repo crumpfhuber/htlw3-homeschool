@@ -14,13 +14,13 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Literaturrecherche | Fr, 20.03.2020 18:00 Uhr | Moodle | Datenbank & Informationen im Theoriekurs (`Kompetenzbereich 1`) |
+| 1 | CLIL task: Selects, Functions and more | Di, 17.03.2020 08:00 Uhr | Teams | Datei in Teams! |
 
 ## Datenbanke
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | CLIL task: Selects, Functions and more | Di, 17.03.2020 08:00 Uhr | Teams | Datei in Teams! |
+| 1 | Literaturrecherche | Fr, 20.03.2020 18:00 Uhr | Moodle | Datenbank & Informationen im Theoriekurs (`Kompetenzbereich 1`) |
 
 ## Geschichte
 
