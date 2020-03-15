@@ -6,7 +6,7 @@
 | Di, 17.03.2020 | - Softwareentwicklung `#1` |
 | Mi, 18.03.2020 | n/a |
 | Do, 19.03.2020 | - Systemtechnik - Betriebssysteme `#1` |
-| Fr, 20.03.2020 | - Informationstechnische Projekte `#1` |
+| Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br> - Geschichte `#1` |
 | Sa, 21.03.2020 | - Englisch `#3` |
 | So, 22.03.2020 | n/a |
 
@@ -15,6 +15,15 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | 1 | Literaturrecherche | Di, 17.03.2020 08:00 Uhr | Teams | Datei in Teams! |
+
+## Geschichte
+
+| #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
+|--------|---------------|-------------|--------|-----------|
+| 1 | Gruppeneinteilung | Fr, 20.03.2020 | E-Mail | [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) |
+| 2 | Bildanalyse | Fr, 27.03.2020 | Abgabeverzeichnis | [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) |
+| 3 | Lesen & Unterstreichen | Fr, 15.04.2020 | n/a| [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) |
+
 
 ## Informationstechnische Projekte
 
