@@ -1,4 +1,4 @@
-## Wochenübersicht (16.03. bis 22.03.2020)
+## Wochenübersicht 1 (16.03. bis 22.03.2020)
 
 | Datum | Beschreibung |
 |---|---|
@@ -6,7 +6,7 @@
 | Di, 17.03.2020 | - Softwareentwicklung `#1` |
 | Mi, 18.03.2020 | n/a |
 | Do, 19.03.2020 | - Systemtechnik - Betriebssysteme `#1` |
-| Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br> - Geschichte `#1` |
+| Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br> - Geschichte `#1`<br> - Datenbanken `#1` |
 | Sa, 21.03.2020 | - Englisch `#3` |
 | So, 22.03.2020 | n/a |
 
@@ -16,7 +16,7 @@
 |--------|---------------|-------------|--------|-----------|
 | 1 | Literaturrecherche | Di, 17.03.2020 08:00 Uhr | Teams | Datei in Teams! |
 
-## Datenbanke
+## Datenbanken
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
