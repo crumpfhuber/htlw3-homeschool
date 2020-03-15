@@ -22,7 +22,7 @@
 |--------|---------------|-------------|--------|-----------|
 | 1 | Gruppeneinteilung | Fr, 20.03.2020 | E-Mail | [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) |
 | 2 | Bildanalyse | Fr, 27.03.2020 | Abgabeverzeichnis | [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) |
-| 3 | Lesen & Unterstreichen | Fr, 15.04.2020 | n/a| [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) |
+| 3 | Lesen & Unterstreichen | Mi, 15.04.2020 | n/a| [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) |
 
 
 ## Informationstechnische Projekte
