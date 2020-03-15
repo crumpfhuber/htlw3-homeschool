@@ -2,12 +2,12 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 16.03.2020 | Englisch `#1` |
-| Di, 17.03.2020 | Softwareentwicklung `#1` |
+| Mo, 16.03.2020 | - Englisch `#1` |
+| Di, 17.03.2020 | - Softwareentwicklung `#1` |
 | Mi, 18.03.2020 | n/a |
-| Do, 19.03.2020 | Systemtechnik - Betriebssysteme `#1` |
-| Fr, 20.03.2020 | Informationstechnische Projekte `#1` |
-| Sa, 21.03.2020 | Englisch `#3` |
+| Do, 19.03.2020 | - Systemtechnik - Betriebssysteme `#1` |
+| Fr, 20.03.2020 | - Informationstechnische Projekte `#1` |
+| Sa, 21.03.2020 | - Englisch `#3` |
 | So, 22.03.2020 | n/a |
 
 ## Softwareentwicklung
@@ -75,6 +75,6 @@ Zusätzliche Arbeitszetteln:
 
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|-------------|-------------|--------|-----------|
-| 1 | Alle: Übung 4 | Mi, 25.03.2020  | Teams | [Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)   |
-| 2 | Nur Gruppe 1: Übung 2 | Mi, 25.03.2020 | Teams | [Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf) |
-| 3 | Nur Gruppe 1: Übung 3 | Mi, 25.03.2020 | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
+| 1 | Übung 4 | Mi, 25.03.2020 11:00 Uhr | Teams | [Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)   |
+| 2 | Übung 2 | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf) |
+| 3 | Übung 3 | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
