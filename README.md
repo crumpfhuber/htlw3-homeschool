@@ -2,7 +2,7 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 16.03.2020 | - Englisch `#1`<br> - |
+| Mo, 16.03.2020 | - Englisch `#1` |
 | Di, 17.03.2020 | - Softwareentwicklung `#1` |
 | Mi, 18.03.2020 | n/a |
 | Do, 19.03.2020 | - Systemtechnik - Betriebssysteme `#1` |
