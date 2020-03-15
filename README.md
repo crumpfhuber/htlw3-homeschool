@@ -20,7 +20,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Literaturrecherche | Fr, 20.03.2020 18:00 Uhr | Moodle | Datenbank & Informationen im Theoriekurs (`Kompetenzbereich 1`) |
+| 1 | Literaturrecherche | Fr, 20.03.2020 18:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13939) | Datenbank & Informationen im [Theoriekurs (`Kompetenzbereich 1`)](https://elearn.htl-wels.at/course/view.php?id=334) |
 
 ## Geschichte
 
