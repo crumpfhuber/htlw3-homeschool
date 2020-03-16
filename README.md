@@ -79,6 +79,26 @@ Send your ideas / choices to me and a rough concept of your presentation as over
 the decisions should be made early - helps with organising
 
 a few weeks are allowed for setting up the presentation itself
+
+//EDIT: 16.03.2020 14:20
+
+as you are the class representative of a rather big class I decided to tell you a few other topics for the presentations:
+
+any Kind of Pollution as noise -, light pollution.
+
+Pollution of the soil, landscape, air, water: acquifers  (Gewässer)
+
+Climate change
+
+included: 
+
+when it started, how, how it turned worse, where in the world it is the worst, its effects,
+
+what could be done to recover it /them - by governments, EU, companies,  individuals, schools should be involved?
+
+I was sure that I allowed that you do bigger presentations together - as pairs.
+
+if a student make this presentation by himself then I can be sure that I grade his achievement and not his partner's one.
 ```
 
 Zusätzliche Arbeitszetteln:
