@@ -65,7 +65,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Übungen | Fr, 03.04.2020 | n/a | Seite 194-198, Übungen: 8.6., 8.7, 8.10, 8.15, 8.17., |
+| 1 | Übungen | Fr, 03.04.2020 | n/a | Seite 194-198, Übungen: 8.6., 8.7, 8.10, 8.15, 8.17 |
 
 ## Mathematik
 
