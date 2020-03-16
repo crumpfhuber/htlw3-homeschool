@@ -6,7 +6,7 @@
 | Di, 17.03.2020 | - Softwareentwicklung `#1` |
 | Mi, 18.03.2020 | n/a |
 | Do, 19.03.2020 | - Systemtechnik - Betriebssysteme `#1` |
-| Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br> - Geschichte `#1`<br> - Datenbanken `#1` |
+| Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br>- Geschichte `#1`<br>- Datenbanken `#1`<br>- Physik `#1`<br>- Physik `#2` |
 | Sa, 21.03.2020 | - Englisch `#3` |
 | So, 22.03.2020 | n/a |
 
@@ -30,6 +30,16 @@
 | 2 | Bildanalyse | Fr, 27.03.2020 | Abgabeverzeichnis | [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Ausformulierte Bildanalyse über die Karikatur zur Industriellen Revolution (siehe Handout)<br> - Dokument (Klasse_Nachnamen) in mein Abgabeverzeichnis hochladen | 
 | 3 | Lesen & Unterstreichen | Mi, 15.04.2020 | n/a| [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden |
 
+## Physik
+
+| #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
+|--------|---------------|-------------|--------|-----------|
+| 1 | Arbeitsauftrag: Spiegel 1 | Di, 20.03.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 2 | Arbeitsauftrag: Spiegel 2 | Di, 20.03.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 3 | Arbeitsauftrag: Spiegel 3 | Di, 27.03.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 4 | Arbeitsauftrag: Spiegel 4 | Di, 27.03.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 5 | Arbeitsauftrag: Spiegel 5 | Di, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 6 | Arbeitsauftrag: Spiegel 6 | Di, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
 
 ## Informationstechnische Projekte
 
