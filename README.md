@@ -61,6 +61,12 @@
 |--------|---------------|-------------|--------|-----------|
 | 1 | Beispiele | Mo, 23.03.2020 | n/a | Lehrbuch Band 2, Seite 205 bis 208 (Kapitel 5.6):<br>Ihr lest euch diese Seiten bitte durch, rechnet die beiden Beispiele und arbeitet die drei Aufgaben durch! Bitte beachtet die etwas andere Notation im Vergleich zu meinem Vortrag (RN, VD, …)<br>Dies stellt eine Wiederholung der letzten drei Unterrichtseinheiten dar und ist ein kurzer kompakter Arbeitsauftrag! Ihr bekommt nächsten Montag einen Arbeitsauftrag der darauf aufbaut und eine Vorbereitung für den DAC darstellt. |
 
+## Chemie
+
+| #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
+|--------|---------------|-------------|--------|-----------|
+| 1 | Übungen | Fr, 03.04.2020 | n/a | Seite 194-198, Übungen: Ü 8.6., 8.7, 8.10, 8.15, 8.17., |
+
 ## Mathematik
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
