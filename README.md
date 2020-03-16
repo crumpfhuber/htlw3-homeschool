@@ -56,7 +56,7 @@
 
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|---|---|---|---|
-| 1 | Writing Task: Comment (Article with the weired Ideas) | Mo, 16.03.2020  | Email | Buch Seite 65 Aufgabe 6<br> - Es sollen Phrasen von Seite 123 eingebaut werden. <br> - 230 Wörter |
+| 1 | Writing Task: Comment (Article with the weired Ideas) | Mo, 16.03.2020  | Email | Buch Seite 65 Aufgabe 6<br> - Es sollen Phrasen von Seite 123 eingebaut werden. <br> - 230 Wörter<br> - Word Datei via E-Mail senden. Keine PDF! |
 | 2 | Grammar: If-Clauses  | n/a | n/a | Buch Seite 115/116 Aufgabe 2 |
 | 3 | Writing Task: Comment | Sa, 21.03.2020  | E-Mail | Buch Seite 67/68 Aufgabe 3 |
 | 4 | Writing Task: Leaflet | Sa, 28.03.2020 | E-Mail | - [Leaflet: Step by Step](Englisch/Leaflet_StepbyStep.pdf)<br> - [7 Steps to a Leaflet](Englisch/Steps_to_Leaflet.pdf)<br> |
