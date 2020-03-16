@@ -34,12 +34,12 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Arbeitsauftrag: Spiegel 1 | Di, 20.03.2020 23:59 Uhr | Teams | Datei in Teams! |
-| 2 | Arbeitsauftrag: Spiegel 2 | Di, 20.03.2020 23:59 Uhr | Teams | Datei in Teams! |
-| 3 | Arbeitsauftrag: Spiegel 3 | Di, 27.03.2020 23:59 Uhr | Teams | Datei in Teams! |
-| 4 | Arbeitsauftrag: Spiegel 4 | Di, 27.03.2020 23:59 Uhr | Teams | Datei in Teams! |
-| 5 | Arbeitsauftrag: Spiegel 5 | Di, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
-| 6 | Arbeitsauftrag: Spiegel 6 | Di, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 1 | Arbeitsauftrag: Spiegel 1 | Fr, 20.03.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 2 | Arbeitsauftrag: Spiegel 2 | Fr, 20.03.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 3 | Arbeitsauftrag: Spiegel 3 | Fr, 27.03.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 4 | Arbeitsauftrag: Spiegel 4 | Fr, 27.03.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 5 | Arbeitsauftrag: Spiegel 5 | Fr, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 6 | Arbeitsauftrag: Spiegel 6 | Fr, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
 
 ## Informationstechnische Projekte
 
