@@ -59,10 +59,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Beispiele | Mo, 23.03.2020 | n/a | `Lehrbuch Band 2, Seite 205 bis 208 (Kapitel 5.6):
-Ihr lest euch diese Seiten bitte durch, rechnet die beiden Beispiele und arbeitet die drei Aufgaben durch! Bitte beachtet die etwas andere Notation im Vergleich zu meinem Vortrag (RN, VD, …)
-
-Dies stellt eine Wiederholung der letzten drei Unterrichtseinheiten dar und ist ein kurzer kompakter Arbeitsauftrag! Ihr bekommt nächsten Montag einen Arbeitsauftrag der darauf aufbaut und eine Vorbereitung für den DAC darstellt.` |
+| 1 | Beispiele | Mo, 23.03.2020 | n/a | t |
 
 ## Mathematik
 
