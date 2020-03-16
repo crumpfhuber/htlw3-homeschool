@@ -3,7 +3,7 @@
 | Datum | Beschreibung |
 |---|---|
 | Mo, 16.03.2020 | - Englisch `#1` |
-| Di, 17.03.2020 | - Softwareentwicklung `#1` |
+| Di, 17.03.2020 | - Softwareentwicklung `#1`<br>- Softwareentwicklung Unterricht: 9:40 Uhr im BatCave Discord |
 | Mi, 18.03.2020 | n/a |
 | Do, 19.03.2020 | - Systemtechnik - Betriebssysteme `#1` |
 | Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br>- Geschichte `#1`<br>- Datenbanken `#1`<br>- Physik `#1`<br>- Physik `#2` |
@@ -104,9 +104,7 @@ any Kind of Pollution as noise -, light pollution.
 
 Pollution of the soil, landscape, air, water: acquifers  (Gewässer)
 
-Climate change
-
-included: 
+Climate change included: 
 
 when it started, how, how it turned worse, where in the world it is the worst, its effects,
 
