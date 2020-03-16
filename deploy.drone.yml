@@ -32,7 +32,7 @@ steps:
         from_secret: telegram_user
       message: >
         {{#success build.status}}
-          {{commit.link}} succeeded. Good job.
+          {{build.link}} succeeded. Good job.
         {{else}}
-          {{commit.link}} failed. Fix me please.
+          {{build.link}} failed. Fix me please.
         {{/success}}
