@@ -14,7 +14,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Literaturrecherche | Di, 17.03.2020 08:00 Uhr | Teams | Lies dir im C-Skriptum Seite 22+23 als Vorbereitung für Dienstag durch.<br>Datei in Teams! |
+| 1 | Literaturrecherche | Di, 17.03.2020 08:00 Uhr | Teams | Lies dir im C-Skriptum Seite 22+23 als Vorbereitung für Dienstag durch. Datei in Teams! |
 
 ## Datenbanken
 
