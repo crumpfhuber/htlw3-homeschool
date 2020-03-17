@@ -5,5 +5,5 @@
 - Gemeinsames durchgehen des C-Skriptums
 
 Übungen:
-- 603_Arrays
-- 604_Strings
+- [603_Arrays](https://github.com/Javaw0cky/SEW3/tree/master/600-C/603_Arrays)
+- [604_Strings](https://github.com/Javaw0cky/SEW3/tree/master/600-C/604_Strings)
