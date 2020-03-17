@@ -4,6 +4,7 @@
 - Projek wie gehabt auf Github pushen und die Aufgaben in Teams abgeben
 - Gemeinsames durchgehen des C-Skriptums
 
+### 603_Arrays
 ```c
 #include <stdio.h>
 
