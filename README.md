@@ -5,7 +5,7 @@
 | Mo, 16.03.2020 | - Englisch `#1` |
 | Di, 17.03.2020 | - Softwareentwicklung `#1`<br>- Softwareentwicklung Unterricht: 9:40 Uhr im BatCave Discord |
 | Mi, 18.03.2020 | n/a |
-| Do, 19.03.2020 | - Systemtechnik - Betriebssysteme `#1` |
+| Do, 19.03.2020 | - Betriebssysteme `#1` |
 | Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br>- Geschichte `#1`<br>- Datenbanken `#1`<br>- Physik `#1`<br>- Physik `#2` |
 | Sa, 21.03.2020 | - Englisch `#3` |
 | So, 22.03.2020 | n/a |
@@ -49,13 +49,13 @@
 | 2 | Design (Zwischenabgabe) | Fr, 27.03.2020 22:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13852) | Um sicher zu stellen, dass der Projektfortschritt gegeben ist, ersuche ich euch um eine Zwischenabgabe des Design-Dokuments. Es muss NICHT fertig sein. |
 | 3 | Design (Final) | Fr, 03.04.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13849) | |
 
-## Systemtechnik - Betriebssysteme
+## Betriebssysteme
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | 1 | Bootprozess unter Linux - Grub | Do, 19.03.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
 
-## Systemtechnik - Elektrotechnik
+## Elektrotechnik
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
