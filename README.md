@@ -7,7 +7,7 @@
 | Mi, 18.03.2020 | n/a |
 | Do, 19.03.2020 | - Betriebssysteme `#1` |
 | Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br>- Geschichte `#1`<br>- Datenbanken `#1`<br>- Physik `#1`<br>- Physik `#2` |
-| Sa, 21.03.2020 | - Englisch `#3` |
+| Sa, 21.03.2020 | - Englisch `#3`<br>- Softwareentwicklung Unterricht: 11:40 Uhr im BatCave Discord |
 | So, 22.03.2020 | n/a |
 
 ## Softwareentwicklung
