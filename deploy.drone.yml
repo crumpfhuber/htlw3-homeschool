@@ -21,7 +21,7 @@ steps:
         from_secret: deploy_key
       port: 
         from_secret: deploy_port
-      script: "cd /var/www/clmns.dev/htlw3-homeschool && git pull && bashh ~/genhtml.sh"
+      script: "cd /var/www/clmns.dev/htlw3-homeschool && git pull && bash ~/genhtml.sh"
 
   - name: telegram notification
     image: appleboy/drone-telegram
