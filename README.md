@@ -16,6 +16,8 @@
 |--------|---------------|-------------|--------|-----------|
 | 1 | Literaturrecherche | Di, 17.03.2020 08:00 Uhr | Teams | Lies dir im C-Skriptum Seite 22+23 als Vorbereitung für Dienstag durch. Datei in Teams! |
 
+| 2 | Aufgabe: 605_StringOps | Di, 24.03.2020 | GitHub & Teams | [Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps) |
+
 ## Datenbanken
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
