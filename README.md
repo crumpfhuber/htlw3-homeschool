@@ -14,7 +14,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| ~~1 | Literaturrecherche | Di, 17.03.2020 08:00 Uhr | Teams | Lies dir im C-Skriptum Seite 22+23 als Vorbereitung für Dienstag durch. Datei in Teams!~~ |
+| ~~1~~ | ~~Literaturrecherche~~ | ~~Di, 17.03.2020 08:00 Uhr~~ | ~~Teams~~ | ~~Lies dir im C-Skriptum Seite 22+23 als Vorbereitung für Dienstag durch. Datei in Teams!~~ |
 | 2 | Aufgabe: 605_StringOps | Di, 24.03.2020 | GitHub & Teams | [Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps) |
 
 ## Datenbanken
@@ -75,11 +75,19 @@
 | 1 | Arbeitsblatt | n/a | n/a | [Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!) |
 | 2 | Hausübung | n/a | n/a | Buch Nummern: 4.70, 4.71, 4.72 |
 
+## Medientechnik (LOIS)
+
+| # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
+|---|-------------|-------------|--------|-----------|
+| 1 | Übung 4 | Mi, 25.03.2020 11:00 Uhr | Teams | [Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)<br>Es sollen Blautöne, wie in der Beispielgrafik zusehen, verwendet werden!<br>//CLEMENS: [https://www.php-kurs.com/arrays-mehrdimensional.htm](https://www.php-kurs.com/arrays-mehrdimensional.htm)  |
+| 2 | Übung 2 | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf) |
+| 3 | Übung 3 | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
+
 ## Englisch
 
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|---|---|---|---|
-| 1 | Writing Task: Comment (Article with the weired Ideas) | Mo, 16.03.2020  | Email | Buch Seite 65 Aufgabe 6<br> - Es sollen Phrasen von Seite 123 eingebaut werden. <br> - 230 Wörter<br> - Word Datei via E-Mail senden. Keine PDF! |
+| ~~1~~ | ~~Writing Task: Comment (Article with the weired Ideas)~~ | ~~Mo, 16.03.2020  | Email | Buch Seite 65 Aufgabe 6<br> - Es sollen Phrasen von Seite 123 eingebaut werden. <br> - 230 Wörter<br> - Word Datei via E-Mail senden. Keine PDF!~~ |
 | 2 | Grammar: If-Clauses  | n/a | n/a | Buch Seite 115/116 Aufgabe 2 |
 | 3 | Writing Task: Comment | Sa, 21.03.2020  | E-Mail | Buch Seite 67/68 Aufgabe 3 |
 | 4 | Writing Task: Leaflet | Sa, 28.03.2020 | E-Mail | - [Leaflet: Step by Step](Englisch/Leaflet_StepbyStep.pdf)<br> - [7 Steps to a Leaflet](Englisch/Steps_to_Leaflet.pdf)<br> |
@@ -126,11 +134,3 @@ Zusätzliche Arbeitszetteln:
 - [Gerund or Infinitive Constructions](Englisch/Gerund_Infinitive_Constructions.pdf)
 - [Infinitive or Gerund thats the Question](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)
 - [Revision: Article, Report, Blog Comment, Email, Letter, Leaflet](Englisch/Revision_Text.pdf)
-
-## Medientechnik (LOIS)
-
-| # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
-|---|-------------|-------------|--------|-----------|
-| 1 | Übung 4 | Mi, 25.03.2020 11:00 Uhr | Teams | [Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)<br>Es sollen Blautöne, wie in der Beispielgrafik zusehen, verwendet werden!<br>//CLEMENS: [https://www.php-kurs.com/arrays-mehrdimensional.htm](https://www.php-kurs.com/arrays-mehrdimensional.htm)  |
-| 2 | Übung 2 | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf) |
-| 3 | Übung 3 | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
