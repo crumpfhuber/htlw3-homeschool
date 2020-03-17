@@ -2,8 +2,8 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 16.03.2020 | - Englisch `#1` |
-| Di, 17.03.2020 | - Softwareentwicklung `#1`<br>- Softwareentwicklung Unterricht: 9:40 Uhr ([Zusammenfassung](Softwareentwicklung/Unterricht-2020-03-17.md)) |
+| ~~Mo, 16.03.2020~~ | ~~- Englisch `#1`~~ |
+| ~~Di, 17.03.2020~~ | ~~- Softwareentwicklung `#1`<br>- Softwareentwicklung Unterricht: 9:40 Uhr ([Zusammenfassung](Softwareentwicklung/Unterricht-2020-03-17.md))~~ |
 | Mi, 18.03.2020 | - Medientechnik Unterricht: 10:45 Uhr |
 | Do, 19.03.2020 | - Betriebssysteme `#1` |
 | Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br>- Geschichte `#1`<br>- Datenbanken `#1`<br>- Physik `#1`<br>- Physik `#2`<br> - Softwareentwicklung Unterricht: 11:40 Uhr |
