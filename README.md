@@ -8,7 +8,7 @@
 | Di, 17.03.2020 | - Softwareentwicklung `#1`<br>- Softwareentwicklung Unterricht: 9:40 Uhr ([Zusammenfassung](Softwareentwicklung/Unterricht-2020-03-17.md)) |
 | Mi, 18.03.2020 | - Medientechnik (HELT) Unterricht: 10:45 Uhr |
 | Do, 19.03.2020 | - Betriebssysteme `#1` |
-| Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br>- Geschichte `#1`<br>- Datenbanken `#1`<br>- Physik `#1`<br>- Physik `#2`<br> - Softwareentwicklung Unterricht: 11:40 Uhr |
+| Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br>- Geschichte `#1`<br>- Datenbanken `#1`<br>- Physik `#1`<br>- Physik `#2`<br> - Softwareentwicklung Unterricht: 11:40 Uhr<br>- Deutsch `#1` |
 | Sa, 21.03.2020 | - Englisch `#3` |
 | So, 22.03.2020 | n/a |
 
@@ -89,6 +89,12 @@
 |--------|---------------|-------------|--------|-----------|
 | 1 | Arbeitsblatt | Mo, 23.03.2020 11:00 Uhr | n/a | [Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!) |
 | 2 | Hausübung | n/a | n/a | Buch Nummern: 4.70, 4.71, 4.72 |
+
+## Deutsch
+
+| #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
+|--------|---------------|-------------|--------|-----------|
+| 1 | Kommentar: "Fairplay im Sport" | Fr, 20.03.2020 23:59 Uhr | [Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf) | |
 
 ## Medientechnik (LOIS)
 
