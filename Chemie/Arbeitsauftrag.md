@@ -18,4 +18,4 @@ g)     Welchen Vorteil hat Flüssigseife (Lösung von Tensiden) gegenüber Seife
 
 Tabellieren Sie die Bestandteile von Waschmitteln und beschreiben Sie jeweils stichwortartig die Aufgabe bzw. dahinterstehende Chemikalie.
 
-<span style="color: red;">**Handschriftlich bearbeiten**</span> --> Foto oder Scan (ohne Angabe) bis Fr. 3.4. per Mail joseftheodor.kumpfmueller@bildung.gv.at bitte einschicken.
+**Handschriftlich bearbeiten!**< --> Foto oder Scan (ohne Angabe) bis Fr. 3.4. per Mail joseftheodor.kumpfmueller@bildung.gv.at bitte einschicken.
