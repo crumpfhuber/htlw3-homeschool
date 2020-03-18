@@ -78,7 +78,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Übungen | Fr, 10.04.2020 | E-Mail | **Alle Aufträge gesammelt abgeben!*** Seite 194-198, Übungen: 8.6., 8.7, 8.10, 8.15, 8.17 |
+| 1 | Übungen | Fr, 10.04.2020 | E-Mail | **Alle Aufträge gesammelt abgeben!** Seite 194-198, Übungen: 8.6., 8.7, 8.10, 8.15, 8.17 |
 
 ## Mathematik
 
