@@ -78,7 +78,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Übungen | Fr, 03.04.2020 | E-Mail | **Arbeitsaufträge gesammelt abgaben!**- Selbststudium Kunststoffe: Jungwirth S. 194-198: Übungen 8.6., 8.7. 8.10. 8.17 |
+| 1 | Übungen | Fr, 03.04.2020 | E-Mail | **Arbeitsaufträge gesammelt abgaben!** Selbststudium Kunststoffe: Jungwirth S. 194-198: Übungen 8.6., 8.7. 8.10. 8.17 |
 | 2 | Übungen | Fr, 03.04.2020 | E-Mail |  **Arbeitsaufträge gesammelt abgaben!** [siehe Arbeitsauftrag](Chemie/Arbeitsauftrag.md) |
 
 ## Mathematik
