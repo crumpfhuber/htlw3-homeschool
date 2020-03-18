@@ -18,7 +18,7 @@
 | Di, 24.03.2020 | - Softwareentwicklung `#2`<br>- Softwareentwicklung Unterricht: 9:40 Uhr |
 | Mi, 25.03.2020 | - Medientechnik `#1`<br>- Medientechnik `#2`<br>- Medientechnik `#3` |
 | Do, 26.03.2020 | n/a |
-| Fr, 27.03.2020 | - Informationstechnische Projekte `#2` |
+| Fr, 27.03.2020 | - Informationstechnische Projekte `#2`<br>- Geschichte `#2`<br>- Physik `#3`<br>- Physik `#4` |
 | Sa, 28.03.2020 | - Englisch `#4` |
 | So, 29.03.2020 | n/a |
 
