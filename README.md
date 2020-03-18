@@ -1,3 +1,5 @@
+[![Build Status](https://drone.clmns.dev/api/badges/crumpfhuber/htlw3-homeschool/status.svg)](https://drone.clmns.dev/crumpfhuber/htlw3-homeschool) [![Archiv Wochenübersicht](https://img.shields.io/badge/archiv-Wochenübersicht-blue)](Archiv-Wochenübersicht.md) [![Discord Server](https://img.shields.io/discord/453972618169548802)](https://discord.gg/esr7BJv)
+
 ## Wochenübersicht 1 (16.03. bis 22.03.2020)
 
 | Datum | Beschreibung |
