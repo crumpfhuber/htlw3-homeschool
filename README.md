@@ -10,6 +10,18 @@
 | Sa, 21.03.2020 | - Englisch `#3` |
 | So, 22.03.2020 | n/a |
 
+## Wochenübersicht 2 (23.03. bis 29.03.2020)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 23.03.2020 | - Elektrotechnik `#1` |
+| Di, 24.03.2020 | - Softwareentwicklung `#2`<br>- Softwareentwicklung Unterricht: 9:40 Uhr |
+| Mi, 25.03.2020 | - Medientechnik `#1`<br>- Medientechnik `#2`<br>- Medientechnik `#3` |
+| Do, 26.03.2020 | n/a |
+| Fr, 27.03.2020 | - Informationstechnische Projekte `#2` |
+| Sa, 28.03.2020 | - Englisch `#4` |
+| So, 29.03.2020 | n/a |
+
 ## Softwareentwicklung
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
@@ -72,7 +84,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Arbeitsblatt | n/a | n/a | [Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!) |
+| 1 | Arbeitsblatt | Mo, 23.03.2020 11:00 Uhr | n/a | [Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!) |
 | 2 | Hausübung | n/a | n/a | Buch Nummern: 4.70, 4.71, 4.72 |
 
 ## Medientechnik (LOIS)
