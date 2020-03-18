@@ -6,7 +6,7 @@
 |---|---|
 | Mo, 16.03.2020 | - Englisch `#1` |
 | Di, 17.03.2020 | - Softwareentwicklung `#1`<br>- Softwareentwicklung Unterricht: 9:40 Uhr ([Zusammenfassung](Softwareentwicklung/Unterricht-2020-03-17.md)) |
-| Mi, 18.03.2020 | - Medientechnik Unterricht: 10:45 Uhr |
+| Mi, 18.03.2020 | - Medientechnik (HELT) Unterricht: 10:45 Uhr |
 | Do, 19.03.2020 | - Betriebssysteme `#1` |
 | Fr, 20.03.2020 | - Informationstechnische Projekte `#1`<br>- Geschichte `#1`<br>- Datenbanken `#1`<br>- Physik `#1`<br>- Physik `#2`<br> - Softwareentwicklung Unterricht: 11:40 Uhr |
 | Sa, 21.03.2020 | - Englisch `#3` |
@@ -17,8 +17,8 @@
 | Datum | Beschreibung |
 |---|---|
 | Mo, 23.03.2020 | - Elektrotechnik `#1` |
-| Di, 24.03.2020 | - Softwareentwicklung `#2`<br>- Softwareentwicklung Unterricht: 9:40 Uhr |
-| Mi, 25.03.2020 | - Medientechnik `#1`<br>- Medientechnik `#2`<br>- Medientechnik `#3` |
+| Di, 24.03.2020 | - Softwareentwicklung `#2`<br>- Softwareentwicklung Unterricht: 9:40 Uhr<br>- Medientechnik (HELT) `#1` |
+| Mi, 25.03.2020 | - Medientechnik (LOIS) `#1`<br>- Medientechnik (LOIS) `#2`<br>- Medientechnik (LOIS) `#3` |
 | Do, 26.03.2020 | n/a |
 | Fr, 27.03.2020 | - Informationstechnische Projekte `#2`<br>- Geschichte `#2`<br>- Physik `#3`<br>- Physik `#4` |
 | Sa, 28.03.2020 | - Englisch `#4` |
@@ -97,6 +97,14 @@
 | 1 | Übung 4 | Mi, 25.03.2020 11:00 Uhr | Teams | [Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)<br>Es sollen Blautöne, wie in der Beispielgrafik zusehen, verwendet werden!<br>//CLEMENS: [https://www.php-kurs.com/arrays-mehrdimensional.htm](https://www.php-kurs.com/arrays-mehrdimensional.htm)  |
 | 2 | Übung 2 | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf) |
 | 3 | Übung 3 | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
+
+## Medientechnik (HELT)
+
+| # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
+|---|-------------|-------------|--------|-----------|
+| 1 | Filmprojekt: 50 Jahre HTL-Wels - Ideefindung | Di, 24.03.2020 23:59 Uhr | Teams | Infos in Teams |
+| 2 | Filmprojekt: 50 Jahre HTL-Wels - Drehbuch | Di, 14.04.2020 23:59 Uhr | Teams | Infos in Teams |
+| 3 | Filmprojekt - "Corona 20202" | Mi, 27.055.2020 23:59 Uhr | Teams | Infos in Teams |
 
 ## Englisch
 
