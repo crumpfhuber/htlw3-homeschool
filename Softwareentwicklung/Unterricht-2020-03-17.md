@@ -1,7 +1,7 @@
 ## Unterricht: Di, 17.03.2020
 
 - Keine PLF zum Thema Streams
-- Projekt wie gehabt auf Github pushen und die Aufgaben in Teams abgeben
+- Projekt wie gehabt auf GitHub pushen und die Aufgaben in Teams abgeben
 - Gemeinsames Durchgehen des C-Skriptums
 
 Übungen:
