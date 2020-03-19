@@ -108,7 +108,7 @@
 |---|-------------|-------------|--------|-----------|
 | 1 | Filmprojekt: 50 Jahre HTL-Wels - Ideefindung | Di, 24.03.2020 23:59 Uhr | Teams | Infos in Teams |
 | 2 | Filmprojekt: 50 Jahre HTL-Wels - Drehbuch | Di, 14.04.2020 23:59 Uhr | Teams | Infos in Teams |
-| 3 | Filmprojekt - "Corona 20202" | Mi, 27.05.2020 23:59 Uhr | Teams | Infos in Teams |
+| 3 | Filmprojekt - "Corona 2020" | Mi, 27.05.2020 23:59 Uhr | Teams | Infos in Teams |
 
 ## Englisch
 
