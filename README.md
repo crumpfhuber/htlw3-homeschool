@@ -1,3 +1,6 @@
+<button type="button" onclick="show('user-content-toc');" class="btn btn-info">Info</button>
+<div id="toc" style="display: none;"></div>
+
 ## Wochenübersicht 1 (16.03. bis 22.03.2020)
 
 | Datum | Beschreibung |
@@ -21,8 +24,6 @@
 | Fr, 27.03.2020 | - Informationstechnische Projekte `#2`<br>- Geschichte `#2`<br>- Physik `#3`<br>- Physik `#4` |
 | Sa, 28.03.2020 | - Englisch `#4` |
 | So, 29.03.2020 | n/a |
-
-<div id="toc"></div>
 
 ## Softwareentwicklung
 
