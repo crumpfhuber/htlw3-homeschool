@@ -1,6 +1,3 @@
-<button type="button" onclick="show('user-content-toc');" class="btn btn-info">Info</button>
-<div id="toc" style="display: none;"></div>
-
 ## Wochenübersicht 1 (16.03. bis 22.03.2020)
 
 | Datum | Beschreibung |
