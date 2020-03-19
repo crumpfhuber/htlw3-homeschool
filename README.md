@@ -66,7 +66,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Bootprozess unter Linux - Grub | Do, 19.03.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
+| 1 | Bootprozess unter Linux - Grub | Do, 03.04.2020 | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
 
 ## Elektrotechnik
 
