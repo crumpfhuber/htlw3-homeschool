@@ -14,8 +14,8 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 23.03.2020 | - Elektrotechnik `#1` |
-| Di, 24.03.2020 | - Softwareentwicklung `#2`<br>- Softwareentwicklung Unterricht: 9:40 Uhr<br>- Medientechnik (HELT) `#1` |
+| Mo, 23.03.2020 | - Elektrotechnik `#1`<br>- Softwareentwicklung `#2` |
+| Di, 24.03.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Medientechnik (HELT) `#1` |
 | Mi, 25.03.2020 | - Medientechnik (LOIS) `#1`<br>- Medientechnik (LOIS) `#2`<br>- Medientechnik (LOIS) `#3` |
 | Do, 26.03.2020 | n/a |
 | Fr, 27.03.2020 | - Informationstechnische Projekte `#2`<br>- Geschichte `#2`<br>- Physik `#3`<br>- Physik `#4` |
@@ -27,7 +27,7 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Literaturrecherche~~ | ~~Di, 17.03.2020 08:00 Uhr~~ | ~~Teams~~ | ~~Lies dir im C-Skriptum Seite 22+23 als Vorbereitung für Dienstag durch. Datei in Teams!~~ |
-| 2 | Aufgabe: 605_StringOps | Di, 24.03.2020 | GitHub & Teams | [Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps) |
+| 2 | Aufgabe: 605_StringOps | Di, 23.03.2020 | GitHub & Teams | [Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps) |
 
 ## Datenbanken
 
