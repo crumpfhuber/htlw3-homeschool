@@ -33,13 +33,13 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | CLIL task: Selects, Functions and more | Fr, 20.03.2020 18:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13939) | Datenbank & Informationen im [Theoriekurs (`Kompetenzbereich 1`)](https://elearn.htl-wels.at/course/view.php?id=334)<br>//CLEMENS: Es gibt zwei Files zum Importieren. Zuerst muss das Schema und dann das Data File importiert werden! Falls bei wem die zwei Dateien nicht über Moodle heruntergeladen werden kann, ist hier ein ZIP-File mit beiden SQL-Dateien: [database-sakila.zip](Datenbanken/database-sakila.zip) |
+| ~~1~~ | ~~CLIL task: Selects, Functions and more~~ | ~~Fr, 20.03.2020 18:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13939)~~ | ~~Datenbank & Informationen im [Theoriekurs (`Kompetenzbereich 1`)](https://elearn.htl-wels.at/course/view.php?id=334)<br>//CLEMENS: Es gibt zwei Files zum Importieren. Zuerst muss das Schema und dann das Data File importiert werden! Falls bei wem die zwei Dateien nicht über Moodle heruntergeladen werden kann, ist hier ein ZIP-File mit beiden SQL-Dateien: [database-sakila.zip](Datenbanken/database-sakila.zip)~~ |
 
 ## Geschichte
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Gruppeneinteilung | Fr, 20.03.2020 | WebUntis Chat/E-Mail | [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Teilt euch in sechs 4er Gruppen ein<br> - Jede Gruppe ladet eine Liste mit den Namen der Gruppenmitglieder hoch<br> - Von CLAK wird Feedback zur eurer Bildanalyse über die Karikatur des Wiener Kongresses übermittelt |
+| ~~1~~ | ~~Gruppeneinteilung~~ | ~~Fr, 20.03.2020~~ | ~~WebUntis Chat/E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Teilt euch in sechs 4er Gruppen ein<br> - Jede Gruppe ladet eine Liste mit den Namen der Gruppenmitglieder hoch<br> - Von CLAK wird Feedback zur eurer Bildanalyse über die Karikatur des Wiener Kongresses übermittelt~~ |
 | 2 | Bildanalyse | Fr, 27.03.2020 | E-Mail | [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) & [Karikatur](Geschichte/Industrielle_Revolution_Karikatur.pdf)<br> - Ausformulierte Bildanalyse über die Karikatur zur Industriellen Revolution (siehe Handout)<br> - Dokument (Klasse_Nachnamen) in mein Abgabeverzeichnis hochladen | 
 | 3 | Lesen & Unterstreichen | Mi, 15.04.2020 | n/a| [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden |
 
@@ -47,8 +47,8 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Arbeitsauftrag: Spiegel 1 | Fr, 20.03.2020 23:59 Uhr | Teams | Datei in Teams! |
-| 2 | Arbeitsauftrag: Spiegel 2 | Fr, 20.03.2020 23:59 Uhr | Teams | Datei in Teams! |
+| ~~1~~ | ~~Arbeitsauftrag: Spiegel 1~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
+| ~~2~~ | ~~Arbeitsauftrag: Spiegel 2~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
 | 3 | Arbeitsauftrag: Spiegel 3 | Fr, 27.03.2020 23:59 Uhr | Teams | Datei in Teams! |
 | 4 | Arbeitsauftrag: Spiegel 4 | Fr, 27.03.2020 23:59 Uhr | Teams | Datei in Teams! |
 | 5 | Arbeitsauftrag: Spiegel 5 | Fr, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
@@ -58,7 +58,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Analyse | Fr, 20.03.2020 22:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13751) | |
+| ~~1~~ | ~~Analyse~~ | ~~Fr, 20.03.2020 22:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13751)~~ | |
 | 2 | Design (Zwischenabgabe) | Fr, 27.03.2020 22:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13852) | Um sicher zu stellen, dass der Projektfortschritt gegeben ist, ersuche ich euch um eine Zwischenabgabe des Design-Dokuments. Es muss NICHT fertig sein. |
 | 3 | Design (Final) | Fr, 03.04.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13849) | |
 
@@ -66,7 +66,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Bootprozess unter Linux - Grub | Do, 03.04.2020 | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
+| 1 | Bootprozess unter Linux - Grub | n/a | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
 
 ## Elektrotechnik
 
@@ -92,7 +92,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Kommentar: "Fairplay im Sport" | Fr, 20.03.2020 23:59 Uhr | [Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf) | |
+| ~~1~~ | ~~Kommentar: "Fairplay im Sport" | Fr, 20.03.2020 23:59 Uhr | [Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf)~~ | |
 
 ## Medientechnik (LOIS)
 
