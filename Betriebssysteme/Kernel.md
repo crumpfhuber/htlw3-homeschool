@@ -13,8 +13,12 @@ Quelle: [Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14062)
 
 ### Kernel Modi
 
-- Usermodus (Benutzermodus) - Ablaufmodus für Anwendungsprogramme - Kein Zugriff auf Kernel-spezifische Code- und Datenbereiche
--  Kernelmodus - Privilegierter Modus - Dient der Ausführung der Programmteile des Kernels - Schutz von Datenstrukturen des Kernels
+- **Usermodus (Benutzermodus):**
+	- Ablaufmodus für Anwendungsprogramme
+	- Kein Zugriff auf Kernel-spezifische Code- und Datenbereiche
+- **Kernelmodus (Privilegierter Modus):**
+	- Dient der Ausführung der Programmteile des Kernels
+	- Schutz von Datenstrukturen des Kernels
 
 ### Kernelarten
 
