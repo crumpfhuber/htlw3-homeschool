@@ -2,7 +2,7 @@
 ## Betriebssysteme Architekturen
 Quelle: [Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14062)
 
-#### Aufgaben eines OS-Kernels
+### Aufgaben eines OS-Kernels
 - Speicherverwaltung
 - Prozessverwaltung
 - Interprozesskommunikation
@@ -11,17 +11,17 @@ Quelle: [Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14062)
 - Syscalls für Anwendungsprogramme
 - Scheduling
 
-#### Kernel Modi
+### Kernel Modi
 
 - Usermodus (Benutzermodus) - Ablaufmodus für Anwendungsprogramme - Kein Zugriff auf Kernel-spezifische Code- und Datenbereiche
 -  Kernelmodus - Privilegierter Modus - Dient der Ausführung der Programmteile des Kernels - Schutz von Datenstrukturen des Kernels
 
-#### Kernelarten
+### Kernelarten
 
 ![Kernelarten](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/OS-structure.de.svg/1280px-OS-structure.de.svg.png)
 [Bildquelle: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/OS-structure.de.svg/1280px-OS-structure.de.svg.png)
 
-#### Linux
+### Linux
 
 ```bash
 root@sytos-deb10:~# uname -a
