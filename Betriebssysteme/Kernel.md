@@ -19,6 +19,7 @@ Quelle: [Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14062)
 #### Kernelarten
 
 ![Kernelarten](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/OS-structure.de.svg/1280px-OS-structure.de.svg.png)
+[Bildquelle: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/OS-structure.de.svg/1280px-OS-structure.de.svg.png)
 
 #### Linux
 
