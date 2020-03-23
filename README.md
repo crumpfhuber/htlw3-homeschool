@@ -101,6 +101,12 @@
 | 2 | Filmprojekt: 50 Jahre HTL-Wels - Drehbuch | Di, 14.04.2020 23:59 Uhr | Teams | Infos in Teams |
 | 3 | Filmprojekt - "Corona 2020" | Mi, 27.05.2020 23:59 Uhr | Teams | Infos in Teams |
 
+## Religion (röm.-kath.)
+
+| # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
+|---|-------------|-------------|--------|-----------|
+| 1 | Wie gehts? | n/a | n/a | [Arbeitsblatt](Religion/01_WieGehts.pdf) |
+
 ## Englisch
 
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
