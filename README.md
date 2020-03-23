@@ -77,8 +77,8 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Arbeitsauftrag~~ | ~~Mo, 22.03.2020~~ | ~~n/a~~ | ~~[Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!)~~ |
-| 2 | ~~Hausübung~~ | ~~n/a~~ | ~~Mo, 22.03.2020~~ | ~~Buch Nummern: 4.70, 4.71, 4.72~~ |
-| 2 | Arbeitsauftrag | n/a | So, 29.03.2020 | [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf) & [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
+| 2 | ~~Hausübung~~ | ~~Mo, 22.03.2020~~ | ~~n/a~~ | ~~Buch Nummern: 4.70, 4.71, 4.72~~ |
+| 2 | Arbeitsauftrag |So, 29.03.2020 | n/a | [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf) & [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
 
 ## Deutsch
 
