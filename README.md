@@ -22,6 +22,8 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~CLIL task: Selects, Functions and more~~ | ~~Fr, 20.03.2020 18:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13939)~~ | ~~Datenbank & Informationen im [Theoriekurs (`Kompetenzbereich 1`)](https://elearn.htl-wels.at/course/view.php?id=334)<br>//CLEMENS: Es gibt zwei Files zum Importieren. Zuerst muss das Schema und dann das Data File importiert werden! Falls bei wem die zwei Dateien nicht über Moodle heruntergeladen werden kann, ist hier ein ZIP-File mit beiden SQL-Dateien: [database-sakila.zip](Datenbanken/database-sakila.zip)~~ |
+| 2 | Aufgaben (Nordwind): SQL GroupBy und Funktionen | Fr, 27.03.2020 17:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14088) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14086) |
+| 3 | CLIL task: union, intersect, difference | Fr, 27.03.2020 17:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081) |
 
 ## Geschichte
 
