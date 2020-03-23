@@ -84,7 +84,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| ~~1~~ | ~~Kommentar: "Fairplay im Sport" | Fr, 20.03.2020 23:59 Uhr | [Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf)~~ | |
+| ~~1~~ | ~~Kommentar: "Fairplay im Sport"~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~[Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf)~~ | |
 
 ## Medientechnik (LOIS)
 
