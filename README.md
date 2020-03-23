@@ -76,8 +76,9 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Arbeitsblatt | Mo, 23.03.2020 11:00 Uhr | n/a | [Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!) |
-| 2 | Hausübung | n/a | n/a | Buch Nummern: 4.70, 4.71, 4.72 |
+| ~~1~~ | ~~Arbeitsauftrag~~ | ~~Mo, 22.03.2020~~ | ~~n/a~~ | ~~[Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!)~~ |
+| 2 | ~~Hausübung~~ | ~~n/a~~ | ~~Mo, 22.03.2020~~ | ~~Buch Nummern: 4.70, 4.71, 4.72~~ |
+| 2 | Arbeitsauftrag | n/a | So, 29.03.2020 | [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf) & [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
 
 ## Deutsch
 
@@ -105,7 +106,7 @@
 
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|-------------|-------------|--------|-----------|
-| 1 | Wie gehts? | n/a | n/a | [Arbeitsblatt](Religion/01_WieGehts.pdf) |
+| 1 | Wie gehts? | n/a | n/a | [siehe Arbeitsblatt](Religion/01_WieGehts.pdf) |
 
 ## Englisch
 
