@@ -15,7 +15,7 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Literaturrecherche~~ | ~~Di, 17.03.2020 08:00 Uhr~~ | ~~Teams~~ | ~~Lies dir im C-Skriptum Seite 22+23 als Vorbereitung für Dienstag durch. Datei in Teams!~~ |
-| 2 | Aufgabe: 605_StringOps | Mo, 23.03.2020 | GitHub & Teams | [Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps) |
+| ~~2~~ | ~~Aufgabe: 605_StringOps~~ | ~~Mo, 23.03.2020~~ | ~~GitHub & Teams~~ | ~~[Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps)~~ |
 
 ## Datenbanken
 
@@ -62,8 +62,8 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Arbeitsauftrag | Mo, 23.03.2020 | Webdav | Lehrbuch Band 2, Seite 205 bis 208 (Kapitel 5.6):<br>Ihr lest euch diese Seiten bitte durch, rechnet die beiden Beispiele und arbeitet die drei Aufgaben durch! Bitte beachtet die etwas andere Notation im Vergleich zu meinem Vortrag (RN, VD, …)<br>Dies stellt eine Wiederholung der letzten drei Unterrichtseinheiten dar und ist ein kurzer kompakter Arbeitsauftrag! Ihr bekommt nächsten Montag einen Arbeitsauftrag der darauf aufbaut und eine Vorbereitung für den DAC darstellt. |
-| 2 | Arbeitsauftrag | Fr, 27.03.2020 | Webdav | [Aufgabenstellung](Elektrotechnik/Aufgabenstellung_SW29.pdf)  |
+| ~~1~~ | ~~Arbeitsauftrag~~ | ~~Mo, 23.03.2020~~ | ~~Webdav~~ | ~~Lehrbuch Band 2, Seite 205 bis 208 (Kapitel 5.6):<br>Ihr lest euch diese Seiten bitte durch, rechnet die beiden Beispiele und arbeitet die drei Aufgaben durch! Bitte beachtet die etwas andere Notation im Vergleich zu meinem Vortrag (RN, VD, …)<br>Dies stellt eine Wiederholung der letzten drei Unterrichtseinheiten dar und ist ein kurzer kompakter Arbeitsauftrag! Ihr bekommt nächsten Montag einen Arbeitsauftrag der darauf aufbaut und eine Vorbereitung für den DAC darstellt.~~ |
+| 2 | Arbeitsauftrag | Fr, 27.03.2020 | Webdav | [siehe Arbeitsauftrag](Elektrotechnik/Aufgabenstellung_SW29.pdf)  |
 
 ## Chemie
 
