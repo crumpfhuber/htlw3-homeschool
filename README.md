@@ -115,7 +115,7 @@
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|-------------|-------------|--------|-----------|
 | 1 | Wie gehts? (Freiwillig) | n/a | n/a | [siehe Arbeitsblatt](Religion/01_WieGehts.pdf) |
-| 1 | Wie gehts? (Freiwillig) | Mo, 30.03.2020 | E-Mail/WebUntis Chat | [Hartheim PDF](Religion/Hartheim.pdf) oder [Hartheim DOCX](Religion/Hartheim.docx) |
+| 1 | Hartheim | Mo, 30.03.2020 | E-Mail/WebUntis Chat | [Hartheim PDF](Religion/Hartheim.pdf) oder [Hartheim DOCX](Religion/Hartheim.docx) |
 
 ## Englisch
 
