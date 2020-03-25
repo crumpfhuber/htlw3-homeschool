@@ -83,9 +83,9 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| ~~1~~ | ~~Extremwertaufgaben~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~[Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!)~~ |
+| ~~1~~ | ~~Extremwertaufgaben~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~[Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!)~~ |
 | 2 | ~~Extremwertaufgaben Hausübung~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~Buch Nummern: 4.70, 4.71, 4.72~~ |
-| 3 | Differentialrechnung | Mo, 30.03.2020 | n/a | [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf) & [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
+| 3 | Differentialrechnung | Mo, 30.03.2020 | n/a | - [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf)<br>- [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
 | 4 | Extremwertaufgaben | Mo, 30.03.2020 | n/a | Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 |
 
 ## Deutsch
