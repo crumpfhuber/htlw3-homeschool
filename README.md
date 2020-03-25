@@ -49,7 +49,7 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | Wirtschaftstheorie | Do, 02.03.2020 | n/a | Eure Aufgabe:<br>1. Wirtschaftsnachrichten verfolgen!<br>2. Angehängte Texte lesen!<br>3. Maßnahmen der Bundesregierung auf Grundlage eures erworbenen Wissens bewerten!<br>4. Bewertungen und Wissen speichern!<br>Abgeben müsst ihr mir vorerst nichts, nächste Woche gibt es dann einen Auftrag, wo ihr das Wissen verwenden müsst.<br><br>Arbeitszetteln: [Markt Planwirtschaft Vergleich.pdf](Geographie/MarktPlanwirtschaftVergleich.pdf) [Konjunkturtheorien WIPOL](Geographie/KonjunkturtheorienWIPOL.pdf) |
+| 1 | Wirtschaftstheorie | Do, 02.03.2020 | n/a | Eure Aufgabe:<br>1. Wirtschaftsnachrichten verfolgen!<br>2. Angehängte Texte lesen!<br>3. Maßnahmen der Bundesregierung auf Grundlage eures erworbenen Wissens bewerten!<br>4. Bewertungen und Wissen speichern!<br>Abgeben müsst ihr mir vorerst nichts, nächste Woche gibt es dann einen Auftrag, wo ihr das Wissen verwenden müsst.<br><br>Arbeitszetteln: [Markt Planwirtschaft Vergleich.pdf](Geographie/MarktPlanwirtschaftVergleich.pdf & [Konjunkturtheorien WIPOL](Geographie/KonjunkturtheorienWIPOL.pdf) |
 
 ## Informationstechnische Projekte
 
