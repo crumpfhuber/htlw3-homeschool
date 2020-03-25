@@ -45,6 +45,12 @@
 | 5 | Arbeitsauftrag: Spiegel 5 | Fr, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
 | 6 | Arbeitsauftrag: Spiegel 6 | Fr, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
 
+## Geographie
+
+| #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
+|--------|---------------|-------------|--------|-----------|
+| 1 | Wirtschaftstheorie | Do, 02.03.2020 | n/a | Eure Aufgabe:<br>1. Wirtschaftsnachrichten verfolgen!<br>2. Angehängte Texte lesen!<br>3. Maßnahmen der Bundesregierung auf Grundlage eures erworbenen Wissens bewerten!<br>4. Bewertungen und Wissen speichern!<br>Abgeben müsst ihr mir vorerst nichts, nächste Woche gibt es dann einen Auftrag, wo ihr das Wissen verwenden müsst.<br><br>Arbeitszetteln: [Markt Planwirtschaft Vergleich.pdf](Geographie/MarktPlanwirtschaftVergleich.pdf) [Konjunkturtheorien WIPOL](Geographie/KonjunkturtheorienWIPOL.pdf) |
+
 ## Informationstechnische Projekte
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
