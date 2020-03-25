@@ -8,7 +8,7 @@
 | Do, 26.03.2020 | n/a |
 | Fr, 27.03.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Elektrotechnik `#2`<br>- Informationstechnische Projekte `#2`<br>- Geschichte `#2`<br>- Physik `#3`<br>- Physik `#4`<br>- Datenbanken `#2`<br>- Datenbanken `#3` |
 | Sa, 28.03.2020 | - Englisch `#4` |
-| So, 29.03.2020 | - Mathematik `#3` |
+| So, 29.03.2020 | n/a |
 
 ## Softwareentwicklung
 
@@ -83,9 +83,10 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| ~~1~~ | ~~Arbeitsauftrag~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~[Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!)~~ |
-| 2 | ~~Hausübung~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~Buch Nummern: 4.70, 4.71, 4.72~~ |
-| 2 | Arbeitsauftrag |So, 29.03.2020 | n/a | [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf) & [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
+| ~~1~~ | ~~Extremwertaufgaben~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~[Arbeitsblatt: Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!)~~ |
+| 2 | ~~Extremwertaufgaben Hausübung~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~Buch Nummern: 4.70, 4.71, 4.72~~ |
+| 3 | Differentialrechnung | Mo, 30.03.2020 | n/a | [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf) & [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
+| 4 | Extremwertaufgaben | Mo, 30.03.2020 | n/a | Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 |
 
 ## Deutsch
 
