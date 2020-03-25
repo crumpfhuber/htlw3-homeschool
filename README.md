@@ -98,9 +98,10 @@
 
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|-------------|-------------|--------|-----------|
-| 1 | Übung 4 | Mi, 25.03.2020 11:00 Uhr | Teams | [Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)<br>Es sollen Blautöne, wie in der Beispielgrafik zusehen, verwendet werden!<br>//CLEMENS: [https://www.php-kurs.com/arrays-mehrdimensional.htm](https://www.php-kurs.com/arrays-mehrdimensional.htm)  |
-| 2 | Übung 2 | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf) |
-| 3 | Übung 3 | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
+| 1 | Übung 4 - Terminkalender | Mi, 25.03.2020 11:00 Uhr | Teams | [Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)<br>Es sollen Blautöne, wie in der Beispielgrafik zusehen, verwendet werden!<br>//CLEMENS: [https://www.php-kurs.com/arrays-mehrdimensional.htm](https://www.php-kurs.com/arrays-mehrdimensional.htm)  |
+| 2 | Übung 2 - Konstanten | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf) |
+| 3 | Übung 3 - Preisberechnung | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
+| 4 | Übung 5 - Taschenrechner | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 5](Medientechnik/UE5_Taschenrechner.php) |
 
 ## Medientechnik (HELT)
 
