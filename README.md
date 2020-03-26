@@ -11,6 +11,9 @@
 | So, 29.03.2020 | n/a |
 
 ## Wochenübersicht 3 (30.03. bis 05.04.2020)
+
+| Datum | Beschreibung |
+|---|---|
 | Mo, 30.03.2020 | - Softwareentwicklung `#3` |
 | Di, 31.03.2020 | n/a |
 | Mi, 01.04.2020 | n/a |
