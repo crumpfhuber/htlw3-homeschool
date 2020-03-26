@@ -18,7 +18,7 @@
 | Di, 31.03.2020 | n/a |
 | Mi, 01.04.2020 | n/a |
 | Do, 02.04.2020 | n/a |
-| Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6` |
+| Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte `#3`<br>- Chemie `#1`<br>- Chemie `#2` |
 | Sa, 04.04.2020 | n/a |
 | So, 05.04.2020 | n/a |
 
