@@ -6,7 +6,7 @@
 | Di, 24.03.2020 | - Softwareentwicklung Unterricht: 09:40 Uhr<br>- Medientechnik (HELT) `#1` |
 | Mi, 25.03.2020 | - Medientechnik (LOIS) `#1`<br>- Medientechnik (LOIS) `#2`<br>- Medientechnik (LOIS) `#3`<br>- Medientechnik (HELT) Unterricht: 10:45 Uhr |
 | Do, 26.03.2020 | - Betriebssysteme Unterricht: 09:00 Uhr |
-| Fr, 27.03.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Elektrotechnik `#2`<br>- Informationstechnische Projekte `#2`<br>- Geschichte `#2`<br>- Physik `#3`<br>- Physik `#4`<br>- Datenbanken `#2`<br>- Datenbanken `#3` |
+| Fr, 27.03.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Elektrotechnik `#2`<br>- Informationstechnische Projekte (WIDM)`#2`<br>- Geschichte `#2`<br>- Physik `#3`<br>- Physik `#4`<br>- Datenbanken `#2`<br>- Datenbanken `#3` |
 | Sa, 28.03.2020 | - Englisch `#4` |
 | So, 29.03.2020 | n/a |
 
@@ -63,7 +63,7 @@
 |--------|---------------|-------------|--------|-----------|
 | 1 | Wirtschaftstheorie | Do, 02.04.2020 | n/a | Eure Aufgabe:<br>1. Wirtschaftsnachrichten verfolgen!<br>2. Angehängte Texte lesen!<br>3. Maßnahmen der Bundesregierung auf Grundlage eures erworbenen Wissens bewerten!<br>4. Bewertungen und Wissen speichern!<br><br>Abgeben müsst ihr mir vorerst nichts, nächste Woche gibt es dann einen Auftrag, wo ihr das Wissen verwenden müsst.<br><br>Arbeitszetteln:<br>- [Markt- & Planwirtschaft Vergleich](Geographie/MarktPlanwirtschaftVergleich.pdf)<br>- [Konjunkturtheorien WIPOL](Geographie/KonjunkturtheorienWIPOL.pdf) |
 
-## Informationstechnische Projekte
+## Informationstechnische Projekte (WIDM)
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
@@ -114,9 +114,9 @@ Musterlösungen von Prof. Springer
 
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|-------------|-------------|--------|-----------|
-| 1 | Übung 4 - Terminkalender | Mi, 25.03.2020 11:00 Uhr | Teams | [Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)<br>Es sollen Blautöne, wie in der Beispielgrafik zusehen, verwendet werden!<br>//CLEMENS: [https://www.php-kurs.com/arrays-mehrdimensional.htm](https://www.php-kurs.com/arrays-mehrdimensional.htm)  |
-| 2 | Übung 2 - Konstanten | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf) |
-| 3 | Übung 3 - Preisberechnung | Mi, 25.03.2020 23:59 Uhr | Teams | [Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf) |
+| 1 | ~~Übung 4 - Terminkalender~~ | ~~Mi, 25.03.2020 11:00 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)<br>Es sollen Blautöne, wie in der Beispielgrafik zusehen, verwendet werden!<br>//CLEMENS: [https://www.php-kurs.com/arrays-mehrdimensional.htm](https://www.php-kurs.com/arrays-mehrdimensional.htm)~~  |
+| ~~2~~ | ~~Übung 2 - Konstanten~~ | ~~Mi, 25.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf)~~ |
+| ~~3~~ | ~~Übung 3 - Preisberechnung~~ | ~~Mi, 25.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf)~~ |
 | 4 | Übung 5 - Taschenrechner | Mi, 22.04.2020 23:59 Uhr | Teams | [Angabe: Übung 5](Medientechnik/UE5_Taschenrechner.md) |
 
 ## Medientechnik (HELT)
