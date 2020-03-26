@@ -5,7 +5,7 @@
 | Mo, 23.03.2020 | - Elektrotechnik `#1`<br>- Softwareentwicklung `#2` |
 | Di, 24.03.2020 | - Softwareentwicklung Unterricht: 09:40 Uhr<br>- Medientechnik (HELT) `#1` |
 | Mi, 25.03.2020 | - Medientechnik (LOIS) `#1`<br>- Medientechnik (LOIS) `#2`<br>- Medientechnik (LOIS) `#3`<br>- Medientechnik (HELT) Unterricht: 10:45 Uhr |
-| Do, 26.03.2020 | - Systemtechnik Unterricht: 09:00 Uhr |
+| Do, 26.03.2020 | - Betriebssysteme Unterricht: 09:00 Uhr |
 | Fr, 27.03.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Elektrotechnik `#2`<br>- Informationstechnische Projekte `#2`<br>- Geschichte `#2`<br>- Physik `#3`<br>- Physik `#4`<br>- Datenbanken `#2`<br>- Datenbanken `#3` |
 | Sa, 28.03.2020 | - Englisch `#4` |
 | So, 29.03.2020 | n/a |
@@ -64,6 +64,7 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | 1 | Bootprozess unter Linux - Grub | n/a | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
+| 2 | Linux Mount / fstab | n/a | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14138) | |
 
 ## Elektrotechnik
 
