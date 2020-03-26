@@ -14,7 +14,7 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 30.03.2020 | - Softwareentwicklung `#3`<br>- Mathematik `#3`<br>- Mathematik `#4` |
+| Mo, 30.03.2020 | - Softwareentwicklung `#3`<br>- Mathematik `#3`<br>- Mathematik `#4`<br>- Religion (röm.-kath.) `#2` |
 | Di, 31.03.2020 | n/a |
 | Mi, 01.04.2020 | n/a |
 | Do, 02.04.2020 | - Geographie `#1` |
