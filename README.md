@@ -10,6 +10,25 @@
 | Sa, 28.03.2020 | - Englisch `#4` |
 | So, 29.03.2020 | n/a |
 
+## Wochenübersicht 3 (30.03. bis 05.04.2020)
+| Mo, 30.03.2020 | - Softwareentwicklung `#3` |
+| Di, 31.03.2020 | n/a |
+| Mi, 01.04.2020 | n/a |
+| Do, 02.04.2020 | n/a |
+| Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6` |
+| Sa, 04.04.2020 | n/a |
+| So, 05.04.2020 | n/a |
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 23.03.2020 | - Elektrotechnik `#1`<br>- Softwareentwicklung `#2` |
+| Di, 24.03.2020 | - Softwareentwicklung Unterricht: 09:40 Uhr<br>- Medientechnik (HELT) `#1` |
+| Mi, 25.03.2020 | - Medientechnik (LOIS) `#1`<br>- Medientechnik (LOIS) `#2`<br>- Medientechnik (LOIS) `#3`<br>- Medientechnik (HELT) Unterricht: 10:45 Uhr |
+| Do, 26.03.2020 | - Betriebssysteme Unterricht: 09:00 Uhr |
+| Fr, 27.03.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Elektrotechnik `#2`<br>- Informationstechnische Projekte `#2`<br>- Geschichte `#2`<br>- Physik `#3`<br>- Physik `#4`<br>- Datenbanken `#2`<br>- Datenbanken `#3` |
+| Sa, 28.03.2020 | - Englisch `#4` |
+| So, 29.03.2020 | n/a |
+
 ## Softwareentwicklung
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
