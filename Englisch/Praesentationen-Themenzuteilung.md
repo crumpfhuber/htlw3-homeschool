@@ -9,3 +9,4 @@
 | Schmitsberger Christoph, Schmidt Tobias | Environmental Impact of the Internet |
 | Rumpfhuber Clemens, Friedl David | Hydropower |
 | Kadir Demir, Kristmann Lukas | Nuclear Energy |
+| Gegenleitner Alexander | Fusion Energy |
