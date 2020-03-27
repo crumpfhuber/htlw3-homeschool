@@ -22,8 +22,6 @@
 | Sa, 04.04.2020 | n/a |
 | So, 05.04.2020 | n/a |
 
-<br>***
-
 ## Softwareentwicklung
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
