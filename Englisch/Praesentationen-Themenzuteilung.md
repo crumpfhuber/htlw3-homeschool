@@ -11,3 +11,4 @@
 | Kadir Demir, Kristmann Lukas | Nuclear Energy |
 | Gegenleitner Alexander | Fusion Energy |
 | Modl Simon | Biomass & Biogas |
+| Dragicevic Leon | Oil |
