@@ -1,6 +1,6 @@
 ## Englisch Präsentationen: Themenzuteilung
 
-| Team    | Topic      |
+| Mitglieder | Thema |
 |---------|------------|
 | Erk Melvin, Mach Vincent | Hydraulic Fracturing - Fracking |
 | Serifi Argjent, Hyseni Valon | Solar Panles |
