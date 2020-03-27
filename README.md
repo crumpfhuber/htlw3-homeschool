@@ -22,6 +22,8 @@
 | Sa, 04.04.2020 | n/a |
 | So, 05.04.2020 | n/a |
 
+<br>***
+
 ## Softwareentwicklung
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
@@ -101,7 +103,7 @@
 | 3 | Differentialrechnung | Mo, 30.03.2020 | n/a | - [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf)<br>- [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
 | 4 | Extremwertaufgaben | Mo, 30.03.2020 | n/a | Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 |
 
-Musterlösungen von Prof. Springer<br>
+Musterlösungen von Prof. Springer
 - 4.72c: [Extremwertaufgaben Kanalquerschnitt (Mathcad)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [Extremwertaufgaben Kanalquerschnitt (PDF)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
 
 ## Deutsch
@@ -141,12 +143,16 @@ Musterlösungen von Prof. Springer<br>
 |---|---|---|---|---|
 | ~~1~~ | ~~Writing Task: Comment (Article with the weired Ideas)~~ | ~~Mo, 16.03.2020~~ | ~~E-Mail~~ | ~~Buch Seite 65 Aufgabe 6<br> - Es sollen Phrasen von Seite 123 eingebaut werden. <br> - 230 Wörter<br> - Word Datei via E-Mail senden. Keine PDF!~~ |
 | ~~2~~ | ~~Grammar: If-Clauses~~  | ~~n/a~~ | ~~n/a~~ | ~~Buch Seite 115/116 Aufgabe 2~~ |
-| ~~3~~ | ~~Writing Task: Comment~~ | ~~Sa, 21.03.2020~~ | ~~E-Mail~~ | ~~Buch Seite 67/68 Aufgabe 3~~ |
-| 4 | Writing Task: Leaflet | Sa, 28.03.2020 | E-Mail | - [Leaflet: Step by Step](Englisch/Leaflet_StepbyStep.pdf)<br> - [7 Steps to a Leaflet](Englisch/Steps_to_Leaflet.pdf)<br> |
+| ~~3~~ | ~~Writing Task: Comment (The End of the Civilization we know it)~~ | ~~Sa, 21.03.2020~~ | ~~E-Mail~~ | ~~Buch Seite 67/68 Aufgabe 3<br>take 6 linking devices and form sentences and questions on kinds of pollution, viruses, forms of generating electricity.~~ |
+| 4 | Writing Task: Leaflet | Sa, 28.03.2020 | E-Mail | - [Leaflet: Step by Step](Englisch/Leaflet_StepbyStep.pdf)<br> - [7 Steps to a Leaflet](Englisch/Steps_to_Leaflet.pdf)<br>Write one Leaflet from the Sheets |
 | 5 | Writing Task: Own Leaflet | Mo, 06.04.2020 | E-Mail | Beispiel: Schulband, Sportwoche, Sprachwoche, Schulausflug, etc. |
 | 6 | Presentation: Alternative and fossil Energy form | n/a | E-Mail | - [siehe Themenzuteilung](Englisch/Praesentationen-Themenzuteilung.md)<br>- [siehe E-Mail über Präsentationen](Englisch/Praesentationen-Email.md) |
+| 7 | Tasks: The future is green | n/a | n/a | 1.	do p 76/ add the depiction of the development, what you assume the places look like in the 4 seasons, they will look like at the turn of the century or even before it..<br>Write a short descriptions /depictions (Darstellung) of these places what do (or: did) they look like (on posters) - for future young people to learn about former times? use 3 if-clauses.<br><br>2.	Do research on the growth and the retreat of the European glaciers over millions of years. students who have not sent yet any homework to me, write that and send it. while the ambitious students write hints - Stichwörter) I'll listen to them in April or at the beginning of May? |
+| 8 | Random Thoughts of a Computer Nerd | n/a | n/a | read the computer nerd's thoughts about climate change. Do ex 5 on p. 78. write the words like a proven fact; write the ideas of the 3 students on the reality of Climate Change. |
+| 9 | Writing Task: Your opinion about climate change | Di, 31.03.2020 | E-Mail | do P 78/ ex 6 - write a short text on the 3 questions. |
+| 10 | Writing Task: Your opinion about climate change | n/a | n/a | Read and practise explaining the diagram on  p77, do exercise 2<br>write the words with their German equivalents of pp 76, 77 |
 
-Zusätzliche Arbeitszetteln:<br>
+Zusätzliche Arbeitszetteln:
 - [Gerund or Infinitive Constructions](Englisch/Gerund_Infinitive_Constructions.pdf)<br>
 - [Infinitive or Gerund thats the Question](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)<br>
 - [Revision: Article, Report, Blog Comment, Email, Letter, Leaflet](Englisch/Revision_Text.pdf)<br>
