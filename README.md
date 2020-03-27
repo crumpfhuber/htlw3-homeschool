@@ -101,7 +101,7 @@
 | 3 | Differentialrechnung | Mo, 30.03.2020 | n/a | - [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf)<br>- [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
 | 4 | Extremwertaufgaben | Mo, 30.03.2020 | n/a | Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 |
 
-Musterlösungen von Prof. Springer
+Musterlösungen von Prof. Springer<br>
 - 4.72c: [Extremwertaufgaben Kanalquerschnitt (Mathcad)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [Extremwertaufgaben Kanalquerschnitt (PDF)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
 
 ## Deutsch
@@ -147,6 +147,6 @@ Musterlösungen von Prof. Springer
 | 6 | Presentation: Alternative and fossil Energy form | n/a | E-Mail | - [siehe Themenzuteilung](Englisch/Praesentationen-Themenzuteilung.md)<br>- [siehe E-Mail über Präsentationen](Englisch/Praesentationen-Email.md) |
 
 Zusätzliche Arbeitszetteln:
-- [Gerund or Infinitive Constructions](Englisch/Gerund_Infinitive_Constructions.pdf)
-- [Infinitive or Gerund thats the Question](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)
-- [Revision: Article, Report, Blog Comment, Email, Letter, Leaflet](Englisch/Revision_Text.pdf)
+- [Gerund or Infinitive Constructions](Englisch/Gerund_Infinitive_Constructions.pdf)<br>
+- [Infinitive or Gerund thats the Question](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)<br>
+- [Revision: Article, Report, Blog Comment, Email, Letter, Leaflet](Englisch/Revision_Text.pdf)<br>
