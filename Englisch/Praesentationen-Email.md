@@ -39,5 +39,9 @@ if a student make this presentation by himself then I can be sure that I grade h
 
 Discuss who will take which topic.
 
-You can also take climate change – how to combat it, further energy saving buildings (also of companies) – old form is the passive house – pp 84-85, clean cars, planes - besides the forms of pollution and forms of energy.
+You can also take climate change – how to combat it
+
+further energy saving buildings (also of companies)
+old form is the passive house – pp 84-85, clean cars, planes
+besides the forms of pollution and forms of energy.
 ```
