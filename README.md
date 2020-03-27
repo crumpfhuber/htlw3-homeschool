@@ -10,7 +10,6 @@
 | Sa, 28.03.2020 | - Englisch `#4` |
 | So, 29.03.2020 | n/a |
 
-
 ## Wochenübersicht 3 (30.03. bis 05.04.2020)
 
 | Datum | Beschreibung |
