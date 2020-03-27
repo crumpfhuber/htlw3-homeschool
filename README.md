@@ -18,7 +18,7 @@
 | Di, 31.03.2020 | n/a |
 | Mi, 01.04.2020 | n/a |
 | Do, 02.04.2020 | - Geographie `#1` |
-| Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2` |
+| Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4` |
 | Sa, 04.04.2020 | n/a |
 | So, 05.04.2020 | n/a |
 
@@ -126,6 +126,7 @@ Musterlösungen von Prof. Springer
 | ~~1~~ | ~~Filmprojekt: 50 Jahre HTL-Wels - Ideefindung~~ | ~~Di, 24.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 | 2 | Filmprojekt: 50 Jahre HTL-Wels - Drehbuch | Di, 14.04.2020 23:59 Uhr | Teams | Infos in Teams |
 | 3 | Filmprojekt - "Corona 2020" | Mi, 27.05.2020 23:59 Uhr | Teams | Infos in Teams |
+| 4 | Filmprojekt "Corona" - Exposé | Fr, 03.04.2020 23:59 Uhr | Teams | Infos in Teams |
 
 ## Religion (röm.-kath.)
 
