@@ -7,3 +7,4 @@
 | Pramberger Manuel | Geotermal Energie |
 | Kronberger Andreas, Lattner Simon | Offshore Windfarms |
 | Schmitsberger Christoph, Schmidt Tobias | Environmental Impact of the Internet |
+| Rumpfhuber Clemens, Friedl David | Hydropower |
