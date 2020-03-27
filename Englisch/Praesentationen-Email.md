@@ -34,4 +34,10 @@ what could be done to recover it /them - by governments, EU, companies,  individ
 I was sure that I allowed that you do bigger presentations together - as pairs.
 
 if a student make this presentation by himself then I can be sure that I grade his achievement and not his partner's one.
+
+//EDIT: 27.03.2020 18:15
+
+Discuss who will take which topic.
+
+You can also take climate change – how to combat it, further energy saving buildings (also of companies) – old form is the passive house – pp 84-85, clean cars, planes - besides the forms of pollution and forms of energy.
 ```
