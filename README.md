@@ -35,15 +35,15 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~CLIL task: Selects, Functions and more~~ | ~~Fr, 20.03.2020 18:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13939)~~ | ~~Datenbank & Informationen im [Theoriekurs (`Kompetenzbereich 1`)](https://elearn.htl-wels.at/course/view.php?id=334)<br>//CLEMENS: Es gibt zwei Files zum Importieren. Zuerst muss das Schema und dann das Data File importiert werden! Falls bei wem die zwei Dateien nicht über Moodle heruntergeladen werden kann, ist hier ein ZIP-File mit beiden SQL-Dateien: [database-sakila.zip](Datenbanken/database-sakila.zip)~~ |
-| 2 | Aufgaben (Nordwind): SQL GroupBy und Funktionen | Fr, 27.03.2020 17:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14088) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14086)<br>SQL File: [database-nordwind.sql](Datenbanken/database-nordwind.sql) |
-| 3 | CLIL task: union, intersect, difference | Fr, 27.03.2020 17:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua) |
+| ~~2~~ | ~~Aufgaben (Nordwind): SQL GroupBy und Funktionen~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14088) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14086)<br>SQL File: [database-nordwind.sql](Datenbanken/database-nordwind.sql)~~ |
+| ~~3~~ | ~~CLIL task: union, intersect, difference~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua)~~ |
 
 ## Geschichte
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Gruppeneinteilung~~ | ~~Fr, 20.03.2020~~ | ~~WebUntis Chat/E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Teilt euch in sechs 4er Gruppen ein<br> - Jede Gruppe ladet eine Liste mit den Namen der Gruppenmitglieder hoch<br> - Von CLAK wird Feedback zur eurer Bildanalyse über die Karikatur des Wiener Kongresses übermittelt~~ |
-| 2 | Bildanalyse | Fr, 27.03.2020 | E-Mail | [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) & [Karikatur](Geschichte/Industrielle_Revolution_Karikatur.pdf)<br> - Ausformulierte Bildanalyse über die Karikatur zur Industriellen Revolution (siehe Handout)<br> - Dokument (Klasse_Nachnamen) in mein Abgabeverzeichnis hochladen | 
+| ~~2~~ | ~~Bildanalyse~~ | ~~Fr, 27.03.2020~~ | ~~E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) & [Karikatur](Geschichte/Industrielle_Revolution_Karikatur.pdf)<br> - Ausformulierte Bildanalyse über die Karikatur zur Industriellen Revolution (siehe Handout)<br> - Dokument (Klasse_Nachnamen) in mein Abgabeverzeichnis hochladen~~ | 
 | 3 | Lesen & Unterstreichen | Mi, 15.04.2020 | n/a| [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden |
 
 ## Physik
@@ -52,8 +52,8 @@
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Arbeitsauftrag: Spiegel 1~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
 | ~~2~~ | ~~Arbeitsauftrag: Spiegel 2~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
-| 3 | Arbeitsauftrag: Spiegel 3 | Fr, 27.03.2020 23:59 Uhr | Teams | Datei in Teams! |
-| 4 | Arbeitsauftrag: Spiegel 4 | Fr, 27.03.2020 23:59 Uhr | Teams | Datei in Teams! |
+| ~~3~~ | ~~Arbeitsauftrag: Spiegel 3~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
+| ~~4~~ | ~~Arbeitsauftrag: Spiegel 4~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
 | 5 | Arbeitsauftrag: Spiegel 5 | Fr, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
 | 6 | Arbeitsauftrag: Spiegel 6 | Fr, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
 
@@ -68,7 +68,7 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Analyse~~ | ~~Fr, 20.03.2020 22:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13751)~~ | |
-| 2 | Design (Zwischenabgabe) | Fr, 27.03.2020 22:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13852) | Um sicher zu stellen, dass der Projektfortschritt gegeben ist, ersuche ich euch um eine Zwischenabgabe des Design-Dokuments. Es muss NICHT fertig sein. |
+| ~~2~~ | ~~Design (Zwischenabgabe)~~ | ~~Fr, 27.03.2020 22:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13852) | Um sicher zu stellen, dass der Projektfortschritt gegeben ist, ersuche ich euch um eine Zwischenabgabe des Design-Dokuments. Es muss NICHT fertig sein.~~ |
 | 3 | Design (Final) | Fr, 03.04.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13849) | |
 
 ## Betriebssysteme
@@ -76,14 +76,14 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | 1 | Bootprozess unter Linux - Grub | n/a | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
-| 2 | Linux Mount / fstab | n/a | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14138) | |
+| ~~2~~ | ~~Linux Mount / fstab~~ | ~~n/a~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14138)~~ | |
 
 ## Elektrotechnik
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Arbeitsauftrag~~ | ~~Mo, 23.03.2020~~ | ~~Webdav~~ | ~~Lehrbuch Band 2, Seite 205 bis 208 (Kapitel 5.6):<br>Ihr lest euch diese Seiten bitte durch, rechnet die beiden Beispiele und arbeitet die drei Aufgaben durch! Bitte beachtet die etwas andere Notation im Vergleich zu meinem Vortrag (RN, VD, …)<br>Dies stellt eine Wiederholung der letzten drei Unterrichtseinheiten dar und ist ein kurzer kompakter Arbeitsauftrag! Ihr bekommt nächsten Montag einen Arbeitsauftrag der darauf aufbaut und eine Vorbereitung für den DAC darstellt.~~ |
-| 2 | Arbeitsauftrag | Fr, 27.03.2020 | Webdav | [siehe Arbeitsauftrag](Elektrotechnik/Aufgabenstellung_SW29.pdf)  |
+| ~~2~~ | ~~Arbeitsauftrag~~ | ~~Fr, 27.03.2020~~ | ~~Webdav~~ | ~~[siehe Arbeitsauftrag](Elektrotechnik/Aufgabenstellung_SW29.pdf)~~  |
 
 ## Chemie
 
