@@ -14,8 +14,8 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 30.03.2020 | - Softwareentwicklung `#3`<br>- Mathematik `#3`<br>- Mathematik `#4`<br>- Religion (röm.-kath.) `#2` |
-| Di, 31.03.2020 | n/a |
+| Mo, 30.03.2020 | - Softwareentwicklung `#3`<br>- Mathematik `#3`<br>- Mathematik `#4`<br>- Religion (röm.-kath.) `#2`<br>- Englisch `#10` |
+| Di, 31.03.2020 | - Englisch `#9` |
 | Mi, 01.04.2020 | n/a |
 | Do, 02.04.2020 | - Geographie `#1` |
 | Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4` |
@@ -37,6 +37,7 @@
 | ~~1~~ | ~~CLIL task: Selects, Functions and more~~ | ~~Fr, 20.03.2020 18:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13939)~~ | ~~Datenbank & Informationen im [Theoriekurs (`Kompetenzbereich 1`)](https://elearn.htl-wels.at/course/view.php?id=334)<br>//CLEMENS: Es gibt zwei Files zum Importieren. Zuerst muss das Schema und dann das Data File importiert werden! Falls bei wem die zwei Dateien nicht über Moodle heruntergeladen werden kann, ist hier ein ZIP-File mit beiden SQL-Dateien: [database-sakila.zip](Datenbanken/database-sakila.zip)~~ |
 | ~~2~~ | ~~Aufgaben (Nordwind): SQL GroupBy und Funktionen~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14088)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14086)<br>SQL File: [database-nordwind.sql](Datenbanken/database-nordwind.sql)~~ |
 | ~~3~~ | ~~CLIL task: union, intersect, difference~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087)~~ | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua)~~ |
+| 4 | Video zu Join | n/a | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=334) |
 
 ## Geschichte
 
@@ -143,7 +144,7 @@ Musterlösungen von Prof. Springer
 | ~~2~~ | ~~Grammar: If-Clauses~~  | ~~n/a~~ | ~~n/a~~ | ~~Buch Seite 115/116 Aufgabe 2~~ |
 | ~~3~~ | ~~Writing Task: Comment (The End of the Civilization we know it)~~ | ~~Sa, 21.03.2020~~ | ~~E-Mail~~ | ~~Buch Seite 67/68 Aufgabe 3<br>take 6 linking devices and form sentences and questions on kinds of pollution, viruses, forms of generating electricity.~~ |
 | 4 | Writing Task: Leaflet | Sa, 28.03.2020 | E-Mail | - [Leaflet: Step by Step](Englisch/Leaflet_StepbyStep.pdf)<br> - [7 Steps to a Leaflet](Englisch/Steps_to_Leaflet.pdf)<br>Write one Leaflet from the Sheets |
-| 5 | Writing Task: Own Leaflet | Mo, 06.04.2020 | E-Mail | Beispiel: Schulband, Sportwoche, Sprachwoche, Schulausflug, etc. |
+| 5 | Writing Task: Own Leaflet | Mo, 06.04.2020 | E-Mail | Beispiel: Sportwoche, Sprachwoche, Schulausflug, etc. |
 | 6 | Presentation: Alternative and fossil Energy form | n/a | E-Mail | - [siehe Themenzuteilung](Englisch/Praesentationen-Themenzuteilung.md)<br>- [siehe E-Mail über Präsentationen](Englisch/Praesentationen-Email.md) |
 | 7 | Tasks: The future is green | n/a | n/a | 1.	do p 76/ add the depiction of the development, what you assume the places look like in the 4 seasons, they will look like at the turn of the century or even before it..<br>Write a short descriptions /depictions (Darstellung) of these places what do (or: did) they look like (on posters) - for future young people to learn about former times? use 3 if-clauses.<br><br>2.	Do research on the growth and the retreat of the European glaciers over millions of years. students who have not sent yet any homework to me, write that and send it. while the ambitious students write hints - Stichwörter)<br><br>I'll listen to them in April or at the beginning of May? |
 | 8 | Random Thoughts of a Computer Nerd | n/a | n/a | read the computer nerd's thoughts about climate change. Do ex 5 on p. 78. write the words like a proven fact; write the ideas of the 3 students on the reality of Climate Change. |
