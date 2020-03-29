@@ -1,24 +1,12 @@
-## Wochenübersicht 2 (23.03. bis 29.03.2020)
-
-| Datum | Beschreibung |
-|---|---|
-| Mo, 23.03.2020 | - Elektrotechnik `#1`<br>- Softwareentwicklung `#2` |
-| Di, 24.03.2020 | - Softwareentwicklung Unterricht: 09:40 Uhr<br>- Medientechnik (HELT) `#1` |
-| Mi, 25.03.2020 | - Medientechnik (LOIS) `#1`<br>- Medientechnik (LOIS) `#2`<br>- Medientechnik (LOIS) `#3`<br>- Medientechnik (HELT) Unterricht: 10:45 Uhr |
-| Do, 26.03.2020 | - Betriebssysteme Unterricht: 09:00 Uhr |
-| Fr, 27.03.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Betriebssysteme Unterricht: 11:00 Uhr<br>- Elektrotechnik `#2`<br>- Informationstechnische Projekte (WIDM)`#2`<br>- Geschichte `#2`<br>- Physik `#3`<br>- Physik `#4`<br>- Datenbanken `#2`<br>- Datenbanken `#3` |
-| Sa, 28.03.2020 | - Englisch `#4` |
-| So, 29.03.2020 | n/a |
-
 ## Wochenübersicht 3 (30.03. bis 05.04.2020)
 
 | Datum | Beschreibung |
 |---|---|
 | Mo, 30.03.2020 | - Softwareentwicklung `#3`<br>- Mathematik `#3`<br>- Mathematik `#4`<br>- Religion (röm.-kath.) `#2`<br>- Englisch `#10` |
-| Di, 31.03.2020 | - Englisch `#9` |
+| Di, 31.03.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Englisch `#9` |
 | Mi, 01.04.2020 | n/a |
 | Do, 02.04.2020 | - Geographie `#1` |
-| Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4` |
+| Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4`<br>- Englisch `#11` |
 | Sa, 04.04.2020 | n/a |
 | So, 05.04.2020 | n/a |
 
@@ -143,15 +131,17 @@ Musterlösungen von Prof. Springer
 | ~~1~~ | ~~Writing Task: Comment (Article with the weired Ideas)~~ | ~~Mo, 16.03.2020~~ | ~~E-Mail~~ | ~~Buch Seite 65 Aufgabe 6<br> - Es sollen Phrasen von Seite 123 eingebaut werden. <br> - 230 Wörter<br> - Word Datei via E-Mail senden. Keine PDF!~~ |
 | ~~2~~ | ~~Grammar: If-Clauses~~  | ~~n/a~~ | ~~n/a~~ | ~~Buch Seite 115/116 Aufgabe 2~~ |
 | ~~3~~ | ~~Writing Task: Comment (The End of the Civilization we know it)~~ | ~~Sa, 21.03.2020~~ | ~~E-Mail~~ | ~~Buch Seite 67/68 Aufgabe 3<br>take 6 linking devices and form sentences and questions on kinds of pollution, viruses, forms of generating electricity.~~ |
-| 4 | Writing Task: Leaflet | Sa, 28.03.2020 | E-Mail | - [Leaflet: Step by Step](Englisch/Leaflet_StepbyStep.pdf)<br> - [7 Steps to a Leaflet](Englisch/Steps_to_Leaflet.pdf)<br>Write one Leaflet from the Sheets |
+| ~~4~~ | ~~Writing Task: Leaflet~~ | ~~Sa, 28.03.2020~~ | ~~E-Mail~~ | ~~- [Leaflet: Step by Step](Englisch/Leaflet_StepbyStep.pdf)<br> - [7 Steps to a Leaflet](Englisch/Steps_to_Leaflet.pdf)<br>Write one Leaflet from the Sheets~~ |
 | 5 | Writing Task: Own Leaflet | Mo, 06.04.2020 | E-Mail | Beispiel: Sportwoche, Sprachwoche, Schulausflug, etc. |
 | 6 | Presentation: Alternative and fossil Energy form | n/a | E-Mail | - [siehe Themenzuteilung](Englisch/Praesentationen-Themenzuteilung.md)<br>- [siehe E-Mail über Präsentationen](Englisch/Praesentationen-Email.md) |
 | 7 | Tasks: The future is green | n/a | n/a | 1.	do p 76/ add the depiction of the development, what you assume the places look like in the 4 seasons, they will look like at the turn of the century or even before it..<br>Write a short descriptions /depictions (Darstellung) of these places what do (or: did) they look like (on posters) - for future young people to learn about former times? use 3 if-clauses.<br><br>2.	Do research on the growth and the retreat of the European glaciers over millions of years. students who have not sent yet any homework to me, write that and send it. while the ambitious students write hints - Stichwörter)<br><br>I'll listen to them in April or at the beginning of May? |
 | 8 | Random Thoughts of a Computer Nerd | n/a | n/a | read the computer nerd's thoughts about climate change. Do ex 5 on p. 78. write the words like a proven fact; write the ideas of the 3 students on the reality of Climate Change. |
 | 9 | Writing Task: Your opinion about climate change | Di, 31.03.2020 | E-Mail | do P 78/ ex 6 - write a short text on the 3 questions. |
 | 10 | The Greenhouse effect | Mo, 30.03.2020 | n/a | Read and practise explaining the diagram on  p77, do exercise 2<br>write the words with their German equivalents of pp 76, 77 |
+| 11 | Grammar: Gerund or Infinitive | Fr, 03.04.2020 | E-Mail | [Quiz: Gerund or Infinitive](Englisch/Quiz_Gerund_or_Infinitive.pdf) |
 
 Zusätzliche Arbeitszetteln:
 - [Gerund or Infinitive Constructions](Englisch/Gerund_Infinitive_Constructions.pdf)<br>
 - [Infinitive or Gerund thats the Question](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)<br>
 - [Revision: Article, Report, Blog Comment, Email, Letter, Leaflet](Englisch/Revision_Text.pdf)<br>
+- [Leaflet Example: Adventure Travel](Englisch/Leaflet_Adventure_Travel.pdf)<br>
