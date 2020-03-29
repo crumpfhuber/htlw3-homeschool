@@ -2,7 +2,7 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 30.03.2020 | - Softwareentwicklung `#3`<br>- Mathematik `#3`<br>- Mathematik `#4`<br>- Religion (röm.-kath.) `#2`<br>- Englisch `#10` |
+| Mo, 30.03.2020 | - Softwareentwicklung `#3`<br>- Mathematik `#3`<br>- Religion (röm.-kath.) `#2`<br>- Englisch `#10` |
 | Di, 31.03.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Englisch `#9` |
 | Mi, 01.04.2020 | n/a |
 | Do, 02.04.2020 | - Geographie `#1` |
@@ -88,7 +88,7 @@
 | ~~1~~ | ~~Extremwertaufgaben~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~[Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!)~~ |
 | ~~2~~ | ~~Extremwertaufgaben Hausübung~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~Buch Nummern: 4.70, 4.71, 4.72~~ |
 | 3 | Differentialrechnung | Mo, 30.03.2020 | n/a | - [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf)<br>- [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
-| 4 | Extremwertaufgaben | Mo, 30.03.2020 | n/a | Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 |
+| 4 | Extremwertaufgaben | n/a | n/a | Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 (SA Übungen!) |
 
 Musterlösungen von Prof. Springer
 - 4.72c: [Extremwertaufgaben Kanalquerschnitt (Mathcad)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [Extremwertaufgaben Kanalquerschnitt (PDF)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
