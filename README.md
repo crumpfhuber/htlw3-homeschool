@@ -6,7 +6,7 @@
 | Di, 31.03.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Englisch `#9` |
 | Mi, 01.04.2020 | n/a |
 | Do, 02.04.2020 | - Geographie `#1` |
-| Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4`<br>- Englisch `#11` |
+| Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4`<br>- Englisch `#11`<br>- Elektrotechnik `#3` |
 | Sa, 04.04.2020 | n/a |
 | So, 05.04.2020 | n/a |
 
@@ -72,7 +72,8 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Arbeitsauftrag~~ | ~~Mo, 23.03.2020~~ | ~~Webdav~~ | ~~Lehrbuch Band 2, Seite 205 bis 208 (Kapitel 5.6):<br>Ihr lest euch diese Seiten bitte durch, rechnet die beiden Beispiele und arbeitet die drei Aufgaben durch! Bitte beachtet die etwas andere Notation im Vergleich zu meinem Vortrag (RN, VD, …)<br>Dies stellt eine Wiederholung der letzten drei Unterrichtseinheiten dar und ist ein kurzer kompakter Arbeitsauftrag! Ihr bekommt nächsten Montag einen Arbeitsauftrag der darauf aufbaut und eine Vorbereitung für den DAC darstellt.~~ |
-| ~~2~~ | ~~Arbeitsauftrag~~ | ~~Fr, 27.03.2020~~ | ~~Webdav~~ | ~~[siehe Arbeitsauftrag](Elektrotechnik/Aufgabenstellung_SW29.pdf)~~  |
+| ~~2~~ | ~~Arbeitsauftrag~~ | ~~Fr, 27.03.2020~~ | ~~Webdav~~ | ~~[siehe Arbeitsauftrag](Elektrotechnik/SW29_Aufgabenstellung.pdf)~~  |
+| 3 | Arbeitsauftrag | Fr, 03.04.2020~~ | Webdav | 1. Verbesserung: Die OPV-Schaltung der Vorwoche stellt einen DAC dar. Die Lösungen findet ihr in meinem Vorlageordner. Mit Hilfe der Excel-Datei könnt durch Eingabe der Katalognummer eure Berechnungen überprüfen!<br><br>2. Lesen der ersten beiden Seiten des Datenblattes (pdf) des DACs der Firma Analog Devices (AD558) und Zusammenfassung der wichtigsten Eigenschaften (ist auch ein wenig Englisch-Training :-)).<br><br>- [Lösung](Elektrotechnik/SW29_Lösung.pdf)<br>- [Lösung Rechnungen](Elektrotechnik/SW29_Lösung.xlsx)- [Datenblatt AD558](Elektrotechnik/SW30_AD558.pdf) |
 
 ## Chemie
 
