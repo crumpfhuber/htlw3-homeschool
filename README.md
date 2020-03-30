@@ -25,7 +25,7 @@
 | ~~1~~ | ~~CLIL task: Selects, Functions and more~~ | ~~Fr, 20.03.2020 18:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13939)~~ | ~~Datenbank & Informationen im [Theoriekurs (`Kompetenzbereich 1`)](https://elearn.htl-wels.at/course/view.php?id=334)<br>//CLEMENS: Es gibt zwei Files zum Importieren. Zuerst muss das Schema und dann das Data File importiert werden! Falls bei wem die zwei Dateien nicht über Moodle heruntergeladen werden kann, ist hier ein ZIP-File mit beiden SQL-Dateien: [database-sakila.zip](Datenbanken/database-sakila.zip)~~ |
 | ~~2~~ | ~~Aufgaben (Nordwind): SQL GroupBy und Funktionen~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14088)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14086)<br>SQL File: [database-nordwind.sql](Datenbanken/database-nordwind.sql)~~ |
 | ~~3~~ | ~~CLIL task: union, intersect, difference~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087)~~ | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua)~~ |
-| 4 | Video zu Join | n/a | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=334) |
+| 4 | Aufgaben 1: SQL Join | Fr, 03.04.2020 17:00 Uhr | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14085) |
 
 ## Geschichte
 
@@ -104,7 +104,7 @@ Musterlösungen von Prof. Springer
 
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|-------------|-------------|--------|-----------|
-| 1 | ~~Übung 4 - Terminkalender~~ | ~~Mi, 25.03.2020 11:00 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)<br>Es sollen Blautöne, wie in der Beispielgrafik zusehen, verwendet werden!<br>//CLEMENS: [https://www.php-kurs.com/arrays-mehrdimensional.htm](https://www.php-kurs.com/arrays-mehrdimensional.htm)~~  |
+| ~~1~~ | ~~Übung 4 - Terminkalender~~ | ~~Mi, 25.03.2020 11:00 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)<br>Es sollen Blautöne, wie in der Beispielgrafik zusehen, verwendet werden!<br>//CLEMENS: [https://www.php-kurs.com/arrays-mehrdimensional.htm](https://www.php-kurs.com/arrays-mehrdimensional.htm)~~  |
 | ~~2~~ | ~~Übung 2 - Konstanten~~ | ~~Mi, 25.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf)~~ |
 | ~~3~~ | ~~Übung 3 - Preisberechnung~~ | ~~Mi, 25.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf)~~ |
 | 4 | Übung 5 - Taschenrechner | Mi, 22.04.2020 23:59 Uhr | Teams | [Angabe: Übung 5](Medientechnik/UE5_Taschenrechner.md) |
