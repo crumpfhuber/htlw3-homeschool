@@ -8,7 +8,7 @@
 | Do, 02.04.2020 | - Geographie `#1` |
 | Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4`<br>- Englisch `#11`<br>- Elektrotechnik `#3`<br>- Religion (röm.-kath.) `#3` |
 | Sa, 04.04.2020 | n/a |
-| So, 05.04.2020 | n/a |
+| So, 05.04.2020 | - Mathematik `#5` |
 
 ## Softwareentwicklung
 
@@ -90,6 +90,7 @@
 | ~~2~~ | ~~Extremwertaufgaben Hausübung~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~Buch Nummern: 4.70, 4.71, 4.72~~ |
 | 3 | Differentialrechnung | Mo, 30.03.2020 | n/a | - [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf)<br>- [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
 | 4 | Extremwertaufgaben | n/a | n/a | Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 (SA Übungen!) |
+| 5 | Integralrechnung | So, 05.03.2020 | n/a | Buch Seite 191 - 196, inklusive der Bsp.! (ausgenommen 6.15) |
 
 Musterlösungen von Prof. Springer
 - 4.72c: [Extremwertaufgaben Kanalquerschnitt (Mathcad)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [Extremwertaufgaben Kanalquerschnitt (PDF)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
