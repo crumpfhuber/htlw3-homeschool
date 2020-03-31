@@ -90,7 +90,7 @@
 | ~~2~~ | ~~Extremwertaufgaben Hausübung~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~Buch Nummern: 4.70, 4.71, 4.72~~ |
 | 3 | Differentialrechnung | Mo, 30.03.2020 | n/a | - [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf)<br>- [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg) |
 | 4 | Extremwertaufgaben | n/a | n/a | Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 (SA Übungen!) |
-| 5 | Integralrechnung | So, 05.03.2020 | n/a | Buch Seite 191 - 196, inklusive der Bsp.! (ausgenommen 6.15) |
+| 5 | Integralrechnung | So, 05.03.2020 | n/a | Buch Seite 191 - 196, inklusive der Bsp.! (ausgenommen 6.15)<br>[Ergänzende Bemerkungen](Mathematik/Unbestimmtes_Integral_und_Stammfunktion.pdf) |
 
 Musterlösungen von Prof. Springer
 - 4.72c: [Extremwertaufgaben Kanalquerschnitt (Mathcad)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [Extremwertaufgaben Kanalquerschnitt (PDF)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
