@@ -6,7 +6,7 @@
 | Di, 31.03.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Englisch `#9` |
 | Mi, 01.04.2020 | - Medientechnik (HELT) Unterricht: 10:45 Uhr |
 | Do, 02.04.2020 | - Geographie `#1` |
-| Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4`<br>- Englisch `#11`<br>- Elektrotechnik `#3`<br>- Religion (röm.-kath.) `#3` |
+| Fr, 03.04.2020 | - Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4`<br>- Englisch `#11`<br>- Elektrotechnik `#3`<br>- Religion (röm.-kath.) `#3` |
 | Sa, 04.04.2020 | n/a |
 | So, 05.04.2020 | - Mathematik `#5` |
 
@@ -25,7 +25,7 @@
 | ~~1~~ | ~~CLIL task: Selects, Functions and more~~ | ~~Fr, 20.03.2020 18:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13939)~~ | ~~Datenbank & Informationen im [Theoriekurs (`Kompetenzbereich 1`)](https://elearn.htl-wels.at/course/view.php?id=334)<br>//CLEMENS: Es gibt zwei Files zum Importieren. Zuerst muss das Schema und dann das Data File importiert werden! Falls bei wem die zwei Dateien nicht über Moodle heruntergeladen werden kann, ist hier ein ZIP-File mit beiden SQL-Dateien: [database-sakila.zip](Datenbanken/database-sakila.zip)~~ |
 | ~~2~~ | ~~Aufgaben (Nordwind): SQL GroupBy und Funktionen~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14088)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14086)<br>SQL File: [database-nordwind.sql](Datenbanken/database-nordwind.sql)~~ |
 | ~~3~~ | ~~CLIL task: union, intersect, difference~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua)~~ |
-| 4 | Aufgaben 1: SQL Join | n/a | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14085) |
+| 4 | Aufgaben 1: SQL Join | Di, 14.04.2020 | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14196) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14085) |
 
 ## Geschichte
 
@@ -43,7 +43,7 @@
 | ~~2~~ | ~~Arbeitsauftrag: Spiegel 2~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
 | ~~3~~ | ~~Arbeitsauftrag: Spiegel 3~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
 | ~~4~~ | ~~Arbeitsauftrag: Spiegel 4~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
-| 5 | Arbeitsauftrag: Spiegel 5 | Fr, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
+| 5 | Arbeitsauftrag: Spiegel 5 | Fr, 17.04.2020 23:59 Uhr | Teams | Datei in Teams! |
 | 6 | Arbeitsauftrag: Spiegel 6 | Fr, 03.04.2020 23:59 Uhr | Teams | Datei in Teams! |
 
 ## Geographie
