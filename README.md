@@ -10,6 +10,18 @@
 | Sa, 04.04.2020 | n/a |
 | So, 05.04.2020 | - Mathematik `#5` |
 
+## Wochenübersicht 4 (13.04. bis 19.04.2020)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 13.04.2020 | `Feiertag: Ostermontag` |
+| Di, 14.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Datenbanken `#4`<br>- Informationstechnische Projekte (WINJ) `#1`<br>- Medientechnik (HELT) `#2`<br>- Netzwerktechnik `#1` |
+| Mi, 15.04.2020 | - Medientechnik (HELT) Unterricht: 10:45 Uhr<br>- Geschichte `#3`<br>- Deutsch `#2` |
+| Do, 16.04.2020 | - Englisch `#13`<br>- Softwareentwicklung `#4`<br>- Softwareentwicklung `#5` |
+| Fr, 17.04.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Physik `#5` |
+| Sa, 18.04.2020 | n/a |
+| So, 19.04.2020 | n/a |
+
 ## Softwareentwicklung
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
@@ -109,6 +121,12 @@ Musterlösungen von Prof. Springer<br>
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Kommentar: "Fairplay im Sport"~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~E-Mail~~ | ~~- [Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf)~~ |
 | 2 | Kommentar: "Sterben Tiere gern?" | Mi, 15.04.2020 23:59 Uhr | E-Mail | - [E-Mail von Prof. Lugerbauer](Deutsch/02_Email.md)<br>- [Sterben Tiere gern - Angabe](Deutsch/02_Aufgabe_Angabe.pdf)<br>- [Sterben Tiere gern - Text](Deutsch/02_Aufgabe_Text.pdf) |
+
+## Netzwerktechnik
+
+| #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
+|--------|---------------|-------------|--------|-----------|
+| 1 | DNS Übung | Di, 14.04.2020 23:59 Uhr | Teams | |
 
 ## Medientechnik (LOIS)
 
