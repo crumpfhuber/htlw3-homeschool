@@ -16,10 +16,9 @@
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Literaturrecherche~~ | ~~Di, 17.03.2020 08:00 Uhr~~ | ~~Teams~~ | ~~Lies dir im C-Skriptum Seite 22+23 als Vorbereitung für Dienstag durch. Datei in Teams!~~ |
 | ~~2~~ | ~~Aufgabe: 605_StringOps~~ | ~~Mo, 23.03.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps)~~ |
-| 3 | Aufgabe: 608_TicTacToe | Mo, 30.03.2020 | GitHub & Teams | [siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/608_TicTacToe) |
+| ~~3~~ | ~~Aufgabe: 608_TicTacToe~~ | ~~Mo, 30.03.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/608_TicTacToe)~~ |
 | 4 | Aufgabe: 609_ArrayBereinigung | Do, 16.04.2020 | GitHub & Teams | [siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/609_ArrayBereinigung) |
 | 5 | Aufgabe: 610_Erathostenes | Do, 16.04.2020 | GitHub & Teams | [siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/610_Erathostenes) |
-
 
 ## Datenbanken
 
@@ -74,7 +73,7 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | 1 | Bootprozess unter Linux - Grub | n/a | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
-| ~~2~~ | ~~Linux Mount / fstab~~ | ~~n/a~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14138)~~ | |
+| ~~2~~ | ~~Linux Mount / fstab~~ | ~~n/a~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14138)~~ | ~~Gemeinsam im Unterricht gemacht~~ |
 
 ## Elektrotechnik
 
@@ -101,14 +100,14 @@
 | 4 | Extremwertaufgaben | n/a | n/a | Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 (SA Übungen!) |
 | 5 | Integralrechnung | So, 05.03.2020 | n/a | Buch Seite 191 - 196, inklusive der Bsp.! (ausgenommen 6.15)<br>[Ergänzende Bemerkungen](Mathematik/Unbestimmtes_Integral_und_Stammfunktion.pdf) |
 
-Musterlösungen von Prof. Springer
-- 4.72c: [Extremwertaufgaben Kanalquerschnitt (Mathcad)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [Extremwertaufgaben Kanalquerschnitt (PDF)](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
+Musterlösungen von Prof. Springer<br>
+- 4.72c (Extremwertaufgaben Kanalquerschnitt): [Mathcad](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [PDF](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
 
 ## Deutsch
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| ~~1~~ | ~~Kommentar: "Fairplay im Sport"~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~[Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf)~~ | |
+| ~~1~~ | ~~Kommentar: "Fairplay im Sport"~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~E-Mail~~ | ~~- [Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf)~~ |
 | 2 | Kommentar: "Sterben Tiere gern?" | Mi, 15.04.2020 23:59 Uhr | E-Mail | - [E-Mail von Prof. Lugerbauer](Deutsch/02_Email.md)<br>- [Sterben Tiere gern - Angabe](Deutsch/02_Aufgabe_Angabe.pdf)<br>- [Sterben Tiere gern - Text](Deutsch/02_Aufgabe_Text.pdf) |
 
 ## Medientechnik (LOIS)
@@ -134,8 +133,8 @@ Musterlösungen von Prof. Springer
 | # | Bezeichnung | Abgabedatum | Abgabe | Bemerkung |
 |---|-------------|-------------|--------|-----------|
 | ~~1~~ | ~~Wie gehts? (Freiwillig)~~ | ~~n/a~~ | ~~n/a~~ | ~~[siehe Arbeitsblatt](Religion/01_WieGehts.pdf)~~ |
-| ~~2~~ | ~~Hartheim~~ | ~~Mo, 30.03.2020~~ | ~~E-Mail/WebUntis Chat~~ | ~~[Hartheim PDF](Religion/Hartheim.pdf) oder [Hartheim DOCX](Religion/Hartheim.docx)~~ |
-| 3 | NS Zeit - Filme | Fr, 03.04.2020 | E-Mail/WebUntis Chat | [NS Zeit Filme PDF](Religion/NS_Zeit_Filme.pdf) oder [NS Zeit Filme DOCX](Religion/NS_Zeit_Filme.docx) |
+| ~~2~~ | ~~Hartheim~~ | ~~Mo, 30.03.2020~~ | ~~E-Mail~~ | ~~Hartheim: [PDF](Religion/Hartheim.pdf) oder [Word](Religion/Hartheim.docx)~~ |
+| 3 | NS Zeit - Filme | Fr, 03.04.2020 | E-Mail | NS Zeit Filme: [PDF](Religion/NS_Zeit_Filme.pdf) oder [Word](Religion/NS_Zeit_Filme.docx) |
 
 ## Englisch
 
@@ -148,14 +147,11 @@ Musterlösungen von Prof. Springer
 | 5 | Writing Task: Own Leaflet | Mo, 06.04.2020 | E-Mail | Beispiel: Sportwoche, Sprachwoche, Schulausflug, etc. |
 | 6 | Presentation: Alternative and fossil Energy form | n/a | E-Mail | - [siehe Themenzuteilung](Englisch/Praesentationen-Themenzuteilung.md)<br>- [siehe E-Mail über Präsentationen](Englisch/Praesentationen-Email.md) |
 | 7 | Tasks: The future is green | n/a | n/a | 1.	do p 76/ add the depiction of the development, what you assume the places look like in the 4 seasons, they will look like at the turn of the century or even before it..<br><br>Write a short descriptions /depictions (Darstellung) of these places what do (or: did) they look like (on posters) - for future young people to learn about former times? use 3 if-clauses.<br><br>2.	Do research on the growth and the retreat of the European glaciers over millions of years. students who have not sent yet any homework to me, write that and send it. while the ambitious students write hints (Stichwörter)<br><br>I'll listen to them in April or at the beginning of May? |
-| 8 | Random Thoughts of a Computer Nerd | n/a | n/a | read the computer nerd's thoughts about climate change. Do ex 5 on p. 78. write the words like a proven fact; write the ideas of the 3 students on the reality of Climate Change. |
-| 9 | Writing Task: Your opinion about climate change | Di, 31.03.2020 | E-Mail | do P 78/ ex 6 - write a short text on the 3 questions. |
-| 10 | Matter of lesson (30.03): The Greenhouse effect | Mo, 30.03.2020 | n/a | Read and practise explaining the diagram on p77, do exercise 2. Write the words with their German equivalents of pp 76, 77.<br><br>Do the quizz on either gerund or infinitive (multiple choice answers) - check it with your theory sheets and grammar book -in the remaining time or as HW<br><br>[Quiz: Gerund or Infinitive](Englisch/Quiz_Gerund_or_Infinitive.pdf) |
+| ~~8, 9~~ | ~~Writing Task: Your opinion about climate change~~ | ~~Di, 31.03.2020~~ | ~~E-Mail~~ | ~~do P 78/ ex 6 - write a short text on the 3 questions.<br>Read the computer nerd's thoughts about climate change. Do ex 5 on p. 78. write the words like a proven fact; write the ideas of the 3 students on the reality of Climate Change.~~ |
+| ~~10~~ | ~~Matter of lesson (30.03): The Greenhouse effect~~ | ~~Mo, 30.03.2020~~ | ~~n/a~~ | ~~Read and practise explaining the diagram on p77, do exercise 2. Write the words with their German equivalents of pp 76, 77.<br><br>Do the quizz on either gerund or infinitive (multiple choice answers) - check it with your theory sheets and grammar book -in the remaining time or as HW<br><br>[Quiz: Gerund or Infinitive](Englisch/Quiz_Gerund_or_Infinitive.pdf)~~ |
 | 11 | Homework: Grammar (30.03.): Gerund or Infinitive | Fr, 03.04.2020 | E-Mail | All the exercises on gerund and infinitive (hand outs, twice your own sentences). The ones from the book Durchstarten will be asked to do later.<br><br>In case you have not done it yet - then do it at an instant: the quizz on either gerund or Infinitive (multiple choice answers) and the other practice sheets (+send them to me)<br><br>Check it with the theory on the hand-outs and in your good, old grammar book DURCHSTARTEN on pp gerund: 40-49, infinitive 58-63. the either-or: 64-65. study the rules, with some repetitions over some days!!<br><br>Study the theory on Gerund and Infinitive, - form another 10 sentences- others than you had to do in the lesson on the 18th.<br><br>- [Gerund or Infinitive Constructions](Englisch/Gerund_Infinitive_Constructions.pdf)<br> - [Infinitive or Gerund thats the Question](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)<br> |
 | 12 | Matters of lession (01.04.) | Mi, 22.04.2020 | E-Mail | Are the theories on gerund and Infinitive clear - not difficult as you have already used them naturally. Do the exercises in DURCHSTARTEN. In some steps till the 22nd of April.<br>//CLEMENS: Bilder vom Buch folgen... |
 | 13 | Matters of lession (01.04.) | Do, 16.04.2020 | E-Mail | Read p 79-80; do ex 1 on p 79. Prepare ex 2 - collect data, ideas. Write them down with hints, prompts. Write a leaflet for international students. |
-
-
 
 Zusätzliche Arbeitszetteln:
 - [Revision: Article, Report, Blog Comment, Email, Letter, Leaflet](Englisch/Revision_Text.pdf)<br>
