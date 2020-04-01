@@ -8,10 +8,8 @@
 <<<<<<< HEAD
 | Do, 02.04.2020 | - Betriebssysteme Unterricht: 10:00 Uhr<br>- Geographie `#1` |
 | Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4`<br>- Englisch `#11`<br>- Elektrotechnik `#3`<br>- Religion (röm.-kath.) `#3` |
-=======
 | Do, 02.04.2020 | - Geographie `#1` |
 | Fr, 03.04.2020 | - Softwareentwicklung CodingContest: 9:00 Uhr (Start: 10:00 Uhr)<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4`<br>- Englisch `#11`<br>- Elektrotechnik `#3`<br>- Religion (röm.-kath.) `#3` |
->>>>>>> b7165feadc08251e610741dc84676dd1fb11703e
 | Sa, 04.04.2020 | n/a |
 | So, 05.04.2020 | - Mathematik `#5` |
 
