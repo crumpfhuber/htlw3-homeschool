@@ -17,6 +17,9 @@
 | ~~1~~ | ~~Literaturrecherche~~ | ~~Di, 17.03.2020 08:00 Uhr~~ | ~~Teams~~ | ~~Lies dir im C-Skriptum Seite 22+23 als Vorbereitung für Dienstag durch. Datei in Teams!~~ |
 | ~~2~~ | ~~Aufgabe: 605_StringOps~~ | ~~Mo, 23.03.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps)~~ |
 | 3 | Aufgabe: 608_TicTacToe | Mo, 30.03.2020 | GitHub & Teams | [siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/608_TicTacToe) |
+| 4 | Aufgabe: 609_ArrayBereinigung | Do, 16.04.2020 | GitHub & Teams | [siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/609_ArrayBereinigung) |
+| 5 | Aufgabe: 610_Erathostenes | Do, 16.04.2020 | GitHub & Teams | [siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/610_Erathostenes) |
+
 
 ## Datenbanken
 
@@ -60,6 +63,12 @@
 | ~~2~~ | ~~Design (Zwischenabgabe)~~ | ~~Fr, 27.03.2020 22:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13852)~~ | ~~Um sicher zu stellen, dass der Projektfortschritt gegeben ist, ersuche ich euch um eine Zwischenabgabe des Design-Dokuments. Es muss NICHT fertig sein.~~ |
 | 3 | Design (Final) | Fr, 03.04.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13849) | |
 
+## Informationstechnische Projekte (WINJ)
+
+| #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
+|--------|---------------|-------------|--------|-----------|
+| 1 | Buchung auf Bestandskonten | Di, 14.04.2020 23:59 Uhr | Teams | Infos in Teams |
+
 ## Betriebssysteme
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
@@ -100,7 +109,7 @@ Musterlösungen von Prof. Springer
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Kommentar: "Fairplay im Sport"~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~[Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf)~~ | |
-| 2 | Kommentar: "Sterben Tiere gern?" | Mi, 15.04.2020 23:59 Uhr | E-Mail | Liebe 3AHIT,<br><br>nachdem die letzten Aufgabe nun weitgehend abgeschlossen wurde (ich bitte nach wie vor um Erledigung, falls der Text noch ausstehen sollte sowie um Zusendung der Korrektur, falls das noch nicht passiert ist) bekommt ihr eine neue Aufgabe. Da der Unterricht aus Distanz wohl noch länger dauern wird, bin ich gerade dabei, Arbeitsaufgaben zur Literaturgeschichtethemen zu erarbeiten, die ihr dann nach den Osterferien erhalten werdet. Bis dahin gibt es noch einen Kommentar zu schreiben.<br><br>Ich habe diesmal ein Thema zusammengestellt, das - ähnlich wie das Thema zu den Küken am Flugplatz, mit dem wir zu üben begonnen hatten - auf unterschiedlichste Art argumentiert werden kann. Ich bitte darum, dass ihr die Angabe gewissenhaft lest und euch unbedingt auch die zugrundeliegende Publikation, ein Heft, das an Kinder verteilt hätte werden sollen, selber anschaut und durchlest, ehe ihr eure Meinung bildet (zur Sicherheit auch hier noch einmal der Link: https://images.derstandard.at/2017/08/24/fleisch.pdf). Wer Lust und Laune hat, kann auch im Internet recherchieren, es gab dazu viele Reaktionen - das muss aber nicht sein, eure eigene Meinung reicht. Wichtig ist, dass ihr NICHT pro oder contra Fleischkonsum sein müsst, im Mittelpunkt der Argumentation soll dieses Büchlein und seine Inhalte stehen sowie die Frage, ob das eine gute Idee war.<br><br>Bitte unbedingt daran denken, dass im Kommentar kein ICH drin sein darf - und ihr auf den Ausgangstext aus dem Standard diesmal NICHT verweisen müsst, der dient nur zur Erklärung. Ihr sollt einfach direkt auf dieses seltsame Büchlein eingehen und ob ihr es gelungen und die Aufregung übertrieben findet oder ob es euch fragwürdig erscheint, Kindern das Fleischessen mittels Tieren näherzubringen, die sich quasi freiwillig und gut gelaunt opfern. Falls sich jemand fragt: Das war wirklich so geplant und es wurden einige tausend Exemplare, die es schon gab, eingestampft.<br><br>Die Abgabe ist am Mittwoch nach den Ferien, also der erste Schultag, an dem wir uns wiedergesehen hätten, am 15. April um 23:59 Uhr.<br><br>Ich werde die Texte wie zuletzt ausführlich korrigieren und kommentieren. Das klappt digital, auch wenn es etwas aufwändiger ist, fast besser als analog und ich hoffe, ihr und eure Schreibfähigkeiten profitiert davon. Wäre ja fein, wenn das ganze Chaos zumindest ein paar Vorteile hätte.<br><br>Liebe Grüße, bleibt gesund und ich freue mich auf eure Texte<br>Katrin Lugerbauer<br><br>- [Sterben Tiere gern - Angabe](Deutsch/02_Aufgabe_Angabe.pdf)<br>- [Sterben Tiere gern - Text](Deutsch/02_Aufgabe_Text.pdf) |
+| 2 | Kommentar: "Sterben Tiere gern?" | Mi, 15.04.2020 23:59 Uhr | E-Mail | - [E-Mail von Prof. Lugerbauer](Deutsch/02_Email.md)<br>- [Sterben Tiere gern - Angabe](Deutsch/02_Aufgabe_Angabe.pdf)<br>- [Sterben Tiere gern - Text](Deutsch/02_Aufgabe_Text.pdf) |
 
 ## Medientechnik (LOIS)
 
@@ -142,7 +151,11 @@ Musterlösungen von Prof. Springer
 | 8 | Random Thoughts of a Computer Nerd | n/a | n/a | read the computer nerd's thoughts about climate change. Do ex 5 on p. 78. write the words like a proven fact; write the ideas of the 3 students on the reality of Climate Change. |
 | 9 | Writing Task: Your opinion about climate change | Di, 31.03.2020 | E-Mail | do P 78/ ex 6 - write a short text on the 3 questions. |
 | 10 | Matter of lesson (30.03): The Greenhouse effect | Mo, 30.03.2020 | n/a | Read and practise explaining the diagram on p77, do exercise 2. Write the words with their German equivalents of pp 76, 77.<br><br>Do the quizz on either gerund or infinitive (multiple choice answers) - check it with your theory sheets and grammar book -in the remaining time or as HW<br><br>[Quiz: Gerund or Infinitive](Englisch/Quiz_Gerund_or_Infinitive.pdf) |
-| 11 | Homework: Grammar (30.03): Gerund or Infinitive | Fr, 03.04.2020 | E-Mail | All the exercises on gerund and infinitive (hand outs, twice your own sentences). The ones from the book Durchstarten will be asked to do later.<br><br>In case you have not done it yet - then do it at an instant: the quizz on either gerund or Infinitive (multiple choice answers) and the other practice sheets (+send them to me)<br><br>Check it with the theory on the hand-outs and in your good, old grammar book DURCHSTARTEN on pp gerund: 40-49, infinitive 58-63. the either-or: 64-65. study the rules, with some repetitions over some days!!<br><br>Study the theory on Gerund and Infinitive, - form another 10 sentences- others than you had to do in the lesson on the 18th.<br><br>- [Gerund or Infinitive Constructions](Englisch/Gerund_Infinitive_Constructions.pdf)<br> - [Infinitive or Gerund thats the Question](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)<br> |
+| 11 | Homework: Grammar (30.03.): Gerund or Infinitive | Fr, 03.04.2020 | E-Mail | All the exercises on gerund and infinitive (hand outs, twice your own sentences). The ones from the book Durchstarten will be asked to do later.<br><br>In case you have not done it yet - then do it at an instant: the quizz on either gerund or Infinitive (multiple choice answers) and the other practice sheets (+send them to me)<br><br>Check it with the theory on the hand-outs and in your good, old grammar book DURCHSTARTEN on pp gerund: 40-49, infinitive 58-63. the either-or: 64-65. study the rules, with some repetitions over some days!!<br><br>Study the theory on Gerund and Infinitive, - form another 10 sentences- others than you had to do in the lesson on the 18th.<br><br>- [Gerund or Infinitive Constructions](Englisch/Gerund_Infinitive_Constructions.pdf)<br> - [Infinitive or Gerund thats the Question](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)<br> |
+| 12 | Matters of lession (01.04.) | Mi, 22.04.2020 | E-Mail | Are the theories on gerund and Infinitive clear - not difficult as you have already used them naturally. Do the exercises in DURCHSTARTEN. In some steps till the 22nd of April.<br>//CLEMENS: Bilder vom Buch folgen... |
+| 13 | Matters of lession (01.04.) | Do, 16.04.2020 | E-Mail | Read p 79-80; do ex 1 on p 79. Prepare ex 2 - collect data, ideas. Write them down with hints, prompts. Write a leaflet for international students. |
+
+
 
 Zusätzliche Arbeitszetteln:
 - [Revision: Article, Report, Blog Comment, Email, Letter, Leaflet](Englisch/Revision_Text.pdf)<br>
