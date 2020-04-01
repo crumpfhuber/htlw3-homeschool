@@ -5,7 +5,6 @@
 | Mo, 30.03.2020 | - Softwareentwicklung `#3`<br>- Mathematik `#3`<br>- Religion (röm.-kath.) `#2`<br>- Englisch `#10` |
 | Di, 31.03.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Englisch `#9` |
 | Mi, 01.04.2020 | - Medientechnik (HELT) Unterricht: 10:45 Uhr |
-<<<<<<< HEAD
 | Do, 02.04.2020 | - Betriebssysteme Unterricht: 10:00 Uhr<br>- Geographie `#1` |
 | Fr, 03.04.2020 | - Physik `#5`<br>- Physik `#6`<br>- Informationstechnische Projekte (WIDM) `#3`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4`<br>- Englisch `#11`<br>- Elektrotechnik `#3`<br>- Religion (röm.-kath.) `#3` |
 | Do, 02.04.2020 | - Geographie `#1` |
