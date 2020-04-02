@@ -114,6 +114,9 @@
 
 Musterlösungen von Prof. Springer<br>
 - 4.72c (Extremwertaufgaben Kanalquerschnitt): [Mathcad](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [PDF](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
+- [Wiederholungsaufgaben Differentialrechnung: Bsp. 2-3](Mathematik/Differentialrechnung-WHAufgaben_Loesung_Bsp_2-3.jpg)
+- [Wiederholungsaufgaben Differentialrechnung: Bsp. 4](Mathematik/Differentialrechnung-WHAufgaben_Loesung_Bsp_4.jpg)
+- [Wiederholungsaufgaben Differentialrechnung: Bsp. 4-5 (Mathcad)](Mathematik/Differentialrechnung-WHAufgaben_Loesung_Mathcad_Bsp_4-5.pdf)
 
 ## Deutsch
 
