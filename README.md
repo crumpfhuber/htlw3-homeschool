@@ -1,22 +1,10 @@
-## Wochenübersicht 3 (30.03. bis 05.04.2020)
-
-| Datum | Beschreibung |
-|---|---|
-| Mo, 30.03.2020 | - Softwareentwicklung `#3`<br>- Mathematik `#3`<br>- Religion (röm.-kath.) `#2`<br>- Englisch `#10` |
-| Di, 31.03.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Englisch `#9` |
-| Mi, 01.04.2020 | - Medientechnik (HELT) Unterricht: 10:45 Uhr |
-| Do, 02.04.2020 | - Betriebssysteme Unterricht: 10:00 Uhr<br>- Geographie `#1` |
-| Fr, 03.04.2020 | - Softwareentwicklung CodingContest: 9:00 Uhr (Start: 10:00 Uhr)<br>- Physik `#6`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4`<br>- Englisch `#11`<br>- Elektrotechnik `#3`<br>- Religion (röm.-kath.) `#3`<br>- Informationstechnische Projekte (WIDM) `#3` |
-| Sa, 04.04.2020 | n/a |
-| So, 05.04.2020 | - Mathematik `#5` |
-
 ## Wochenübersicht 4 (13.04. bis 19.04.2020)
 
 | Datum | Beschreibung |
 |---|---|
 | Mo, 13.04.2020 | `Feiertag: Ostermontag` |
-| Di, 14.04.2020 | `Schulfrei: Osterdienstag`<br>- Datenbanken `#4`<br>- Informationstechnische Projekte (WINJ) `#1`<br>- Medientechnik (HELT) `#2`<br>- Netzwerktechnik `#1` |
-| Mi, 15.04.2020 | - Informationstechnische Projekte (WIDM) Unterricht: 7:59 Uhr (Zoom URL in Moodle!)<br>- Medientechnik (HELT) Unterricht: 10:45 Uhr<br>- Datenbanken Unterricht: ??:?? Uhr<br>- Geschichte `#3`<br>- Deutsch `#2` |
+| Di, 14.04.2020 | `Schulfrei: Osterdienstag`<br>- Datenbanken `#4`<br>- Informationstechnische Projekte (WINJ) `#1`<br>- Medientechnik (HELT) `#2` |
+| Mi, 15.04.2020 | - Informationstechnische Projekte (WIDM) Unterricht: 7:59 Uhr (Zoom URL in Moodle!)<br>- Medientechnik (HELT) Unterricht: 10:45 Uhr //HELT: `Ich denke in MEDT ist keine Präsenz notwendig. Ich werde zum Unterrichtsbeginn online sein, sollte jemand Fragen haben....aber sehe sonst keine Notwendigkeit.` <br>- Datenbanken Unterricht: ??:?? Uhr<br>- Geschichte `#3`<br>- Deutsch `#2`<br>- Netzwerktechnik `#1` |
 | Do, 16.04.2020 | - Englisch `#13`<br>- Softwareentwicklung `#4`<br>- Softwareentwicklung `#5` |
 | Fr, 17.04.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Physik `#5` |
 | Sa, 18.04.2020 | n/a |
@@ -129,7 +117,7 @@ Musterlösungen von Prof. Springer<br>
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| 1 | DNS Übung | Di, 14.04.2020 23:59 Uhr | Teams | |
+| 1 | DNS Übung | Di, 15.04.2020 23:59 Uhr | Teams | |
 
 ## Medientechnik (LOIS)
 
