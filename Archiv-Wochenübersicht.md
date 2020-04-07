@@ -23,3 +23,15 @@
 | Fr, 27.03.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Betriebssysteme Unterricht: 11:00 Uhr<br>- Elektrotechnik `#2`<br>- Informationstechnische Projekte (WIDM)`#2`<br>- Geschichte `#2`<br>- Physik `#3`<br>- Physik `#4`<br>- Datenbanken `#2`<br>- Datenbanken `#3` |
 | Sa, 28.03.2020 | - Englisch `#4` |
 | So, 29.03.2020 | n/a |
+
+## Wochenübersicht 3 (30.03. bis 05.04.2020)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 30.03.2020 | - Softwareentwicklung `#3`<br>- Mathematik `#3`<br>- Religion (röm.-kath.) `#2`<br>- Englisch `#10` |
+| Di, 31.03.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Englisch `#9` |
+| Mi, 01.04.2020 | - Medientechnik (HELT) Unterricht: 10:45 Uhr |
+| Do, 02.04.2020 | - Betriebssysteme Unterricht: 10:00 Uhr<br>- Geographie `#1` |
+| Fr, 03.04.2020 | - Softwareentwicklung CodingContest: 9:00 Uhr (Start: 10:00 Uhr)<br>- Physik `#6`<br>- Chemie `#1`<br>- Chemie `#2`<br>- Medientechnik (HELT) `#4`<br>- Englisch `#11`<br>- Elektrotechnik `#3`<br>- Religion (röm.-kath.) `#3`<br>- Informationstechnische Projekte (WIDM) `#3` |
+| Sa, 04.04.2020 | n/a |
+| So, 05.04.2020 | - Mathematik `#5` |
