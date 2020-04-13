@@ -4,7 +4,7 @@
 |---|---|
 | Mo, 13.04.2020 | `Feiertag: Ostermontag` |
 | Di, 14.04.2020 | `Schulfrei: Osterdienstag`<br>- Datenbanken `#4`<br>- Informationstechnische Projekte (WINJ) `#1`<br>- Medientechnik (HELT) `#2` |
-| Mi, 15.04.2020 | - Informationstechnische Projekte (WIDM) Unterricht: 7:59 Uhr (Zoom URL in Moodle!)<br>- Medientechnik (HELT) Unterricht: 10:45 Uhr *//HELT: Ich denke in MEDT ist keine Präsenz notwendig. Ich werde zum Unterrichtsbeginn online sein, sollte jemand Fragen haben....aber sehe sonst keine Notwendigkeit.* <br>- Datenbanken Unterricht: 09:30 Uhr<br>- Geschichte `#3`<br>- Deutsch `#2`<br>- Netzwerktechnik `#1` |
+| Mi, 15.04.2020 | - Informationstechnische Projekte (WIDM) Unterricht: 7:50 Uhr (Zoom URL in Moodle!)<br>- Medientechnik (HELT) Unterricht: 10:45 Uhr *//HELT: Ich denke in MEDT ist keine Präsenz notwendig. Ich werde zum Unterrichtsbeginn online sein, sollte jemand Fragen haben....aber sehe sonst keine Notwendigkeit.* <br>- Datenbanken Unterricht: 09:30 Uhr<br>- Geschichte `#3`<br>- Deutsch `#2`<br>- Netzwerktechnik `#1` |
 | Do, 16.04.2020 | - Englisch `#13`<br>- Softwareentwicklung `#4`<br>- Softwareentwicklung `#5` |
 | Fr, 17.04.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Physik `#5` |
 | Sa, 18.04.2020 | n/a |
