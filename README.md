@@ -4,7 +4,7 @@
 |---|---|
 | Mo, 13.04.2020 | `Feiertag: Ostermontag` |
 | Di, 14.04.2020 | `Schulfrei: Osterdienstag`<br>- Datenbanken `#4`<br>- Informationstechnische Projekte (WINJ) `#1`<br>- Medientechnik (HELT) `#2` |
-| Mi, 15.04.2020 | - Informationstechnische Projekte (WIDM) Unterricht: 7:50 Uhr (Zoom URL in Moodle!)<br>- Medientechnik (HELT) Unterricht: 10:45 Uhr *//HELT: Ich denke in MEDT ist keine Präsenz notwendig. Ich werde zum Unterrichtsbeginn online sein, sollte jemand Fragen haben....aber sehe sonst keine Notwendigkeit.* <br>- Datenbanken Unterricht: 09:30 Uhr<br>- Geschichte `#3`<br>- Deutsch `#2`<br>- Netzwerktechnik `#1` |
+| Mi, 15.04.2020 | - Informationstechnische Projekte (WIDM) Unterricht: 7:50 Uhr (Zoom URL in Moodle!)<br>- Medientechnik (HELT) Unterricht: 10:45 Uhr *//HELT: Ich denke in MEDT ist keine Präsenz notwendig. Ich werde zum Unterrichtsbeginn online sein, sollte jemand Fragen haben....aber sehe sonst keine Notwendigkeit.* <br>- Datenbanken Unterricht: 09:30 Uhr<br>- Deutsch `#2`<br>- Netzwerktechnik `#1` |
 | Do, 16.04.2020 | - Englisch `#13`<br>- Softwareentwicklung `#4`<br>- Softwareentwicklung `#5` |
 | Fr, 17.04.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Physik `#5` |
 | Sa, 18.04.2020 | n/a |
@@ -35,7 +35,7 @@
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Gruppeneinteilung~~ | ~~Fr, 20.03.2020~~ | ~~WebUntis Chat/E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Teilt euch in sechs 4er Gruppen ein<br> - Jede Gruppe ladet eine Liste mit den Namen der Gruppenmitglieder hoch<br> - Von CLAK wird Feedback zur eurer Bildanalyse über die Karikatur des Wiener Kongresses übermittelt~~ |
 | ~~2~~ | ~~Bildanalyse~~ | ~~Fr, 27.03.2020~~ | ~~E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) & [Karikatur](Geschichte/Industrielle_Revolution_Karikatur.pdf)<br> - Ausformulierte Bildanalyse über die Karikatur zur Industriellen Revolution (siehe Handout)<br> - Dokument (Klasse_Nachnamen) in mein Abgabeverzeichnis hochladen~~ | 
-| 3 | Lesen & Unterstreichen | Mi, 15.04.2020 | Teams | - Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden.<br>- Unterstrichene Seiten auf Teams hochladen. |
+| 3 | Lesen & Unterstreichen | Mi, 22.04.2020 23:59 | Teams | - Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden.<br>- Unterstrichene Seiten auf Teams hochladen. |
 
 ## Physik
 
