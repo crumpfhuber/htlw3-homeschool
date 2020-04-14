@@ -35,7 +35,7 @@
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Gruppeneinteilung~~ | ~~Fr, 20.03.2020~~ | ~~WebUntis Chat/E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Teilt euch in sechs 4er Gruppen ein<br> - Jede Gruppe ladet eine Liste mit den Namen der Gruppenmitglieder hoch<br> - Von CLAK wird Feedback zur eurer Bildanalyse über die Karikatur des Wiener Kongresses übermittelt~~ |
 | ~~2~~ | ~~Bildanalyse~~ | ~~Fr, 27.03.2020~~ | ~~E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) & [Karikatur](Geschichte/Industrielle_Revolution_Karikatur.pdf)<br> - Ausformulierte Bildanalyse über die Karikatur zur Industriellen Revolution (siehe Handout)<br> - Dokument (Klasse_Nachnamen) in mein Abgabeverzeichnis hochladen~~ | 
-| 3 | Lesen & Unterstreichen | Mi, 15.04.2020 | n/a| [Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden |
+| 3 | Lesen & Unterstreichen | Mi, 15.04.2020 | Teams | - Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden.<br>- Unterstrichene Seiten auf Teams hochladen. |
 
 ## Physik
 
