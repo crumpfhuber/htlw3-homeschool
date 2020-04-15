@@ -144,7 +144,7 @@ Musterlösungen von Prof. Springer<br>
 | ~~1~~ | ~~Wie gehts? (Freiwillig)~~ | ~~n/a~~ | ~~n/a~~ | ~~Arbeitsauftrag: [PDF](Religion/WieGehts.pdf)~~ |
 | ~~2~~ | ~~Hartheim~~ | ~~Mo, 30.03.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Hartheim.pdf) oder [Word](Religion/Hartheim.docx)~~ |
 | ~~3~~ | ~~NS Zeit - Filme~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/NS_Zeit_Filme.pdf) oder [Word](Religion/NS_Zeit_Filme.docx)~~ |
-| 4 | Ostern - Filme | ?? | E-Mail | Arbeitsauftrag: [PDF](Religion/Ostern_Filme.pdf) oder [Word](Religion/Ostern_Filme.docx) |
+| 4 | Ostern | Mo, 20.04.2020 | E-Mail | Arbeitsauftrag: [PDF](Religion/Ostern_Fragen.pdf) oder [Word](Religion/Ostern_Fragen.docx) |
 
 ## Englisch
 
