@@ -10,7 +10,7 @@
 | Sa, 18.04.2020 | n/a |
 | So, 19.04.2020 | n/a |
 
-## Wochenübersicht 5 (20.04. bis 27.04.2020)
+## Wochenübersicht 5 (20.04. bis 26.04.2020)
 
 | Datum | Beschreibung |
 |---|---|
@@ -18,9 +18,9 @@
 | Di, 21.04.2020 | - Mathematik `#6`|
 | Mi, 22.04.2020 | - Geschichte `#3` <br>- Medientechnik (LOIS) `#4` |
 | Do, 23.04.2020 | n/a |
-| Fr, 25.04.2020 | n/a |
-| Sa, 26.04.2020 | n/a |
-| So, 27.04.2020 | n/a |
+| Fr, 24.04.2020 | n/a |
+| Sa, 25.04.2020 | n/a |
+| So, 26.04.2020 | n/a |
 
 ## Softwareentwicklung
 
