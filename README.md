@@ -30,7 +30,7 @@
 | ~~2~~ | ~~Aufgabe: 605_StringOps~~ | ~~Mo, 23.03.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps)~~ |
 | ~~3~~ | ~~Aufgabe: 608_TicTacToe~~ | ~~Mo, 30.03.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/608_TicTacToe)~~ |
 | ~~4~~ | ~~Aufgabe: 609_ArrayBereinigung~~ | ~~Do, 16.04.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/609_ArrayBereinigung)~~ |
-| ~~5~~ | ~~Aufgabe: 610_Erathostenes~~ | ~~Do, 16.04.2020~~ | ~~~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/610_Erathostenes)~~ |
+| ~~5~~ | ~~Aufgabe: 610_Erathostenes~~ | ~~Do, 16.04.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/610_Erathostenes)~~ |
 
 ## Datenbanken
 
