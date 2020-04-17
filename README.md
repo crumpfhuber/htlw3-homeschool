@@ -79,6 +79,8 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Buchung auf Bestandskonten~~ | ~~Di, 14.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| 2 | Buchungen auf Erfolgskonten | Mo, 27.04.2020 23:59 Uhr | Teams | Infos in Teams |
+
 
 ## Betriebssysteme
 
