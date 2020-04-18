@@ -1,21 +1,9 @@
-## Wochenübersicht 4 (13.04. bis 19.04.2020)
-
-| Datum | Beschreibung |
-|---|---|
-| Mo, 13.04.2020 | `Feiertag: Ostermontag` |
-| Di, 14.04.2020 | `Schulfrei: Osterdienstag`<br>- Datenbanken `#4`<br>- Informationstechnische Projekte (WINJ) `#1`<br>- Medientechnik (HELT) `#2` |
-| Mi, 15.04.2020 | - Informationstechnische Projekte (WIDM) Unterricht: 7:50 Uhr (Zoom URL in Moodle!)<br>- Medientechnik (HELT) Unterricht: 10:45 Uhr *//HELT: Ich denke in MEDT ist keine Präsenz notwendig. Ich werde zum Unterrichtsbeginn online sein, sollte jemand Fragen haben....aber sehe sonst keine Notwendigkeit.* <br>- Datenbanken Unterricht: 09:30 Uhr<br>- Deutsch `#2`<br>- Netzwerktechnik `#1` |
-| Do, 16.04.2020 | - Englisch `#13`<br>- Softwareentwicklung `#4`<br>- Softwareentwicklung `#5` |
-| Fr, 17.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Physik `#5` |
-| Sa, 18.04.2020 | n/a |
-| So, 19.04.2020 | n/a |
-
 ## Wochenübersicht 5 (20.04. bis 26.04.2020)
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 20.04.2020 | - Religion (röm.-kath.) `#4` |
-| Di, 21.04.2020 | - Mathematik `#6`|
+| Mo, 20.04.2020 | - Elektrotechnik Unterricht: 7:50 Uhr (MS Teams Meeting)<br>- Religion (röm.-kath.) `#4` |
+| Di, 21.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Mathematik `#6`|
 | Mi, 22.04.2020 | - Geschichte `#3` <br>- Medientechnik (LOIS) `#4` |
 | Do, 23.04.2020 | n/a |
 | Fr, 24.04.2020 | n/a |
