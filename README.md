@@ -4,9 +4,9 @@
 |---|---|
 | Mo, 20.04.2020 | - Elektrotechnik Unterricht: 7:50 Uhr (MS Teams Meeting)<br>- Religion (röm.-kath.) `#4` |
 | Di, 21.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Mathematik `#6`|
-| Mi, 22.04.2020 | - Geschichte `#3` <br>- Medientechnik (LOIS) `#4` |
+| Mi, 22.04.2020 | - Datenbanken Unterricht: 09:30 Uhr<br>- Geschichte `#3` <br>- Medientechnik (LOIS) `#4`<br>- Englisch `#14` |
 | Do, 23.04.2020 | n/a |
-| Fr, 24.04.2020 | n/a |
+| Fr, 24.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr |
 | Sa, 25.04.2020 | n/a |
 | So, 26.04.2020 | n/a |
 
@@ -165,6 +165,7 @@ Musterlösungen von Prof. Springer<br>
 | ~~11~~ | ~~Homework: Grammar (30.03.): Gerund or Infinitive~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~All the exercises on gerund and infinitive (hand outs, twice your own sentences). The ones from the book Durchstarten will be asked to do later.<br><br>In case you have not done it yet - then do it at an instant: the quizz on either gerund or Infinitive (multiple choice answers) and the other practice sheets (+send them to me)<br><br>Study the theory on Gerund and Infinitive, - form another 10 sentences- others than you had to do in the lesson on the 18th.<br><br>- [Gerund or Infinitive Constructions](Englisch/Gerund_Infinitive_Constructions.pdf)<br> - [Infinitive or Gerund thats the Question](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)<br>~~ |
 | ~~12~~ | ~~Matters of lession (01.04.)~~ | ~~Mi, 22.04.2020~~ | ~~E-Mail~~ | ~~Are the theories on gerund and Infinitive clear - not difficult as you have already used them naturally. Do the exercises in DURCHSTARTEN. In some steps till the 22nd of April.<br><br>- [Durchstarten: Seite 44-49](Englisch/Gerund_1.pdf)<br>- [Durchstarten: Seite 157-158](Englisch/Gerund_2.pdf)~~ |
 | ~~13~~ | ~~Matters of lession (01.04.)~~ | ~~Do, 16.04.2020~~ | ~~E-Mail~~ | ~~Read p 79-80; do ex 1 on p 79. Prepare ex 2 - collect data, ideas. Write them down with hints, prompts. Write a leaflet for international students.~~ |
+| 14 | Grammar:  Infinitive & Gerund | Mi, 22.04.2020 | E-Mail | do the sentences on the Theory sheet of the Infinitive. the new sheet: Infin. Look at the 2 sheets with frequently used expressions - listed. Then form 4 sentences with gerund construction to the the verbs given on the old theory sheets including a third person e.g.his, him yelling, their begging: sheets are attached. Surf and work on your presentation topics<br><br>- [Infinitive: Theory](Englisch/Infinitive_Theory.docx)<br>- [Infinitive: List](Englisch/Infinitive_List.docx)<br>- [Infinitive: Practice](Englisch/Infinitive_Practice.docx)<br>- [Infinitive: List](Englisch/Infinitive_List.docx)<br>- [Gerund: List](Englisch/Gerund_List.docx) |
 
 Zusätzliche Arbeitszetteln:
 - [Revision: Article, Report, Blog Comment, Email, Letter, Leaflet](Englisch/Revision_Text.pdf)<br>
