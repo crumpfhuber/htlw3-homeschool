@@ -4,9 +4,9 @@
 |---|---|
 | Mo, 20.04.2020 | - Elektrotechnik Unterricht: 7:50 Uhr<br>- Religion (röm.-kath.) `#4` |
 | Di, 21.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Mathematik `#6`|
-| Mi, 22.04.2020 | - Datenbanken Unterricht: 09:30 Uhr<br>- Geschichte `#3` <br>- Medientechnik (LOIS) `#4`<br>- Englisch `#14` |
+| Mi, 22.04.2020 | - Datenbanken Unterricht: 09:30 Uhr (Fragestunde, keine Präsenz notwendig)<br>- Geschichte `#3` <br>- Medientechnik (LOIS) `#4`<br>- Englisch `#14` |
 | Do, 23.04.2020 | n/a |
-| Fr, 24.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr |
+| Fr, 24.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Datenbanken `#5` |
 | Sa, 25.04.2020 | n/a |
 | So, 26.04.2020 | n/a |
 
@@ -27,7 +27,8 @@
 | ~~1~~ | ~~CLIL task: Selects, Functions and more~~ | ~~Fr, 20.03.2020 18:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13939)~~ | ~~Datenbank & Informationen im [Theoriekurs (`Kompetenzbereich 1`)](https://elearn.htl-wels.at/course/view.php?id=334)<br>//CLEMENS: Es gibt zwei Files zum Importieren. Zuerst muss das Schema und dann das Data File importiert werden! Falls bei wem die zwei Dateien nicht über Moodle heruntergeladen werden kann, ist hier ein ZIP-File mit beiden SQL-Dateien: [database-sakila.zip](Datenbanken/database-sakila.zip)~~ |
 | ~~2~~ | ~~Aufgaben (Nordwind): SQL GroupBy und Funktionen~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14088)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14086)<br>SQL File: [database-nordwind.sql](Datenbanken/database-nordwind.sql)~~ |
 | ~~3~~ | ~~CLIL task: union, intersect, difference~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua)~~ |
-| ~~4~~ | ~~Aufgaben 1: SQL Join~~ | ~~Di, 14.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14196)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14085)~~ |
+| ~~4~~ | ~~Aufgaben: SQL Join~~ | ~~Di, 14.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14196)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14085)~~ |
+| 5 | Join Übungen Teil 1 | Fr, 24.04.2020 | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14279) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14268) |
 
 ## Geschichte
 
