@@ -2,7 +2,7 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 20.04.2020 | - Elektrotechnik Unterricht: 7:50 Uhr<br>- Elektrotechnik Unterricht: 14:20 Uhr<br>- Religion (röm.-kath.) `#4` |
+| Mo, 20.04.2020 | - Elektrotechnik Unterricht: 7:50 Uhr<br>- Religion (röm.-kath.) `#4` |
 | Di, 21.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Mathematik `#6`|
 | Mi, 22.04.2020 | - Datenbanken Unterricht: 09:30 Uhr<br>- Geschichte `#3` <br>- Medientechnik (LOIS) `#4`<br>- Englisch `#14` |
 | Do, 23.04.2020 | n/a |
