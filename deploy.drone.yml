@@ -9,17 +9,17 @@ platform:
 clone:
   disable: true
 
-steps: 
+steps:
   - name: ssh deploy
     image: appleboy/drone-ssh
     settings:
       host:
         from_secret: deploy_host
-      username: 
+      username:
         from_secret: deploy_user
-      key: 
+      key:
         from_secret: deploy_key
-      port: 
+      port:
         from_secret: deploy_port
       script: "cd /var/www/clmns.dev/htlw3-homeschool && git pull && bash ~/genhtml.sh"
 
@@ -36,3 +36,9 @@ steps:
         {{else}}
           {{build.link}} failed. Fix me please.
         {{/success}}
+
+trigger:
+  branch:
+  - master
+  event:
+  - push
