@@ -93,7 +93,7 @@
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Kunststoffe~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsaufträge gesammelt abgeben!Selbststudium Kunststoffe: Jungwirth S. 194-198: Übungen 8.6., 8.7. 8.10. 8.17~~ |
 | ~~2~~ | ~~Waschmittel~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsaufträge gesammelt abgeben! [siehe Arbeitsauftrag](Chemie/Arbeitsauftrag.md)~~|
-| 3 | Arbeitsauftrag | Di, 12.05.2020 | E-Mail | Im Folgenden die Aufgaben aus dem Jungwirth für heute bis einschl. 12.5. bezüglich Farbstoffen:<br>- Selbststudium S. 177 bis 184, darauf basierend Ü 7.3, 7.4. 7.5 lösen<br>- Selbststudium S. 184- 186, darauf basierend Ü 7.7 und 7.8.<br>Nicht abschreiben! Einreichen wie gehabt. |
+| 3 | Arbeitsauftrag | Di, 12.05.2020 | E-Mail | Im Folgenden die Aufgaben aus dem Jungwirth für heute bis einschl. 12.5. bezüglich Farbstoffen:<br>- Selbststudium S. 177 bis 184, darauf basierend Ü 7.3, 7.4. 7.5 lösen<br>- Selbststudium S. 184 bis 186, darauf basierend Ü 7.7 und 7.8.<br>Nicht abschreiben! Einreichen wie gehabt. |
 
 ## Mathematik
 
