@@ -104,7 +104,7 @@
 | ~~3~~ | ~~Differentialrechnung~~ | ~~Mo, 30.03.2020~~ | ~~n/a~~ | ~~- [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf)<br>- [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg)~~ |
 | ~~4~~ | ~~Extremwertaufgaben~~ | ~~n/a~~ | ~~n/a~~ | ~~Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 (SA Übungen!)~~ |
 | ~~5~~ | ~~Integralrechnung~~ | ~~So, 05.03.2020~~ | ~~n/a~~ | ~~Buch Seite 191 - 196, inklusive der Bsp.! (ausgenommen 6.15)<br>[Ergänzende Bemerkungen](Mathematik/Unbestimmtes_Integral_und_Stammfunktion.pdf)~~ |
-| 6 | Integralrechnung Aufgaben | Di, 21.04.2020 | n/a | Buch Seite 201 sind die beiden Regeln erklärt und bei 6.27 anhand von 4 Bsp. durchgerechnet. Das sollt ihr nachvollziehen/nachrechnen. Des weiteren löst ihr die Aufgaben 6.28 - 6.33, die sich alle mit den Grundintegralen und den beiden neuen Regeln lösen lassen. Bei Bedarf müsst ihr den Integranden erst umformen durch Verwendung der üblichen Rechenregeln für Terme (Binome quadrieren, Potenzen umformen, auch Wurzeln als Potenz anschreiben, evtl. mit neg. Hochzahl, Brüche mit einer Summe im Zähler zerlegen, indem man jeden Teil des Zählers durch den Nenner dividiert, ...)<br><br>Bei Problemen bitte unbedingt nachfragen, NICHT ignorieren!! Ich helfe euch gerne.<br><br>Wer Zeit, Lust und Kapazitäten frei hat, darf gerne im Buch weiter fortfahren mit der Integrationsmethode Integration durch Substitution (S.203 - 205), die kommt ohnehin als Nächstes kommende Woche dran. |
+| ~~6~~ | ~~Integralrechnung Aufgaben~~ | ~~Di, 21.04.2020~~ | ~~n/a~~ | ~~Buch Seite 201 sind die beiden Regeln erklärt und bei 6.27 anhand von 4 Bsp. durchgerechnet. Das sollt ihr nachvollziehen/nachrechnen. Des weiteren löst ihr die Aufgaben 6.28 - 6.33, die sich alle mit den Grundintegralen und den beiden neuen Regeln lösen lassen. Bei Bedarf müsst ihr den Integranden erst umformen durch Verwendung der üblichen Rechenregeln für Terme (Binome quadrieren, Potenzen umformen, auch Wurzeln als Potenz anschreiben, evtl. mit neg. Hochzahl, Brüche mit einer Summe im Zähler zerlegen, indem man jeden Teil des Zählers durch den Nenner dividiert, ...)<br><br>Bei Problemen bitte unbedingt nachfragen, NICHT ignorieren!! Ich helfe euch gerne.<br><br>Wer Zeit, Lust und Kapazitäten frei hat, darf gerne im Buch weiter fortfahren mit der Integrationsmethode Integration durch Substitution (S.203 - 205), die kommt ohnehin als Nächstes kommende Woche dran.~~ |
 
 Musterlösungen von Prof. Springer<br>
 - 4.72c (Extremwertaufgaben Kanalquerschnitt): [Mathcad](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [PDF](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
@@ -150,7 +150,7 @@ Musterlösungen von Prof. Springer<br>
 | ~~1~~ | ~~Wie gehts? (Freiwillig)~~ | ~~n/a~~ | ~~n/a~~ | ~~Arbeitsauftrag: [PDF](Religion/WieGehts.pdf)~~ |
 | ~~2~~ | ~~Hartheim~~ | ~~Mo, 30.03.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Hartheim.pdf) oder [Word](Religion/Hartheim.docx)~~ |
 | ~~3~~ | ~~NS Zeit - Filme~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/NS_Zeit_Filme.pdf) oder [Word](Religion/NS_Zeit_Filme.docx)~~ |
-| 4 | Ostern | Mo, 20.04.2020 | E-Mail | Arbeitsauftrag: [PDF](Religion/Ostern_Fragen.pdf) oder [Word](Religion/Ostern_Fragen.docx) |
+| ~~4~~ | ~~Ostern~~ | ~~Mo, 20.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Ostern_Fragen.pdf) oder [Word](Religion/Ostern_Fragen.docx)~~ |
 
 ## Englisch
 
