@@ -6,7 +6,7 @@
 | Di, 21.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Mathematik `#6`|
 | Mi, 22.04.2020 | - Datenbanken Unterricht: 09:30 Uhr (Fragestunde, keine Präsenz notwendig)<br>- Geschichte `#3` <br>- Medientechnik (LOIS) `#4`<br>- Englisch `#14` |
 | Do, 23.04.2020 | n/a |
-| Fr, 24.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Informationstechnische Projekte (WIDM) Unterricht: 15:20 Uhr<br>- Datenbanken `#5`<br>- Englisch `#15` |
+| Fr, 24.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Informationstechnische Projekte (WIDM) Unterricht: 15:20 Uhr<br>- Datenbanken `#5`<br>- Englisch `#15`<br>- Religion `#5` |
 | Sa, 25.04.2020 | n/a |
 | So, 26.04.2020 | n/a |
 
@@ -151,6 +151,7 @@ Musterlösungen von Prof. Springer<br>
 | ~~2~~ | ~~Hartheim~~ | ~~Mo, 30.03.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Hartheim.pdf) oder [Word](Religion/Hartheim.docx)~~ |
 | ~~3~~ | ~~NS Zeit - Filme~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/NS_Zeit_Filme.pdf) oder [Word](Religion/NS_Zeit_Filme.docx)~~ |
 | ~~4~~ | ~~Ostern~~ | ~~Mo, 20.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Ostern_Fragen.pdf) oder [Word](Religion/Ostern_Fragen.docx)~~ |
+| 5 | Bibel: Thomas & Psalmen | Fr, 24.04.2020 | E-Mail | Arbeitsauftrag: [PDF](Religion/Bibel_Thomas_Psalmen.pdf) oder [Word](Religion/Bibel_Thomas_Psalmen.docx) |
 
 ## Englisch
 
