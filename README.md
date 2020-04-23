@@ -17,7 +17,7 @@
 | Mo, 27.04.2020 | - Elektrotechnik Unterricht: 7:50 Uhr<br>- Informationstechnische Projekte (WINJ) `#2` |
 | Di, 28.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr |
 | Mi, 29.04.2020 | n/a |
-| Do, 30.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr<br>- Physik `#7`<br>- Mathematik `#7` |
+| Do, 30.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr<br>- Physik `#7`<br>- Mathematik `#7`<br>- Geschichte `#4` |
 | Fr, 01.04.2020 | `Schulfrei: Staatsfeiertag ` |
 | Sa, 02.04.2020 | n/a |
 | So, 03.04.2020 | n/a |
@@ -48,19 +48,20 @@
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Gruppeneinteilung~~ | ~~Fr, 20.03.2020~~ | ~~WebUntis Chat/E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Teilt euch in sechs 4er Gruppen ein<br> - Jede Gruppe ladet eine Liste mit den Namen der Gruppenmitglieder hoch<br> - Von CLAK wird Feedback zur eurer Bildanalyse über die Karikatur des Wiener Kongresses übermittelt~~ |
 | ~~2~~ | ~~Bildanalyse~~ | ~~Fr, 27.03.2020~~ | ~~E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) & [Karikatur](Geschichte/Industrielle_Revolution_Karikatur.pdf)<br> - Ausformulierte Bildanalyse über die Karikatur zur Industriellen Revolution (siehe Handout)<br> - Dokument (Klasse_Nachnamen) in mein Abgabeverzeichnis hochladen~~ | 
-| 3 | Lesen & Unterstreichen | Mi, 22.04.2020 23:59 | Teams | - Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden.<br>- Unterstrichene Seiten auf Teams hochladen. |
+| ~~3~~ | ~~Lesen & Unterstreichen~~ | ~~Mi, 22.04.2020 23:59~~ | ~~Teams~~ | ~~- Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden.<br>- Unterstrichene Seiten auf Teams hochladen.~~ |
+| 4 | Nationalismus, Kolonialismus & Imperialismus | Mi, 30.04.2020 23:59 | Teams | Ich würde euch bitten, die beantworteten Fragen hochzuladen. |
 
 ## Physik
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| ~~1~~ | ~~Arbeitsauftrag: Spiegel 1~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
-| ~~2~~ | ~~Arbeitsauftrag: Spiegel 2~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
-| ~~3~~ | ~~Arbeitsauftrag: Spiegel 3~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
-| ~~4~~ | ~~Arbeitsauftrag: Spiegel 4~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
-| ~~5~~ | ~~Arbeitsauftrag: Spiegel 5~~ | ~~Fr, 17.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
-| ~~6~~ | ~~Arbeitsauftrag: Spiegel 6~~ | ~~Fr, 03.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams!~~ |
-| 7 | Arbeitsauftrag: Linsen | Do, 30.04.2020 23:59 Uhr | Teams | Datei in Teams! |
+| ~~1~~ | ~~Arbeitsauftrag: Spiegel 1~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
+| ~~2~~ | ~~Arbeitsauftrag: Spiegel 2~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
+| ~~3~~ | ~~Arbeitsauftrag: Spiegel 3~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
+| ~~4~~ | ~~Arbeitsauftrag: Spiegel 4~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
+| ~~5~~ | ~~Arbeitsauftrag: Spiegel 5~~ | ~~Fr, 17.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
+| ~~6~~ | ~~Arbeitsauftrag: Spiegel 6~~ | ~~Fr, 03.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
+| 7 | Arbeitsauftrag: Linsen | Do, 30.04.2020 23:59 Uhr | Teams | Datei in Teams |
 
 ## Geographie
 
@@ -131,7 +132,7 @@ Musterlösungen von Prof. Springer<br>
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Kommentar: "Fairplay im Sport"~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~E-Mail~~ | ~~- [Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf)~~ |
-| ~~2~~ | ~~Kommentar: "Sterben Tiere gern?"~~ | ~~Mi, 15.04.2020 23:59 Uhr~~ | ~~E-Mail~~ | - ~~[E-Mail von Prof. Lugerbauer](Deutsch/02_Email.md)<br>- [Sterben Tiere gern - Angabe](Deutsch/02_Aufgabe_Angabe.pdf)<br>- [Sterben Tiere gern - Text](Deutsch/02_Aufgabe_Text.pdf)~~ |
+| ~~2~~ | ~~Kommentar: "Sterben Tiere gern?"~~ | ~~Mi, 15.04.2020 23:59 Uhr~~ | ~~E-Mail~~ | ~~- [E-Mail von Prof. Lugerbauer](Deutsch/02_Email.md)<br>- [Sterben Tiere gern - Angabe](Deutsch/02_Aufgabe_Angabe.pdf)<br>- [Sterben Tiere gern - Text](Deutsch/02_Aufgabe_Text.pdf)~~ |
 
 ## Netzwerktechnik
 
