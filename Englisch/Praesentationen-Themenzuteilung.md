@@ -13,3 +13,4 @@
 | Modl Simon | Biomass & Biogas |
 | Dragicevic Leon | Oil |
 | Weber Yannick, Steinmaurer Rene | Oil Production |
+| Ruhland Jonas | Energy from Coal |
