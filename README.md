@@ -119,7 +119,7 @@
 | ~~4~~ | ~~Extremwertaufgaben~~ | ~~n/a~~ | ~~n/a~~ | ~~Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 (SA Übungen!)~~ |
 | ~~5~~ | ~~Integralrechnung~~ | ~~So, 05.03.2020~~ | ~~n/a~~ | ~~Buch Seite 191 - 196, inklusive der Bsp.! (ausgenommen 6.15)<br>[Ergänzende Bemerkungen](Mathematik/Unbestimmtes_Integral_und_Stammfunktion.pdf)~~ |
 | ~~6~~ | ~~Integralrechnung Aufgaben~~ | ~~Di, 21.04.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_6.md)~~ |
-| 7 | ~~Integralrechnung Aufgaben~~ | Do, 30.04.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_7.md)<br><br>Ergänzung von Prof. Springer<br>-[Integration durch Substitution 1](Mathematik/PartIntegr_1.jpg)<br>-[Integration durch Substitution 2](Mathematik/PartIntegr_2.jpg)<br>-[Partielle Integration 1](Mathematik/PartIntegr_1.jpg)<br>-[Partielle Integration 2](Mathematik/PartIntegr_2.jpg)|
+| 7 | ~~Integralrechnung Aufgaben~~ | Do, 30.04.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_7.md)<br><br>Ergänzung von Prof. Springer<br>- [Integration durch Substitution 1](Mathematik/PartIntegr_1.jpg)<br>- [Integration durch Substitution 2](Mathematik/PartIntegr_2.jpg)<br>- [Partielle Integration 1](Mathematik/PartIntegr_1.jpg)<br>- [Partielle Integration 2](Mathematik/PartIntegr_2.jpg)|
 
 Musterlösungen von Prof. Springer<br>
 - 4.72c (Extremwertaufgaben Kanalquerschnitt): [Mathcad](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [PDF](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
