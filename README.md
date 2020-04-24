@@ -6,7 +6,7 @@
 | Di, 21.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Mathematik `#6`|
 | Mi, 22.04.2020 | - Datenbanken Unterricht: 09:30 Uhr (Fragestunde, keine Präsenz notwendig)<br>- Geschichte `#3` <br>- Medientechnik (LOIS) `#4`<br>- Englisch `#14` |
 | Do, 23.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr |
-| Fr, 24.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Betriebssysteme (REFR) Unterricht: ??:?? Uhr<br>- Informationstechnische Projekte (WIDM) Unterricht: 15:20 Uhr<br>- Datenbanken `#5`<br>- Englisch `#15`<br>- Religion `#5` |
+| Fr, 24.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Betriebssysteme (REFR) Unterricht: 10:00 Uhr<br>- Informationstechnische Projekte (WIDM) Unterricht: 15:20 Uhr<br>- Datenbanken `#5`<br>- Englisch `#15`<br>- Religion (röm.-kath.) `#5` |
 | Sa, 25.04.2020 | n/a |
 | So, 26.04.2020 | n/a |
 
@@ -18,7 +18,7 @@
 | Di, 28.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr |
 | Mi, 29.04.2020 | n/a |
 | Do, 30.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr<br>- Physik `#7`<br>- Mathematik `#7`<br>- Geschichte `#4` |
-| Fr, 01.04.2020 | `Schulfrei: Staatsfeiertag ` |
+| Fr, 01.04.2020 | `Schulfrei: Staatsfeiertag` |
 | Sa, 02.04.2020 | n/a |
 | So, 03.04.2020 | n/a |
 
