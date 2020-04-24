@@ -6,7 +6,7 @@
 | Di, 21.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Mathematik `#6`|
 | Mi, 22.04.2020 | - Datenbanken Unterricht: 09:30 Uhr (Fragestunde, keine Präsenz notwendig)<br>- Geschichte `#3` <br>- Medientechnik (LOIS) `#4`<br>- Englisch `#14` |
 | Do, 23.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr |
-| Fr, 24.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Betriebssysteme (REFR) Unterricht: 10:00 Uhr<br>- Informationstechnische Projekte (WIDM) Unterricht: 15:20 Uhr<br>- Datenbanken `#5`<br>- Englisch `#15`<br>- Religion (röm.-kath.) `#5` |
+| Fr, 24.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Betriebssysteme (REFR) Unterricht: 10:00 Uhr<br>- Informationstechnische Projekte (WIDM) Unterricht: 16:00 Uhr<br>- Datenbanken `#5`<br>- Englisch `#15`<br>- Religion (röm.-kath.) `#5` |
 | Sa, 25.04.2020 | n/a |
 | So, 26.04.2020 | n/a |
 
@@ -133,6 +133,7 @@ Musterlösungen von Prof. Springer<br>
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Kommentar: "Fairplay im Sport"~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~E-Mail~~ | ~~- [Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf)~~ |
 | ~~2~~ | ~~Kommentar: "Sterben Tiere gern?"~~ | ~~Mi, 15.04.2020 23:59 Uhr~~ | ~~E-Mail~~ | ~~- [E-Mail von Prof. Lugerbauer](Deutsch/02_Email.md)<br>- [Sterben Tiere gern - Angabe](Deutsch/02_Aufgabe_Angabe.pdf)<br>- [Sterben Tiere gern - Text](Deutsch/02_Aufgabe_Text.pdf)~~ |
+| 3 | Literaturepoche der Romantik | Mi, 06.05.2020 | E-Mail | - [Arbeitsauftrag](Deutsch/03_Arbeitsauftrag.md)<br>- [Romantik](Deutsch/03_Romantik.pdf)<br>- [Arbeitsblatt](Deutsch/03_Arbeitsblatt.docx) |
 
 ## Netzwerktechnik
 
