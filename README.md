@@ -18,9 +18,9 @@
 | Di, 28.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr |
 | Mi, 29.04.2020 | - Geschichte `#4` |
 | Do, 30.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr<br>- Physik `#7`<br>- Mathematik `#7` |
-| Fr, 01.04.2020 | `Schulfrei: Staatsfeiertag` |
-| Sa, 02.04.2020 | n/a |
-| So, 03.04.2020 | n/a |
+| Fr, 01.05.2020 | `Schulfrei: Staatsfeiertag` |
+| Sa, 02.05.2020 | n/a |
+| So, 03.05.2020 | n/a |
 
 ## Softwareentwicklung
 
