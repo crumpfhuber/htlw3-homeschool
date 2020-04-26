@@ -16,7 +16,7 @@
 |---|---|
 | Mo, 27.04.2020 | - Elektrotechnik Unterricht: 7:50 Uhr<br>- Informationstechnische Projekte (WINJ) `#2` |
 | Di, 28.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr |
-| Mi, 29.04.2020 | - Geschichte `#4` |
+| Mi, 29.04.2020 | - Geschichte `#4`<br>- Englisch `#16` |
 | Do, 30.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr<br>- Physik `#7`<br>- Mathematik `#7` |
 | Fr, 01.05.2020 | `Schulfrei: Staatsfeiertag` |
 | Sa, 02.05.2020 | n/a |
@@ -187,6 +187,7 @@ Musterlösungen von Prof. Springer<br>
 | ~~13~~ | ~~Matters of lession (01.04.)~~ | ~~Do, 16.04.2020~~ | ~~E-Mail~~ | ~~Read p 79-80; do ex 1 on p 79. Prepare ex 2 - collect data, ideas. Write them down with hints, prompts. Write a leaflet for international students.~~ |
 | 14 | Matters of lession (20.04.) | Mi, 22.04.2020 | E-Mail | do the sentences on the Theory sheet of the Infinitive. the new sheet: Infin. Look at the 2 sheets with frequently used expressions - listed. Then form 4 sentences with gerund construction to the the verbs given on the old theory sheets including a third person e.g.his, him yelling, their begging: sheets are attached. Surf and work on your presentation topics<br><br>- [Infinitive: Theory](Englisch/Infinitive_Theory.docx)<br>- [Infinitive: List](Englisch/Infinitive_List.docx)<br>- [Infinitive: Practice](Englisch/Infinitive_Practice.docx)<br>- [Gerund: List](Englisch/Gerund_List.docx) |
 | 15 | Homework (20.04.) | Fr, 24.04.2020 | E-Mail | Write your sign posting neatly. I ask you to send the papers to me.<br>//CLEMENS: Inhaltsverzeichnis und Quellen (mit evt. Text) an DOPP schicken. Eine fertige Präsentation ist nicht notwendig. |
+| 16 | Homework (27.04.) | Mi,  29.04.2020 | E-Mail | FOMT: pp83 and th following: read Passive Houses. underline the words you know passively, that means you could not have thought of them by yourself. For turning them into active Knowledge - write them on your vocabulary list.<br><br>Answer the question: what are the special charcteristics of a passive house, which distiguish it from a conventional house. the newer technology is the low energy house?<br><br>Continue working on your presentation. |
 
 Zusätzliche Arbeitszetteln:
 - [Revision: Article, Report, Blog Comment, Email, Letter, Leaflet](Englisch/Revision_Text.pdf)<br>
