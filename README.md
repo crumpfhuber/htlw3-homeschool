@@ -108,7 +108,7 @@
 | ~~5~~ | ~~Integralrechnung~~ | ~~So, 05.03.2020~~ | ~~n/a~~ | ~~Buch Seite 191 - 196, inklusive der Bsp.! (ausgenommen 6.15)<br>[Ergänzende Bemerkungen](Mathematik/Unbestimmtes_Integral_und_Stammfunktion.pdf)~~ |
 | ~~6~~ | ~~Integralrechnung Aufgaben~~ | ~~Di, 21.04.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_6.md)~~ |
 | 7 | ~~Integralrechnung Aufgaben~~ | Do, 30.04.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_7.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integration durch Substitution 1](Mathematik/PartIntegr_1.jpg)<br>- [Integration durch Substitution 2](Mathematik/PartIntegr_2.jpg)<br>- [Partielle Integration 1](Mathematik/PartIntegr_1.jpg)<br>- [Partielle Integration 2](Mathematik/PartIntegr_2.jpg)|
-| 8 | Bestimmtes Integral | Do, 07.05.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_8.md) |
+| 8 | Bestimmtes Integral | Do, 07.05.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_8.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integral mit Mathematik - Mathcad](Mathematik/Integral_mit_Mathcad.mcdx)<br>- [Integral mit Mathematik - PDF](Mathematik/Integral_mit_Mathcad.pdf) |
 
 Musterlösungen von Prof. Springer<br>
 - 4.72c (Extremwertaufgaben Kanalquerschnitt): [Mathcad](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [PDF](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
