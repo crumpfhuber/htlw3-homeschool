@@ -47,3 +47,15 @@
 | Fr, 17.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 10:00 Uhr<br>- Physik `#5` |
 | Sa, 18.04.2020 | n/a |
 | So, 19.04.2020 | n/a |
+
+## Wochenübersicht 5 (20.04. bis 26.04.2020)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 20.04.2020 | - Elektrotechnik Unterricht: 7:50 Uhr<br>- Religion (röm.-kath.) `#4` |
+| Di, 21.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Mathematik `#6`|
+| Mi, 22.04.2020 | - Datenbanken Unterricht: 09:30 Uhr (Fragestunde, keine Präsenz notwendig)<br>- Geschichte `#3` <br>- Medientechnik (LOIS) `#4`<br>- Englisch `#14` |
+| Do, 23.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr |
+| Fr, 24.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Betriebssysteme (REFR) Unterricht: 10:00 Uhr<br>- Informationstechnische Projekte (WIDM) Unterricht: 16:00 Uhr<br>- Datenbanken `#5`<br>- Englisch `#15`<br>- Religion (röm.-kath.) `#5` |
+| Sa, 25.04.2020 | n/a |
+| So, 26.04.2020 | n/a |
