@@ -14,9 +14,9 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 04.05.2020 | `Schulfrei: St. Florian` |
+| Mo, 04.05.2020 | `Schulfrei: St. Florian`<br>- Softwareentwicklung `6` |
 | Di, 05.05.2020 | Religion (röm.-kath.) `#6` |
-| Mi, 06.05.2020 | - Betriebssysteme `#3`<br>- Datenbanken `#6` |
+| Mi, 06.05.2020 | - Betriebssysteme `#3`<br>- Datenbanken `#6`<br>- Deutsch `#3` |
 | Do, 07.05.2020 | - Mathematik `8` |
 | Fr, 08.05.2020 | n/a |
 | Sa, 09.05.2020 | n/a |
@@ -27,10 +27,11 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Literaturrecherche~~ | ~~Di, 17.03.2020 08:00 Uhr~~ | ~~Teams~~ | ~~Lies dir im C-Skriptum Seite 22+23 als Vorbereitung für Dienstag durch. Datei in Teams!~~ |
-| ~~2~~ | ~~Aufgabe: 605_StringOps~~ | ~~Mo, 23.03.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps)~~ |
-| ~~3~~ | ~~Aufgabe: 608_TicTacToe~~ | ~~Mo, 30.03.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/608_TicTacToe)~~ |
-| ~~4~~ | ~~Aufgabe: 609_ArrayBereinigung~~ | ~~Do, 16.04.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/609_ArrayBereinigung)~~ |
-| ~~5~~ | ~~Aufgabe: 610_Erathostenes~~ | ~~Do, 16.04.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/610_Erathostenes)~~ |
+| ~~2~~ | ~~Aufgabe: 605_StringOps~~ | ~~Mo, 23.03.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps)~~ |
+| ~~3~~ | ~~Aufgabe: 608_TicTacToe~~ | ~~Mo, 30.03.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/608_TicTacToe)~~ |
+| ~~4~~ | ~~Aufgabe: 609_ArrayBereinigung~~ | ~~Do, 16.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/609_ArrayBereinigung)~~ |
+| ~~5~~ | ~~Aufgabe: 610_Erathostenes~~ | ~~Do, 16.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/610_Erathostenes)~~ |
+| 6 | Aufgabe: 612_Adressen | Mo, 04.04.2020 23:59 Uhr | GitHub & Teams | [siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/612_Adressen) |
 
 ## Datenbanken
 
@@ -40,7 +41,7 @@
 | ~~2~~ | ~~Aufgaben (Nordwind): SQL GroupBy und Funktionen~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14088)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14086)<br>SQL File: [database-nordwind.sql](Datenbanken/database-nordwind.sql)~~ |
 | ~~3~~ | ~~CLIL task: union, intersect, difference~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua)~~ |
 | ~~4~~ | ~~Aufgaben: SQL Join~~ | ~~Di, 14.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14196)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14085)~~ |
-| 5 | Join Übungen Teil 1 | Fr, 24.04.2020 | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14279) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14268) |
+| ~~5~~ | ~~Join Übungen Teil 1~~ | ~~Fr, 24.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14279) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14268)~~ |
 | 6 | Join Übungen Teil 2 | Mi, 06.05.2020 | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14365) |
 
 ## Geschichte
@@ -50,7 +51,7 @@
 | ~~1~~ | ~~Gruppeneinteilung~~ | ~~Fr, 20.03.2020~~ | ~~WebUntis Chat/E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Teilt euch in sechs 4er Gruppen ein<br> - Jede Gruppe ladet eine Liste mit den Namen der Gruppenmitglieder hoch<br> - Von CLAK wird Feedback zur eurer Bildanalyse über die Karikatur des Wiener Kongresses übermittelt~~ |
 | ~~2~~ | ~~Bildanalyse~~ | ~~Fr, 27.03.2020~~ | ~~E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) & [Karikatur](Geschichte/Industrielle_Revolution_Karikatur.pdf)<br> - Ausformulierte Bildanalyse über die Karikatur zur Industriellen Revolution (siehe Handout)<br> - Dokument (Klasse_Nachnamen) in mein Abgabeverzeichnis hochladen~~ | 
 | ~~3~~ | ~~Lesen & Unterstreichen~~ | ~~Mi, 22.04.2020 23:59~~ | ~~Teams~~ | ~~- Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden.<br>- Unterstrichene Seiten auf Teams hochladen.~~ |
-| 4 | Nationalismus, Kolonialismus & Imperialismus | Mi, 29.04.2020 23:59 | Teams | Ich würde euch bitten, die beantworteten Fragen hochzuladen. |
+| 4 | Nationalismus, Kolonialismus & Imperialismus | Mi, 29.04.2020 23:59 | Teams | Datei und Infos in Teams |
 
 ## Physik
 
@@ -83,7 +84,7 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Buchung auf Bestandskonten~~ | ~~Di, 14.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
-| 2 | Buchungen auf Erfolgskonten | Mo, 27.04.2020 23:59 Uhr | Teams | Infos in Teams |
+| ~~2~~ | ~~Buchungen auf Erfolgskonten~~ | ~~Mo, 27.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 
 
 ## Betriebssysteme
@@ -150,7 +151,7 @@ Musterlösungen von Prof. Springer<br>
 | ~~1~~ | ~~Übung 4 - Terminkalender~~ | ~~Mi, 25.03.2020 11:00 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 4](Medientechnik/UE4_Terminkalender.pdf)<br>Es sollen Blautöne, wie in der Beispielgrafik zusehen, verwendet werden!<br>//CLEMENS: [https://www.php-kurs.com/arrays-mehrdimensional.htm](https://www.php-kurs.com/arrays-mehrdimensional.htm)~~  |
 | ~~2~~ | ~~Übung 2 - Konstanten~~ | ~~Mi, 25.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf)~~ |
 | ~~3~~ | ~~Übung 3 - Preisberechnung~~ | ~~Mi, 25.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf)~~ |
-| 4 | Übung 5 - Taschenrechner | Mi, 22.04.2020 23:59 Uhr | Teams | [Angabe: Übung 5](Medientechnik/UE5_Taschenrechner.md) |
+| ~~4~~ | ~~Übung 5 - Taschenrechner~~ | ~~Mi, 22.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 5](Medientechnik/UE5_Taschenrechner.md)~~ |
 
 ## Medientechnik (HELT)
 
