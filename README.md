@@ -41,7 +41,7 @@
 | ~~2~~ | ~~Aufgaben (Nordwind): SQL GroupBy und Funktionen~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14088)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14086)<br>SQL File: [database-nordwind.sql](Datenbanken/database-nordwind.sql)~~ |
 | ~~3~~ | ~~CLIL task: union, intersect, difference~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua)~~ |
 | ~~4~~ | ~~Aufgaben: SQL Join~~ | ~~Di, 14.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14196)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14085)~~ |
-| ~~5~~ | ~~Join Übungen Teil 1~~ | ~~Fr, 24.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14279) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14268)~~ |
+| ~~5~~ | ~~Join Übungen Teil 1~~ | ~~Fr, 24.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14279)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14268)~~ |
 | 6 | Join Übungen Teil 2 | Mi, 06.05.2020 | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14365) |
 
 ## Geschichte
