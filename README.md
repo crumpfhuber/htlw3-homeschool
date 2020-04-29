@@ -5,7 +5,7 @@
 | Mo, 27.04.2020 | - Elektrotechnik Unterricht: 7:50 Uhr<br>- Informationstechnische Projekte (WINJ) `#2` |
 | Di, 28.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr |
 | Mi, 29.04.2020 | - Medientechnik (LOIS) Unterricht: 11:45 Uhr<br>- Geschichte `#4`<br>- Englisch `#16` |
-| Do, 30.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr<br>- Betriebssysteme (REFR) Unterricht: 10:45 Uhr<br>- Physik `#7`<br>- Mathematik `#7` |
+| Do, 30.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr<br>- Betriebssysteme (REFR)  Unterricht: 10:45 Uhr<br>- Betriebssysteme `#4`<br>- Physik `#7`<br>- Mathematik `#7` |
 | Fr, 01.05.2020 | `Schulfrei: Staatsfeiertag` |
 | Sa, 02.05.2020 | n/a |
 | So, 03.05.2020 | n/a |
@@ -42,7 +42,7 @@
 | ~~3~~ | ~~CLIL task: union, intersect, difference~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua)~~ |
 | ~~4~~ | ~~Aufgaben: SQL Join~~ | ~~Di, 14.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14196)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14085)~~ |
 | ~~5~~ | ~~Join Übungen Teil 1~~ | ~~Fr, 24.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14279)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14268)~~ |
-| 6 | Join Übungen Teil 2 | Mi, 06.05.2020 | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14365) |
+| 6 | Join Übungen Teil 2 | Mi, 06.05.2020 09:40 Uhr | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14365) |
 
 ## Geschichte
 
@@ -94,6 +94,8 @@
 | 1 | REFR: Bootprozess unter Linux - Grub | n/a | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
 | ~~2~~ | ~~REFR: Linux Mount / fstab~~ | ~~n/a~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14138)~~ | ~~Gemeinsam im Unterricht gemacht~~ |
 | 3 | LERI: PowerShell - Script AddUser | Mi, 06.05.2020 10:00 | Teams | Infos in Teams |
+| 4 | REFR: Gpt-Analyse Programm in C | Do, 30.04.2020 17:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14317) | siehe zusätzlich Discord Chat |
+
 
 ## Elektrotechnik
 
