@@ -15,7 +15,7 @@
 | Datum | Beschreibung |
 |---|---|
 | Mo, 04.05.2020 | `Schulfrei: St. Florian` |
-| Di, 05.05.2020 | n/a |
+| Di, 05.05.2020 | Religion (röm.-kath.) `#6` |
 | Mi, 06.05.2020 | - Betriebssysteme `#3`<br>- Datenbanken `#6` |
 | Do, 07.05.2020 | - Mathematik `8` |
 | Fr, 08.05.2020 | n/a |
@@ -169,7 +169,8 @@ Musterlösungen von Prof. Springer<br>
 | ~~2~~ | ~~Hartheim~~ | ~~Mo, 30.03.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Hartheim.pdf) oder [Word](Religion/Hartheim.docx)~~ |
 | ~~3~~ | ~~NS Zeit - Filme~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/NS_Zeit_Filme.pdf) oder [Word](Religion/NS_Zeit_Filme.docx)~~ |
 | ~~4~~ | ~~Ostern~~ | ~~Mo, 20.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Ostern_Fragen.pdf) oder [Word](Religion/Ostern_Fragen.docx)~~ |
-| 5 | Bibel: Thomas & Psalmen | Fr, 24.04.2020 | E-Mail | Arbeitsauftrag: [PDF](Religion/Bibel_Thomas_Psalmen.pdf) oder [Word](Religion/Bibel_Thomas_Psalmen.docx) |
+| ~~5~~ | ~~Bibel: Thomas & Psalmen~~ | ~~Fr, 24.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Bibel_Thomas_Psalmen.pdf) oder [Word](Religion/Bibel_Thomas_Psalmen.docx)~~ |
+| 6 | Erster Mai: Tag der Arbeit & Brauchtum | Di, 05.05.2020 | E-Mail | Arbeitsauftrag: [PDF](Religion/Mai1_Brauchtum.pdf) oder [Word](Religion/Mai1_Brauchtum.docx) |
 
 ## Englisch
 
