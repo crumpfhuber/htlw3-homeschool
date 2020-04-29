@@ -93,7 +93,7 @@
 |--------|---------------|-------------|--------|-----------|
 | 1 | REFR: Bootprozess unter Linux - Grub | n/a | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
 | ~~2~~ | ~~REFR: Linux Mount / fstab~~ | ~~n/a~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14138)~~ | ~~Gemeinsam im Unterricht gemacht~~ |
-| 3 | LERI: PowerShell - Script AddUser | Mi, 06.05.2020 10:00 | Teams | Infos in Teams |
+| 3 | LERI: PowerShell - Script AddUser | Mi, 06.05.2020 10:00 Uhr | Teams | Infos in Teams |
 | 4 | REFR: Gpt-Analyse Programm in C | Do, 30.04.2020 17:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14317) | siehe zusätzlich Discord Chat |
 
 
