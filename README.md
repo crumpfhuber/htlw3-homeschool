@@ -10,6 +10,18 @@
 | Sa, 02.05.2020 | n/a |
 | So, 03.05.2020 | n/a |
 
+## Wochenübersicht 7 (04.05. bis 03.05.2020)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 04.05.2020 | `Schulfrei: St. Florian` |
+| Di, 05.05.2020 | n/a |
+| Mi, 06.05.2020 | - Betriebssysteme `#3`<br>- Datenbanken `#6` |
+| Do, 07.05.2020 | - Mathematik `8` |
+| Fr, 08.05.2020 | n/a |
+| Sa, 09.05.2020 | n/a |
+| So, 10.05.2020 | `Muttertag` |
+
 ## Softwareentwicklung
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
@@ -29,6 +41,7 @@
 | ~~3~~ | ~~CLIL task: union, intersect, difference~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua)~~ |
 | ~~4~~ | ~~Aufgaben: SQL Join~~ | ~~Di, 14.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14196)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14085)~~ |
 | 5 | Join Übungen Teil 1 | Fr, 24.04.2020 | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14279) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14268) |
+| 6 | Join Übungen Teil 2 | Mi, 06.05.2020 | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14365) |
 
 ## Geschichte
 
