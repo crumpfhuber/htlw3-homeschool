@@ -143,6 +143,7 @@ Musterlösungen von Prof. Springer<br>
 | ~~2~~ | ~~Übung 2 - Konstanten~~ | ~~Mi, 25.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 2](Medientechnik/UE2_Konstanten.pdf)~~ |
 | ~~3~~ | ~~Übung 3 - Preisberechnung~~ | ~~Mi, 25.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf)~~ |
 | ~~4~~ | ~~Übung 5 - Taschenrechner~~ | ~~Mi, 22.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 5](Medientechnik/UE5_Taschenrechner.md)~~ |
+| 5 | Übung 6 - Terminkalender mit Dateien | Mi, 13.05.2020 23:59 Uhr | Teams | Infos in Teams |
 
 ## Medientechnik (HELT)
 
