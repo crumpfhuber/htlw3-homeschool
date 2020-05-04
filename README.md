@@ -1,15 +1,3 @@
-## Wochenübersicht 6 (27.04. bis 03.05.2020)
-
-| Datum | Beschreibung |
-|---|---|
-| Mo, 27.04.2020 | - Elektrotechnik Unterricht: 7:50 Uhr<br>- Informationstechnische Projekte (WINJ) `#2` |
-| Di, 28.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr |
-| Mi, 29.04.2020 | - Medientechnik (LOIS) Unterricht: 11:45 Uhr<br>- Geschichte `#4`<br>- Englisch `#16` |
-| Do, 30.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr<br>- Betriebssysteme (REFR)  Unterricht: 10:45 Uhr<br>- Physik `#7`<br>- Mathematik `#7` |
-| Fr, 01.05.2020 | `Schulfrei: Staatsfeiertag` |
-| Sa, 02.05.2020 | n/a |
-| So, 03.05.2020 | n/a |
-
 ## Wochenübersicht 7 (04.05. bis 03.05.2020)
 
 | Datum | Beschreibung |
@@ -51,19 +39,20 @@
 | ~~1~~ | ~~Gruppeneinteilung~~ | ~~Fr, 20.03.2020~~ | ~~WebUntis Chat/E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf)<br> - Teilt euch in sechs 4er Gruppen ein<br> - Jede Gruppe ladet eine Liste mit den Namen der Gruppenmitglieder hoch<br> - Von CLAK wird Feedback zur eurer Bildanalyse über die Karikatur des Wiener Kongresses übermittelt~~ |
 | ~~2~~ | ~~Bildanalyse~~ | ~~Fr, 27.03.2020~~ | ~~E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) & [Karikatur](Geschichte/Industrielle_Revolution_Karikatur.pdf)<br> - Ausformulierte Bildanalyse über die Karikatur zur Industriellen Revolution (siehe Handout)<br> - Dokument (Klasse_Nachnamen) in mein Abgabeverzeichnis hochladen~~ | 
 | ~~3~~ | ~~Lesen & Unterstreichen~~ | ~~Mi, 22.04.2020 23:59~~ | ~~Teams~~ | ~~- Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden.<br>- Unterstrichene Seiten auf Teams hochladen.~~ |
-| 4 | Nationalismus, Kolonialismus & Imperialismus | Mi, 29.04.2020 23:59 | Teams | Datei und Infos in Teams |
+| ~~4~~ | ~~Nationalismus, Kolonialismus & Imperialismus~~ | ~~Mi, 29.04.2020 23:59~~ | ~~Teams~~ | ~~Datei und Infos in Teams~~ |
 
 ## Physik
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| ~~1~~ | ~~Arbeitsauftrag: Spiegel 1~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
-| ~~2~~ | ~~Arbeitsauftrag: Spiegel 2~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
-| ~~3~~ | ~~Arbeitsauftrag: Spiegel 3~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
-| ~~4~~ | ~~Arbeitsauftrag: Spiegel 4~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
-| ~~5~~ | ~~Arbeitsauftrag: Spiegel 5~~ | ~~Fr, 17.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
-| ~~6~~ | ~~Arbeitsauftrag: Spiegel 6~~ | ~~Fr, 03.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei in Teams~~ |
-| 7 | Arbeitsauftrag: Linsen | Do, 30.04.2020 23:59 Uhr | Teams | Datei in Teams |
+| ~~1~~ | ~~Spiegel 1~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| ~~2~~ | ~~Spiegel 2~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| ~~3~~ | ~~Spiegel 3~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| ~~4~~ | ~~Spiegel 4~~ | ~~Fr, 27.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| ~~5~~ | ~~Spiegel 5~~ | ~~Fr, 17.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| ~~6~~ | ~~Spiegel 6~~ | ~~Fr, 03.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| ~~7~~ | ~~Linsen~~ | ~~Do, 30.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| 8 | Das Auge | Fr, 15.05.2020 23:59 Uhr | Teams | Infos in Teams |
 
 ## Geographie
 
@@ -123,7 +112,7 @@
 | ~~4~~ | ~~Extremwertaufgaben~~ | ~~n/a~~ | ~~n/a~~ | ~~Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 (SA Übungen!)~~ |
 | ~~5~~ | ~~Integralrechnung~~ | ~~So, 05.03.2020~~ | ~~n/a~~ | ~~Buch Seite 191 - 196, inklusive der Bsp.! (ausgenommen 6.15)<br>[Ergänzende Bemerkungen](Mathematik/Unbestimmtes_Integral_und_Stammfunktion.pdf)~~ |
 | ~~6~~ | ~~Integralrechnung Aufgaben~~ | ~~Di, 21.04.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_6.md)~~ |
-| 7 | ~~Integralrechnung Aufgaben~~ | Do, 30.04.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_7.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integration durch Substitution 1](Mathematik/PartIntegr_1.jpg)<br>- [Integration durch Substitution 2](Mathematik/PartIntegr_2.jpg)<br>- [Partielle Integration 1](Mathematik/PartIntegr_1.jpg)<br>- [Partielle Integration 2](Mathematik/PartIntegr_2.jpg)|
+| ~~7~~ | ~~Integralrechnung Aufgaben~~ | ~~Do, 30.04.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_7.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integration durch Substitution 1](Mathematik/PartIntegr_1.jpg)<br>- [Integration durch Substitution 2](Mathematik/PartIntegr_2.jpg)<br>- [Partielle Integration 1](Mathematik/PartIntegr_1.jpg)<br>- [Partielle Integration 2](Mathematik/PartIntegr_2.jpg)~~ |
 | 8 | Bestimmtes Integral | Do, 07.05.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_8.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integral mit Mathematik - Mathcad](Mathematik/Integral_mit_Mathcad.mcdx)<br>- [Integral mit Mathematik - PDF](Mathematik/Integral_mit_Mathcad.pdf) |
 
 Musterlösungen von Prof. Springer<br>
@@ -191,9 +180,9 @@ Musterlösungen von Prof. Springer<br>
 | ~~11~~ | ~~Homework: Grammar (30.03.): Gerund or Infinitive~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~All the exercises on gerund and infinitive (hand outs, twice your own sentences). The ones from the book Durchstarten will be asked to do later.<br><br>In case you have not done it yet - then do it at an instant: the quizz on either gerund or Infinitive (multiple choice answers) and the other practice sheets (+send them to me)<br><br>Study the theory on Gerund and Infinitive, - form another 10 sentences- others than you had to do in the lesson on the 18th.<br><br>- [Gerund or Infinitive Constructions](Englisch/Gerund_Infinitive_Constructions.pdf)<br> - [Infinitive or Gerund thats the Question](Englisch/Infinitive_Gerund_Thats_The_Question.pdf)<br>~~ |
 | ~~12~~ | ~~Matters of lession (01.04.)~~ | ~~Mi, 22.04.2020~~ | ~~E-Mail~~ | ~~Are the theories on gerund and Infinitive clear - not difficult as you have already used them naturally. Do the exercises in DURCHSTARTEN. In some steps till the 22nd of April.<br><br>- [Durchstarten: Seite 44-49](Englisch/Gerund_1.pdf)<br>- [Durchstarten: Seite 157-158](Englisch/Gerund_2.pdf)~~ |
 | ~~13~~ | ~~Matters of lession (01.04.)~~ | ~~Do, 16.04.2020~~ | ~~E-Mail~~ | ~~Read p 79-80; do ex 1 on p 79. Prepare ex 2 - collect data, ideas. Write them down with hints, prompts. Write a leaflet for international students.~~ |
-| 14 | Matters of lession (20.04.) | Mi, 22.04.2020 | E-Mail | do the sentences on the Theory sheet of the Infinitive. the new sheet: Infin. Look at the 2 sheets with frequently used expressions - listed. Then form 4 sentences with gerund construction to the the verbs given on the old theory sheets including a third person e.g.his, him yelling, their begging: sheets are attached. Surf and work on your presentation topics<br><br>- [Infinitive: Theory](Englisch/Infinitive_Theory.docx)<br>- [Infinitive: List](Englisch/Infinitive_List.docx)<br>- [Infinitive: Practice](Englisch/Infinitive_Practice.docx)<br>- [Gerund: List](Englisch/Gerund_List.docx) |
-| 15 | Homework (20.04.) | Fr, 24.04.2020 | E-Mail | Write your sign posting neatly. I ask you to send the papers to me.<br>//CLEMENS: Inhaltsverzeichnis und Quellen (mit evt. Text) an DOPP schicken. Eine fertige Präsentation ist nicht notwendig. |
-| 16 | Homework (27.04.) | Mi,  29.04.2020 | E-Mail | FOMT: pp83 and th following: read Passive Houses. underline the words you know passively, that means you could not have thought of them by yourself. For turning them into active Knowledge - write them on your vocabulary list.<br><br>Answer the question: what are the special charcteristics of a passive house, which distiguish it from a conventional house. the newer technology is the low energy house?<br><br>Continue working on your presentation. |
+| ~~14~~ | ~~Matters of lession (20.04.)~~ | ~~Mi, 22.04.2020~~ | ~~E-Mail~~ | ~~do the sentences on the Theory sheet of the Infinitive. the new sheet: Infin. Look at the 2 sheets with frequently used expressions - listed. Then form 4 sentences with gerund construction to the the verbs given on the old theory sheets including a third person e.g.his, him yelling, their begging: sheets are attached. Surf and work on your presentation topics<br><br>- [Infinitive: Theory](Englisch/Infinitive_Theory.docx)<br>- [Infinitive: List](Englisch/Infinitive_List.docx)<br>- [Infinitive: Practice](Englisch/Infinitive_Practice.docx)<br>- [Gerund: List](Englisch/Gerund_List.docx)~~ |
+| ~~15~~ | ~~Homework (20.04.)~~ | ~~Fr, 24.04.2020~~ | ~~E-Mail~~ | ~~Write your sign posting neatly. I ask you to send the papers to me.<br>//CLEMENS: Inhaltsverzeichnis und Quellen (mit evt. Text) an DOPP schicken. Eine fertige Präsentation ist nicht notwendig.~~ |
+| ~~16~~ | ~~Homework (27.04.)~~ | ~~Mi, 29.04.2020~~ | ~~E-Mail~~ | ~~FOMT: pp83 and th following: read Passive Houses. underline the words you know passively, that means you could not have thought of them by yourself. For turning them into active Knowledge - write them on your vocabulary list.<br><br>Answer the question: what are the special charcteristics of a passive house, which distiguish it from a conventional house. the newer technology is the low energy house?<br><br>Continue working on your presentation.~~ |
 | 17 | Matters of lession & Homework (29.04) | n/a | Mi, 06.05.2020 | Teaching Content: Control your exercises on the two latest Grammar chapters. Find out which ones you have not done yet from the scans of the Durchstarten book. Work on these ones.<br><br>Homework: For a 4-day weekend: presentation - priority -not yet the Grammar exercises.. Complete the exercises on the Scans of the D-book. and get your sign posting of the presentation and the introductory words ready for sending it. Inhaltsangabe, Überblick. This will also help you for your power presentation in case we will need it, though I consider it not as necessary.<br><br>I'd like to get your introductory sentences as well. |
 
 
