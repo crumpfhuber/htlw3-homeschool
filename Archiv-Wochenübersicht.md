@@ -59,3 +59,15 @@
 | Fr, 24.04.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br>- Betriebssysteme (REFR) Unterricht: 10:00 Uhr<br>- Informationstechnische Projekte (WIDM) Unterricht: 16:00 Uhr<br>- Datenbanken `#5`<br>- Englisch `#15`<br>- Religion (röm.-kath.) `#5` |
 | Sa, 25.04.2020 | n/a |
 | So, 26.04.2020 | n/a |
+
+## Wochenübersicht 6 (27.04. bis 03.05.2020)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 27.04.2020 | - Elektrotechnik Unterricht: 7:50 Uhr<br>- Informationstechnische Projekte (WINJ) `#2` |
+| Di, 28.04.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr |
+| Mi, 29.04.2020 | - Medientechnik (LOIS) Unterricht: 11:45 Uhr<br>- Geschichte `#4`<br>- Englisch `#16` |
+| Do, 30.04.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 Uhr<br>- Betriebssysteme (REFR)  Unterricht: 10:45 Uhr<br>- Physik `#7`<br>- Mathematik `#7` |
+| Fr, 01.05.2020 | `Schulfrei: Staatsfeiertag` |
+| Sa, 02.05.2020 | n/a |
+| So, 03.05.2020 | n/a |
