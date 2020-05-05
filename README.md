@@ -6,7 +6,7 @@
 | Di, 05.05.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Religion (röm.-kath.) `#6` |
 | Mi, 06.05.2020 | - Betriebssysteme `#3`<br>- Datenbanken `#6`<br>- Deutsch `#3`<br>- Betriebssysteme `#4` |
 | Do, 07.05.2020 | - Mathematik `#8` |
-| Fr, 08.05.2020 | n/a |
+| Fr, 08.05.2020 | - Softwareentwicklung Unterricht: 9:00 Uhr |
 | Sa, 09.05.2020 | n/a |
 | So, 10.05.2020 | `Muttertag` |
 
