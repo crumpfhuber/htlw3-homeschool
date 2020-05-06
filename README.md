@@ -19,7 +19,7 @@
 | Mi, 13.05.2020 | - Medientechnik (LOIS) `#5` |
 | Do, 14.05.2020 | n/a |
 | Fr, 15.05.2020 | - Physik. `#8` |
-| Sa, 16.05.2020 | c |
+| Sa, 16.05.2020 | n/a |
 | So, 17.05.2020 | n/a |
 
 ## Softwareentwicklung
