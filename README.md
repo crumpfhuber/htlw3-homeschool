@@ -10,6 +10,18 @@
 | Sa, 09.05.2020 | n/a |
 | So, 10.05.2020 | `Muttertag` |
 
+## Wochenübersicht 8 (11.05. bis 17.05.2020)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 11.05.2020 | n/a |
+| Di, 12.05.2020 | - Chemie `#3` |
+| Mi, 13.05.2020 | - Medientechnik (LOIS) `#5` |
+| Do, 14.05.2020 | n/a |
+| Fr, 15.05.2020 | - Physik. `#8` |
+| Sa, 16.05.2020 | c |
+| So, 17.05.2020 | n/a |
+
 ## Softwareentwicklung
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
