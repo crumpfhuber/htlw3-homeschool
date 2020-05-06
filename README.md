@@ -3,10 +3,10 @@
 | Datum | Beschreibung |
 |---|---|
 | Mo, 04.05.2020 | `Schulfrei: St. Florian`<br>- Softwareentwicklung `#6` |
-| Di, 05.05.2020 | - Softwareentwicklung Unterricht: 9:40 Uhr<br>- Religion (röm.-kath.) `#6` |
-| Mi, 06.05.2020 | - Betriebssysteme `#3`<br>- Datenbanken `#6`<br>- Deutsch `#3`<br>- Betriebssysteme `#4` |
-| Do, 07.05.2020 | - Mathematik `#8` |
-| Fr, 08.05.2020 | - Softwareentwicklung Unterricht: 9:00 Uhr |
+| Di, 05.05.2020 | - Softwareentwicklung Unterricht: 09:40 Uhr<br>- Religion (röm.-kath.) `#6` |
+| Mi, 06.05.2020 | - Betriebssysteme `#3`<br>- Betriebssysteme `#4`<br>- Datenbanken `#6`<br>- Deutsch `#3` |
+| Do, 07.05.2020 | - Betriebssysteme (REFR) Unterricht: 10:00 Uhr<br>- Mathematik `#8` |
+| Fr, 08.05.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br> - Betriebssysteme (REFR) Unterricht: 10:00 Uhr |
 | Sa, 09.05.2020 | n/a |
 | So, 10.05.2020 | `Muttertag` |
 
