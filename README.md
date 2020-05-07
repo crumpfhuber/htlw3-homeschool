@@ -17,7 +17,7 @@
 | Mo, 11.05.2020 | n/a |
 | Di, 12.05.2020 | - Chemie `#3` |
 | Mi, 13.05.2020 | - Medientechnik (LOIS) `#5` |
-| Do, 14.05.2020 | n/a |
+| Do, 14.05.2020 | - Mathematik `#9` |
 | Fr, 15.05.2020 | - Physik. `#8` |
 | Sa, 16.05.2020 | c |
 | So, 17.05.2020 | n/a |
@@ -127,6 +127,7 @@
 | ~~6~~ | ~~Integralrechnung Aufgaben~~ | ~~Di, 21.04.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_6.md)~~ |
 | ~~7~~ | ~~Integralrechnung Aufgaben~~ | ~~Do, 30.04.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_7.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integration durch Substitution 1](Mathematik/PartIntegr_1.jpg)<br>- [Integration durch Substitution 2](Mathematik/PartIntegr_2.jpg)<br>- [Partielle Integration 1](Mathematik/PartIntegr_1.jpg)<br>- [Partielle Integration 2](Mathematik/PartIntegr_2.jpg)~~ |
 | 8 | Bestimmtes Integral | Do, 07.05.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_8.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integral mit Mathematik - Mathcad](Mathematik/Integral_mit_Mathcad.mcdx)<br>- [Integral mit Mathematik - PDF](Mathematik/Integral_mit_Mathcad.pdf) |
+| 9 | Hauptsatz der Differential- und Integralrechnung | Do, 14.05.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_9.md) |
 
 Musterlösungen von Prof. Springer<br>
 - 4.72c (Extremwertaufgaben Kanalquerschnitt): [Mathcad](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [PDF](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
