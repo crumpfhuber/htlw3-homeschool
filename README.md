@@ -15,7 +15,7 @@
 | Datum | Beschreibung |
 |---|---|
 | Mo, 11.05.2020 | n/a |
-| Di, 12.05.2020 | - Chemie `#3` |
+| Di, 12.05.2020 | - Softwareentwicklung Unterricht: 09:40 Uhr bis 12:30 Uhr<br>- Chemie `#3` |
 | Mi, 13.05.2020 | - Medientechnik (LOIS) `#5` |
 | Do, 14.05.2020 | - Mathematik `#9` |
 | Fr, 15.05.2020 | - Physik. `#8` |
