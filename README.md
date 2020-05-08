@@ -16,7 +16,7 @@
 |---|---|
 | Mo, 11.05.2020 | n/a |
 | Di, 12.05.2020 | - Softwareentwicklung Unterricht: 09:40 Uhr bis 12:30 Uhr<br>- Chemie `#3` |
-| Mi, 13.05.2020 | - Medientechnik (LOIS) `#5` |
+| Mi, 13.05.2020 | - Medientechnik (LOIS) `#5`<br>- Betriebssysteme `#5` |
 | Do, 14.05.2020 | - Mathematik `#9` |
 | Fr, 15.05.2020 | - Physik. `#8` |
 | Sa, 16.05.2020 | n/a |
@@ -96,7 +96,8 @@
 | 1 | REFR: Bootprozess unter Linux - Grub | n/a | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
 | ~~2~~ | ~~REFR: Linux Mount / fstab~~ | ~~n/a~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14138)~~ | ~~Gemeinsam im Unterricht gemacht~~ |
 | 3 | LERI: PowerShell - Script AddUser | Mi, 06.05.2020 10:00 Uhr | Teams | Infos in Teams |
-| 4 | REFR: Gpt-Analyse Programm in C | Do, 07.04.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14378) | siehe zusätzlich Discord Chat |
+| 4 | REFR: Gpt-Analyse Programm in C | Do, 07.05.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14378) | siehe zusätzlich Discord Chat |
+| 5 | REFR: Gpt-Analyse - Erweiterung | Do, 14.05.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14401) | siehe Discord Chat & Moodle |
 
 
 ## Elektrotechnik
