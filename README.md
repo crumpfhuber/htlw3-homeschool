@@ -31,7 +31,7 @@
 | ~~3~~ | ~~Aufgabe: 608_TicTacToe~~ | ~~Mo, 30.03.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/608_TicTacToe)~~ |
 | ~~4~~ | ~~Aufgabe: 609_ArrayBereinigung~~ | ~~Do, 16.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/609_ArrayBereinigung)~~ |
 | ~~5~~ | ~~Aufgabe: 610_Erathostenes~~ | ~~Do, 16.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/610_Erathostenes)~~ |
-| 6 | Aufgabe: 612_Adressen | Mo, 04.04.2020 23:59 Uhr | GitHub & Teams | [siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/612_Adressen) |
+| ~~6~~ | ~~Aufgabe: 612_Adressen~~ | ~~Mo, 04.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/612_Adressen)~~ |
 
 ## Datenbanken
 
@@ -95,8 +95,8 @@
 |--------|---------------|-------------|--------|-----------|
 | 1 | REFR: Bootprozess unter Linux - Grub | n/a | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=13798) | |
 | ~~2~~ | ~~REFR: Linux Mount / fstab~~ | ~~n/a~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14138)~~ | ~~Gemeinsam im Unterricht gemacht~~ |
-| 3 | LERI: PowerShell - Script AddUser | Mi, 06.05.2020 10:00 Uhr | Teams | Infos in Teams |
-| 4 | REFR: Gpt-Analyse Programm in C | Do, 07.05.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14378) | siehe zusätzlich Discord Chat |
+| ~~3~~ | ~~LERI: PowerShell - Script AddUser~~ | ~~Mi, 06.05.2020 10:00 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| ~~4~~ | ~~REFR: Gpt-Analyse Programm in C~~ | ~~Do, 07.05.2020 00:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14378)~~ | ~~siehe zusätzlich Discord Chat~~ |
 | 5 | REFR: Gpt-Analyse - Erweiterung | Do, 14.05.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14401) | siehe Discord Chat & Moodle |
 
 
@@ -127,7 +127,7 @@
 | ~~5~~ | ~~Integralrechnung~~ | ~~So, 05.03.2020~~ | ~~n/a~~ | ~~Buch Seite 191 - 196, inklusive der Bsp.! (ausgenommen 6.15)<br>[Ergänzende Bemerkungen](Mathematik/Unbestimmtes_Integral_und_Stammfunktion.pdf)~~ |
 | ~~6~~ | ~~Integralrechnung Aufgaben~~ | ~~Di, 21.04.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_6.md)~~ |
 | ~~7~~ | ~~Integralrechnung Aufgaben~~ | ~~Do, 30.04.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_7.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integration durch Substitution 1](Mathematik/PartIntegr_1.jpg)<br>- [Integration durch Substitution 2](Mathematik/PartIntegr_2.jpg)<br>- [Partielle Integration 1](Mathematik/PartIntegr_1.jpg)<br>- [Partielle Integration 2](Mathematik/PartIntegr_2.jpg)~~ |
-| 8 | Bestimmtes Integral | Do, 07.05.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_8.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integral mit Mathematik - Mathcad](Mathematik/Integral_mit_Mathcad.mcdx)<br>- [Integral mit Mathematik - PDF](Mathematik/Integral_mit_Mathcad.pdf) |
+| ~~8~~ | ~~Bestimmtes Integral~~ | ~~Do, 07.05.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_8.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integral mit Mathematik - Mathcad](Mathematik/Integral_mit_Mathcad.mcdx)<br>- [Integral mit Mathematik - PDF](Mathematik/Integral_mit_Mathcad.pdf)~~ |
 | 9 | Hauptsatz der Differential- und Integralrechnung | Do, 14.05.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_9.md) |
 
 Musterlösungen von Prof. Springer<br>
@@ -142,13 +142,13 @@ Musterlösungen von Prof. Springer<br>
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Kommentar: "Fairplay im Sport"~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~E-Mail~~ | ~~- [Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf)~~ |
 | ~~2~~ | ~~Kommentar: "Sterben Tiere gern?"~~ | ~~Mi, 15.04.2020 23:59 Uhr~~ | ~~E-Mail~~ | ~~- [E-Mail von Prof. Lugerbauer](Deutsch/02_Email.md)<br>- [Sterben Tiere gern - Angabe](Deutsch/02_Aufgabe_Angabe.pdf)<br>- [Sterben Tiere gern - Text](Deutsch/02_Aufgabe_Text.pdf)~~ |
-| 3 | Literaturepoche der Romantik | Mi, 06.05.2020 | E-Mail | - [Arbeitsauftrag](Deutsch/03_Arbeitsauftrag.md)<br>- [Romantik](Deutsch/03_Romantik.pdf)<br>- [Arbeitsblatt](Deutsch/03_Arbeitsblatt.docx) |
+| ~~3~~ | ~~Literaturepoche der Romantik~~ | ~~Mi, 06.05.2020~~ | ~~E-Mail~~ | ~~- [Arbeitsauftrag](Deutsch/03_Arbeitsauftrag.md)<br>- [Romantik](Deutsch/03_Romantik.pdf)<br>- [Arbeitsblatt](Deutsch/03_Arbeitsblatt.docx)~~ |
 
 ## Netzwerktechnik
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| ~~1~~ | ~~DNS Übung~~ | ~~Di, 15.04.2020 23:59 Uhr~~ | ~~Teams~~ | |
+| ~~1~~ | ~~DNS Übung~~ | ~~Di, 15.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~siehe Teams~~ |
 
 ## Medientechnik (LOIS)
 
@@ -178,7 +178,7 @@ Musterlösungen von Prof. Springer<br>
 | ~~3~~ | ~~NS Zeit - Filme~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/NS_Zeit_Filme.pdf) oder [Word](Religion/NS_Zeit_Filme.docx)~~ |
 | ~~4~~ | ~~Ostern~~ | ~~Mo, 20.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Ostern_Fragen.pdf) oder [Word](Religion/Ostern_Fragen.docx)~~ |
 | ~~5~~ | ~~Bibel: Thomas & Psalmen~~ | ~~Fr, 24.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Bibel_Thomas_Psalmen.pdf) oder [Word](Religion/Bibel_Thomas_Psalmen.docx)~~ |
-| 6 | Erster Mai: Tag der Arbeit & Brauchtum | Di, 05.05.2020 | E-Mail | Arbeitsauftrag: [PDF](Religion/Mai1_Brauchtum.pdf) oder [Word](Religion/Mai1_Brauchtum.docx) |
+| ~~6~~ | ~~Erster Mai: Tag der Arbeit & Brauchtum~~ | ~~Di, 05.05.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Mai1_Brauchtum.pdf) oder [Word](Religion/Mai1_Brauchtum.docx)~~ |
 
 ## Englisch
 
