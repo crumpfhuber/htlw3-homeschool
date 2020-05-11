@@ -1,14 +1,4 @@
-## Wochenübersicht 7 (04.05. bis 03.05.2020)
 
-| Datum | Beschreibung |
-|---|---|
-| Mo, 04.05.2020 | `Schulfrei: St. Florian`<br>- Softwareentwicklung `#6` |
-| Di, 05.05.2020 | - Softwareentwicklung Unterricht: 09:40 Uhr<br>- Religion (röm.-kath.) `#6` |
-| Mi, 06.05.2020 | - Betriebssysteme `#3`<br>- Betriebssysteme `#4`<br>- Datenbanken `#6`<br>- Deutsch `#3` |
-| Do, 07.05.2020 | - Betriebssysteme (REFR) Unterricht: 10:00 Uhr<br>- Mathematik `#8` |
-| Fr, 08.05.2020 | - Softwareentwicklung Unterricht: 09:00 Uhr<br> - Betriebssysteme (REFR) Unterricht: 10:00 Uhr |
-| Sa, 09.05.2020 | n/a |
-| So, 10.05.2020 | `Muttertag` |
 
 ## Wochenübersicht 8 (11.05. bis 17.05.2020)
 
@@ -18,7 +8,7 @@
 | Di, 12.05.2020 | - Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr<br>- Chemie `#3` |
 | Mi, 13.05.2020 | - Medientechnik (LOIS) `#5`<br>- Betriebssysteme `#5` |
 | Do, 14.05.2020 | - Mathematik `#9` |
-| Fr, 15.05.2020 | - Physik `#8` |
+| Fr, 15.05.2020 | - Informationstechnische Projekte (WIDM) Unterricht: 10:45 bis 11:35 Uhr<br>- Physik `#8` |
 | Sa, 16.05.2020 | n/a |
 | So, 17.05.2020 | n/a |
 
