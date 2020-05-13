@@ -7,8 +7,8 @@
 | Mo, 11.05.2020 | - Elektrotechnik Unterricht: 07:50 bis 9:30 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 12:35 bis 13:25 Uhr |
 | Di, 12.05.2020 | - Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr<br>- Chemie `#3` |
 | Mi, 13.05.2020 | - Medientechnik (LOIS) `#5`<br>- Betriebssysteme `#5` |
-| Do, 14.05.2020 | - Mathematik `#9` |
-| Fr, 15.05.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr (keine Präsenz notwendig)<br>- Informationstechnische Projekte (WIDM) Unterricht: 10:45 bis 11:35 Uhr<br>- Physik `#8`<br>- Religion (röm.-kath.) `#7` |
+| Do, 14.05.2020 | - Betriebssysteme (REFR) Unterricht: 09:00 Uhr bis 11:00 Uhr<br>- Mathematik `#9` |
+| Fr, 15.05.2020 | - Betriebssysteme (REFR) Unterricht: 09:00 Uhr bis 09:50 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr (keine Präsenz notwendig)<br>- Informationstechnische Projekte (WIDM) Unterricht: 10:45 bis 11:35 Uhr<br>- Physik `#8`<br>- Religion (röm.-kath.) `#7` |
 | Sa, 16.05.2020 | n/a |
 | So, 17.05.2020 | n/a |
 
