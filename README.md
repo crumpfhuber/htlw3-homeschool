@@ -8,7 +8,7 @@
 | Di, 12.05.2020 | - Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr<br>- Chemie `#3` |
 | Mi, 13.05.2020 | - Medientechnik (LOIS) `#5`<br>- Betriebssysteme `#5` |
 | Do, 14.05.2020 | - Mathematik `#9` |
-| Fr, 15.05.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr (keine Präsenz notwendig)<br>- Informationstechnische Projekte (WIDM) Unterricht: 10:45 bis 11:35 Uhr<br>- Physik `#8` |
+| Fr, 15.05.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr (keine Präsenz notwendig)<br>- Informationstechnische Projekte (WIDM) Unterricht: 10:45 bis 11:35 Uhr<br>- Physik `#8`<br>- Religion (röm.-kath.) `#7` |
 | Sa, 16.05.2020 | n/a |
 | So, 17.05.2020 | n/a |
 
@@ -169,6 +169,7 @@ Musterlösungen von Prof. Springer<br>
 | ~~4~~ | ~~Ostern~~ | ~~Mo, 20.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Ostern_Fragen.pdf) oder [Word](Religion/Ostern_Fragen.docx)~~ |
 | ~~5~~ | ~~Bibel: Thomas & Psalmen~~ | ~~Fr, 24.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Bibel_Thomas_Psalmen.pdf) oder [Word](Religion/Bibel_Thomas_Psalmen.docx)~~ |
 | ~~6~~ | ~~Erster Mai: Tag der Arbeit & Brauchtum~~ | ~~Di, 05.05.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Mai1_Brauchtum.pdf) oder [Word](Religion/Mai1_Brauchtum.docx)~~ |
+| 7 | Islam & Koran | Fr, 15.05.2020 | E-Mail | - Islam: [PDF](Religion/Islam.pdf) oder [Word](Religion/Islam.docx)<br>- Islam Rätsel: [PDF](Religion/Islam_Ratsel.pdf)<br>- Koran Frauen: [PDF](Religion/Koran_Frauen.pdf) |
 
 ## Englisch
 
