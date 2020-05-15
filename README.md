@@ -14,7 +14,7 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 18.05.2020 | n/a |
+| Mo, 18.05.2020 | - KV: Präsenzunterricht Abgabe |
 | Di, 19.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
 | Mi, 20.05.2020 | - Datenbanken `#7` |
 | Do, 21.05.2020 | `Schulfrei: Christi Himmelfahrt` |
@@ -42,8 +42,8 @@
 | ~~3~~ | ~~CLIL task: union, intersect, difference~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua)~~ |
 | ~~4~~ | ~~Aufgaben: SQL Join~~ | ~~Di, 14.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14196)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14085)~~ |
 | ~~5~~ | ~~Join Übungen Teil 1~~ | ~~Fr, 24.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14279)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14268)~~ |
-| ~~6~~ | ~~Join Übungen Teil 2~~ | ~~Mi, 06.05.2020 09:40 Uhr~~ | ~~n/a~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14365)~~ |
-| 7 | Join Übungen Teil 3 | Mi, 20.05.2020 09:40 Uhr | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14366) |
+| ~~6~~ | ~~Join Übungen Teil 2~~ | ~~Mi, 06.05.2020 09:40 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14383)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14365)~~ |
+| 7 | Join Übungen Teil 3 | Mi, 20.05.2020 09:40 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14445&action=view) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14366) |
 
 ## Geschichte
 
@@ -121,8 +121,8 @@
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
-| ~~1~~ | ~~Extremwertaufgaben~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~[Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!)~~ |
-| ~~2~~ | ~~Extremwertaufgaben Hausübung~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~Buch Nummern: 4.70, 4.71, 4.72~~ |
+| ~~1~~ | ~~Extremwertaufgaben~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~[Extremwertaufgaben](Mathematik/Differentialgleichungen_Extremwertaufgaben.pdf) (SA relevant!)<br><br>Musterlösung:<br>- [Beispiel: 2-3](Mathematik/Differentialrechnung-WHAufgaben_Loesung_Bsp_2-3.jpg)<br>- [Beispiel: 4](Mathematik/Differentialrechnung-WHAufgaben_Loesung_Bsp_4.jpg)<br>- [Beispiel: 4-5 (Mathcad)](Mathematik/Differentialrechnung-WHAufgaben_Loesung_Mathcad_Bsp_4-5.pdf)~~ |
+| ~~2~~ | ~~Extremwertaufgaben Hausübung~~ | ~~So, 22.03.2020~~ | ~~n/a~~ | ~~Buch Nummern: 4.70, 4.71, 4.72<br><br>Musterlösung:<br>4.72c: [Mathcad](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) / [PDF](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)~~ |
 | ~~3~~ | ~~Differentialrechnung~~ | ~~Mo, 30.03.2020~~ | ~~n/a~~ | ~~- [Wiederholungsaufgaben Differentialrechnung](Mathematik/Differentialrechnung-WHAufgaben.pdf)<br>- [Aufgabe angepasstes Straßenstück](Mathematik/Angabe-Strassenstueck.jpg)~~ |
 | ~~4~~ | ~~Extremwertaufgaben~~ | ~~n/a~~ | ~~n/a~~ | ~~Buch Nummern: 4.66a, 4.76, 4.78, 4.82, 4.84 - 4.87, 4.93 - 4.95 (SA Übungen!)~~ |
 | ~~5~~ | ~~Integralrechnung~~ | ~~So, 05.03.2020~~ | ~~n/a~~ | ~~Buch Seite 191 - 196, inklusive der Bsp.! (ausgenommen 6.15)<br>[Ergänzende Bemerkungen](Mathematik/Unbestimmtes_Integral_und_Stammfunktion.pdf)~~ |
@@ -131,12 +131,6 @@
 | ~~8~~ | ~~Bestimmtes Integral~~ | ~~Do, 07.05.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_8.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integral mit Mathematik - Mathcad](Mathematik/Integral_mit_Mathcad.mcdx)<br>- [Integral mit Mathematik - PDF](Mathematik/Integral_mit_Mathcad.pdf)~~ |
 | ~~9~~ | ~~Hauptsatz der Differential- und Integralrechnung~~ | ~~Do, 14.05.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_9.md)~~ |
 | 10 | Anwendung der Integralrechnung | Mo, 25.05.2020 | n/a | - [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_10.md)<br> - [Anwendungen der Integralrechnung - Flächeninhalte](Mathematik/Integral_Flaechenberechnung.pdf) |
-
-Musterlösungen von Prof. Springer<br>
-- 4.72c (Extremwertaufgaben Kanalquerschnitt): [Mathcad](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [PDF](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
-- [Wiederholungsaufgaben Differentialrechnung: Bsp. 2-3](Mathematik/Differentialrechnung-WHAufgaben_Loesung_Bsp_2-3.jpg)
-- [Wiederholungsaufgaben Differentialrechnung: Bsp. 4](Mathematik/Differentialrechnung-WHAufgaben_Loesung_Bsp_4.jpg)
-- [Wiederholungsaufgaben Differentialrechnung: Bsp. 4-5 (Mathcad)](Mathematik/Differentialrechnung-WHAufgaben_Loesung_Mathcad_Bsp_4-5.pdf)
 
 ## Deutsch
 
