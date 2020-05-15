@@ -1,5 +1,3 @@
-
-
 ## Wochenübersicht 8 (11.05. bis 17.05.2020)
 
 | Datum | Beschreibung |
@@ -11,6 +9,18 @@
 | Fr, 15.05.2020 | - Betriebssysteme (REFR) Unterricht: 09:00 bis 09:50 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr (keine Präsenz notwendig)<br>- Informationstechnische Projekte (WIDM) Unterricht: 10:45 bis 11:35 Uhr<br>- Physik `#8`<br>- Religion (röm.-kath.) `#7` |
 | Sa, 16.05.2020 | n/a |
 | So, 17.05.2020 | n/a |
+
+## Wochenübersicht 9 (18.05. bis 24.05.2020)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 18.05.2020 | n/a |
+| Di, 19.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
+| Mi, 20.05.2020 | - Datenbanken `#7` |
+| Do, 21.05.2020 | `Schulfrei: Christi Himmelfahrt` |
+| Fr, 22.05.2020 | `Schulfrei: SGA` |
+| Sa, 23.05.2020 | n/a |
+| So, 24.05.2020 | n/a |
 
 ## Softwareentwicklung
 
@@ -32,7 +42,8 @@
 | ~~3~~ | ~~CLIL task: union, intersect, difference~~ | ~~Fr, 27.03.2020 17:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14087)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14081)<br>//CLEMENS: [https://sql-joins.leopard.in.ua](https://sql-joins.leopard.in.ua)~~ |
 | ~~4~~ | ~~Aufgaben: SQL Join~~ | ~~Di, 14.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14196)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14085)~~ |
 | ~~5~~ | ~~Join Übungen Teil 1~~ | ~~Fr, 24.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14279)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14268)~~ |
-| 6 | Join Übungen Teil 2 | Mi, 06.05.2020 09:40 Uhr | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14365) |
+| ~~6~~ | ~~Join Übungen Teil 2~~ | ~~Mi, 06.05.2020 09:40 Uhr~~ | ~~n/a~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14365)~~ |
+| 7 | Join Übungen Teil 3 | Mi, 20.05.2020 09:40 Uhr | n/a | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14366) |
 
 ## Geschichte
 
@@ -87,7 +98,7 @@
 | ~~2~~ | ~~REFR: Linux Mount / fstab~~ | ~~n/a~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14138)~~ | ~~Gemeinsam im Unterricht gemacht~~ |
 | ~~3~~ | ~~LERI: PowerShell - Script AddUser~~ | ~~Mi, 06.05.2020 10:00 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 | ~~4~~ | ~~REFR: Gpt-Analyse Programm in C~~ | ~~Do, 07.05.2020 00:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14378)~~ | ~~siehe zusätzlich Discord Chat~~ |
-| 5 | REFR: Gpt-Analyse - Erweiterung | Do, 14.05.2020 00:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14401) | siehe Discord Chat & Moodle |
+| ~~5~~ | ~~REFR: Gpt-Analyse - Erweiterung~~ | ~~Do, 14.05.2020 00:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14401)~~ | ~~siehe Discord Chat & Moodle~~ |
 
 
 ## Elektrotechnik
@@ -104,7 +115,7 @@
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Kunststoffe~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsaufträge gesammelt abgeben!Selbststudium Kunststoffe: Jungwirth S. 194-198: Übungen 8.6., 8.7. 8.10. 8.17~~ |
 | ~~2~~ | ~~Waschmittel~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsaufträge gesammelt abgeben! [siehe Arbeitsauftrag](Chemie/Arbeitsauftrag.md)~~|
-| 3 | Arbeitsauftrag | Di, 12.05.2020 | E-Mail | Im Folgenden die Aufgaben aus dem Jungwirth für heute bis einschl. 12.5. bezüglich Farbstoffen:<br>- Selbststudium S. 177 bis 184, darauf basierend Ü 7.3, 7.4. 7.5 lösen<br>- Selbststudium S. 184 bis 186, darauf basierend Ü 7.7 und 7.8.<br>Nicht abschreiben! Einreichen wie gehabt. |
+| ~~3~~ | ~~Farbstoffe~~ | ~~Di, 12.05.2020~~ | ~~E-Mail~~ | ~~Im Folgenden die Aufgaben aus dem Jungwirth für heute bis einschl. 12.5. bezüglich Farbstoffen:<br>- Selbststudium S. 177 bis 184, darauf basierend Ü 7.3, 7.4. 7.5 lösen<br>- Selbststudium S. 184 bis 186, darauf basierend Ü 7.7 und 7.8.<br>Nicht abschreiben! Einreichen wie gehabt.~~ |
 
 ## Mathematik
 
@@ -118,7 +129,8 @@
 | ~~6~~ | ~~Integralrechnung Aufgaben~~ | ~~Di, 21.04.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_6.md)~~ |
 | ~~7~~ | ~~Integralrechnung Aufgaben~~ | ~~Do, 30.04.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_7.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integration durch Substitution 1](Mathematik/PartIntegr_1.jpg)<br>- [Integration durch Substitution 2](Mathematik/PartIntegr_2.jpg)<br>- [Partielle Integration 1](Mathematik/PartIntegr_1.jpg)<br>- [Partielle Integration 2](Mathematik/PartIntegr_2.jpg)~~ |
 | ~~8~~ | ~~Bestimmtes Integral~~ | ~~Do, 07.05.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_8.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integral mit Mathematik - Mathcad](Mathematik/Integral_mit_Mathcad.mcdx)<br>- [Integral mit Mathematik - PDF](Mathematik/Integral_mit_Mathcad.pdf)~~ |
-| 9 | Hauptsatz der Differential- und Integralrechnung | Do, 14.05.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_9.md) |
+| ~~9~~ | ~~Hauptsatz der Differential- und Integralrechnung~~ | ~~Do, 14.05.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_9.md)~~ |
+| 10 | Anwendung der Integralrechnung | Mo, 25.05.2020 | n/a | - [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_10.md)<br> - [Anwendungen der Integralrechnung - Flächeninhalte](Mathematik/Integral_Flaechenberechnung.pdf) |
 
 Musterlösungen von Prof. Springer<br>
 - 4.72c (Extremwertaufgaben Kanalquerschnitt): [Mathcad](Mathematik/Extremwertaufgaben_Kanalquerschnitt.mcdx) | [PDF](Mathematik/Extremwertaufgaben_Kanalquerschnitt.pdf)
