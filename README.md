@@ -1,20 +1,8 @@
-## Wochenübersicht 8 (11.05. bis 17.05.2020)
-
-| Datum | Beschreibung |
-|---|---|
-| Mo, 11.05.2020 | - Elektrotechnik Unterricht: 07:50 bis 9:30 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 12:35 bis 13:25 Uhr |
-| Di, 12.05.2020 | - Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr<br>- Chemie `#3` |
-| Mi, 13.05.2020 | - Medientechnik (LOIS) `#5`<br>- Betriebssysteme `#5` |
-| Do, 14.05.2020 | - Betriebssysteme (REFR) Unterricht: 09:00 bis 11:00 Uhr<br>- Mathematik `#9` |
-| Fr, 15.05.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr (keine Präsenz notwendig)<br>- Informationstechnische Projekte (WIDM) Unterricht: 10:45 bis 11:35 Uhr<br>- Physik `#8`<br>- Religion (röm.-kath.) `#7` |
-| Sa, 16.05.2020 | n/a |
-| So, 17.05.2020 | n/a |
-
 ## Wochenübersicht 9 (18.05. bis 24.05.2020)
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 18.05.2020 | - KV: Präsenzunterricht Abgabe |
+| Mo, 18.05.2020 | - Elektrotechnik Unterricht: 07:50 bis 9:30 Uhr<br>- KV: Präsenzunterricht Abgabe |
 | Di, 19.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
 | Mi, 20.05.2020 | - Datenbanken `#7` |
 | Do, 21.05.2020 | `Schulfrei: Christi Himmelfahrt` |
