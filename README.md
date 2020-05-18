@@ -8,7 +8,19 @@
 | Do, 21.05.2020 | `Schulfrei: Christi Himmelfahrt` |
 | Fr, 22.05.2020 | `Schulfrei: SGA` |
 | Sa, 23.05.2020 | n/a |
-| So, 24.05.2020 | n/a |
+| So, 24.05.2020 | - Physik `#9` |
+
+## Wochenübersicht 10 (25.05. bis 31.05.2020)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 25.05.2020 | - Mathematik `#10`<br>- Elektrotechnik Unterricht: 15:20 bis 17:05 Uhr |
+| Di, 26.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
+| Mi, 27.05.2020 | - Medientechnik (HELT) `#3`<br>- Medientechnik (HELT) `#6` |
+| Do, 28.05.2020 | n/a |
+| Fr, 29.05.2020 | - Geschichte `#5` |
+| Sa, 30.05.2020 | n/a |
+| So, 31.05.2020 | `Feiertag: Pfingstsonntag` |
 
 ## Softwareentwicklung
 
@@ -54,7 +66,8 @@
 | ~~5~~ | ~~Spiegel 5~~ | ~~Fr, 17.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 | ~~6~~ | ~~Spiegel 6~~ | ~~Fr, 03.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 | ~~7~~ | ~~Linsen~~ | ~~Do, 30.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
-| 8 | Das Auge | Fr, 15.05.2020 23:59 Uhr | Teams | Infos in Teams |
+| ~~8~~ | ~~Das Auge~~ | ~~Fr, 15.05.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| 9 | Optische Instrumente | So, 24.05.2020 23:59 Uhr | Teams | Infos in Teams |
 
 ## Geographie
 
