@@ -16,7 +16,7 @@
 |---|---|
 | Mo, 25.05.2020 | - Mathematik `#10`<br>- Elektrotechnik Unterricht: 15:20 bis 17:05 Uhr |
 | Di, 26.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
-| Mi, 27.05.2020 | - Medientechnik (HELT) `#3`<br>- Medientechnik (HELT) `#6` |
+| Mi, 27.05.2020 | - Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
 | Do, 28.05.2020 | n/a |
 | Fr, 29.05.2020 | - Geschichte `#5` |
 | Sa, 30.05.2020 | n/a |
