@@ -14,7 +14,7 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 25.05.2020 | - Mathematik `#10`<br>- Elektrotechnik Unterricht: 15:20 bis 17:05 Uhr |
+| Mo, 25.05.2020 | - Mathematik `#10`<br>- Informationstechnische Projekte (WINJ) 12:35 bis 13:25 Uhr (Präsentationen!)<br>- Elektrotechnik Unterricht: 15:20 bis 17:05 Uhr |
 | Di, 26.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
 | Mi, 27.05.2020 | - Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
 | Do, 28.05.2020 | n/a |
