@@ -95,3 +95,15 @@
 | Fr, 15.05.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr (keine Präsenz notwendig)<br>- Informationstechnische Projekte (WIDM) Unterricht: 10:45 bis 11:35 Uhr<br>- Physik `#8`<br>- Religion (röm.-kath.) `#7` |
 | Sa, 16.05.2020 | n/a |
 | So, 17.05.2020 | n/a |
+
+## Wochenübersicht 9 (18.05. bis 24.05.2020)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 18.05.2020 | - Elektrotechnik Unterricht: 07:50 bis 9:30 Uhr<br>- KV: Präsenzunterricht Abgabe |
+| Di, 19.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
+| Mi, 20.05.2020 | - Datenbanken `#7` |
+| Do, 21.05.2020 | `Schulfrei: Christi Himmelfahrt` |
+| Fr, 22.05.2020 | `Schulfrei: SGA` |
+| Sa, 23.05.2020 | n/a |
+| So, 24.05.2020 | - Physik `#9`<br>- Religion `#8` |
