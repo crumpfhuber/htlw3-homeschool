@@ -4,7 +4,7 @@
 |---|---|
 | Mo, 25.05.2020 | - Mathematik `#10`<br>- Informationstechnische Projekte (WINJ) 12:35 bis 13:25 Uhr (Präsentationen!)<br>- Elektrotechnik Unterricht: 15:20 bis 17:05 Uhr<br>- Englisch `#22` |
 | Di, 26.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
-| Mi, 27.05.2020 | - Datenbaken Unterricht: 10:00 bis 11:00 Uhr (Aufgabe!)<br>- Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
+| Mi, 27.05.2020 | - Datenbanken Unterricht: 10:00 bis 11:00 Uhr<br>- Datenbanken `#8`<br>- Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
 | Do, 28.05.2020 | - Mathematik `#11` |
 | Fr, 29.05.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr<br>- Geschichte `#5`<br>- Deutsch `#4` |
 | Sa, 30.05.2020 | n/a |
@@ -32,6 +32,7 @@
 | ~~5~~ | ~~Join Übungen Teil 1~~ | ~~Fr, 24.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14279)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14268)~~ |
 | ~~6~~ | ~~Join Übungen Teil 2~~ | ~~Mi, 06.05.2020 09:40 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14383)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14365)~~ |
 | 7 | Join Übungen Teil 3 | Mi, 20.05.2020 09:40 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14445&action=view) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14366) |
+| 8 | Einzeljoin | Mi, 27.05.2020 11:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14481) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/course/view.php?id=334) |
 
 ## Geschichte
 
