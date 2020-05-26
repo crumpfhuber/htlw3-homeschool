@@ -6,7 +6,7 @@
 | Di, 26.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
 | Mi, 27.05.2020 | - Datenbaken Unterricht: 09:00 bis 10:00 Uhr (Aufgabe!)<br>- Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
 | Do, 28.05.2020 | n/a |
-| Fr, 29.05.2020 | - Informationstechnische Projekte Unterricht: 09:40 bis 10:30 Uhr<br>- Geschichte `#5`<br>- Deutsch `#4` |
+| Fr, 29.05.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr<br>- Geschichte `#5`<br>- Deutsch `#4` |
 | Sa, 30.05.2020 | n/a |
 | So, 31.05.2020 | `Feiertag: Pfingstsonntag` |
 
@@ -121,6 +121,7 @@
 | ~~8~~ | ~~Bestimmtes Integral~~ | ~~Do, 07.05.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_8.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integral mit Mathematik - Mathcad](Mathematik/Integral_mit_Mathcad.mcdx)<br>- [Integral mit Mathematik - PDF](Mathematik/Integral_mit_Mathcad.pdf)~~ |
 | ~~9~~ | ~~Hauptsatz der Differential- und Integralrechnung~~ | ~~Do, 14.05.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_9.md)~~ |
 | 10 | Anwendung der Integralrechnung | Mo, 25.05.2020 | n/a | - [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_10.md)<br> - [Anwendungen der Integralrechnung - Flächeninhalte](Mathematik/Integral_Flaechenberechnung.pdf) |
+| 11 | Volumens von Rotationskörper | Do, 28.05.2020 | n/a | - [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_11.md)<br>- [Beispiel: 7.35d](Mathematik/Volumen_Rotationskoerper_7.35d.jpg) |
 
 ## Deutsch
 
@@ -193,6 +194,8 @@
 | 18 | Matters of lesson & Homework (06.05) | So, 10.05.2020 | n/a | Grammar book - you got scans of the relevant pages - seek pp 64 + 65. Theory + 2 exercises on verbs which can take either the infinitive or the gerund - the meaning changes accordingly.<br>Remember in the quiz - 'stop to work' or 'stop working in order to do sth else'. do the first halves of sentences of the 2 exercises on 65.<br><br>Homework: Always check with the example sentences given in theory part while doing the other halves of sentences.<br><br>1. sign posting and 2. introductory sentences of your presentation - mail them. The beginining of the presentation could also be changed later on (first draft best - tonight).<br><br>- [Durchstarten: Seite 64-65](Englisch/Infinitive_Ingform.pdf) |
 | 19 | Matters of lesson & Homework (13.05) | ? | n/a | LESSON: Send texts, the demanded part of the presentation.<br>D-book: Infinitive<br>- page 61 exercises 70+71<br>- page 160 exercises ABEH21 sentences 1-11. D22 sentences 1-4, G23 s:1-4.<br><br>HW: finish the exercises on p160. p161/ 24: sentences 38-40.<br><br> - [Durchstarten: Seite 60-61 & 160-161](Englisch/Infinitive_Adjective.pdf) |
 | 20 | Matters of lesson & Homework (18.05) | n/a| E-Mail | What I definitely want to have till Wednesday - daytime is the school writing tasks done exactly.  They are practice for later exams in the upcoming School years and the final one (Matura) I do not want to receive These 2 Tasks later than Wednesday night. I want to take them with me and work on them during train rides.<br><br>LESSON:<br>time for listening: FOMT pp88 + 89.before filll in - do not miss out on reading the introductory paragraphs<br><br>before doing the one of unit 7 describe, compare the 2 Pictures- what do they tell the on-looker<br>make assumptions on them (like in the final exam in 2 years' time - time your Interpretation for 2-3 min.): feelings, expereiences of the road-users - mental, physical ones, effects on ...<br><br>Use phrases like:<br>- It seems to me ... <br>- One can presume ...<br>- If it Comes to ... then...<br>- One might ...<br>- One solution for reducing … by the companies … by the government., the bosses of… the minister of ….. include: the dependence on cars ….<br>- Compare the commuters of different countries / continents<br><br>Write and send that.<br>HOMEWORK:<br>Grammar p161/ 24: 30-37.--<br>FOMT: p 90/ 2 - after listening to the song this can be done quickly and you will be able to think of a few own ideas in no time as you well informed Austrian citizens.<br><br>You could already do p 90/3 or  till 5 p.m. on Wednesday. |
+| 21 | Matters of lesson & Homework (21.05) | n/a | E-Mail | Teaching Content: Study the theory of writing a report in the appendix. Now transform your graph description of the road deaths in G.B. into a report, about 100 words visit the website as recommended in FOMT p 91/ 6<br><br>HW: listen to Donnie's traumatic experience. and answer the 4 questions. |
+| 22 | Matters of lesson & Homework (25.05) | n/a | E-Mail | Teaching Content: Study the theory of writing a report in the appendix. Now transform your graph description of the road deaths in G.B. into a report, about 100 words visit the website as recommended in FOMT p 91/ 6<br><br>HW: listen to Donnie's traumatic experience. and answer the 4 questions.<br><br>- [Report 1](Englisch/Report_1.pdf)<br>- [Report 2](Englisch/Report_2.pdf) |
 
 Zusätzliche Arbeitszetteln:
 - [Revision: Article, Report, Blog Comment, Email, Letter, Leaflet](Englisch/Revision_Text.pdf)<br>
