@@ -4,7 +4,7 @@
 |---|---|
 | Mo, 25.05.2020 | - Mathematik `#10`<br>- Informationstechnische Projekte (WINJ) 12:35 bis 13:25 Uhr (Präsentationen!)<br>- Elektrotechnik Unterricht: 15:20 bis 17:05 Uhr<br>- Englisch `#22` |
 | Di, 26.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
-| Mi, 27.05.2020 | - Datenbaken Unterricht: 09:00 bis 10:00 Uhr (Aufgabe!)<br>- Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
+| Mi, 27.05.2020 | - Datenbaken Unterricht: 10:00 bis 11:00 Uhr (Aufgabe!)<br>- Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
 | Do, 28.05.2020 | - Mathematik `#11` |
 | Fr, 29.05.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr<br>- Geschichte `#5`<br>- Deutsch `#4` |
 | Sa, 30.05.2020 | n/a |
