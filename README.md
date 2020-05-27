@@ -15,11 +15,12 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~Literaturrecherche~~ | ~~Di, 17.03.2020 08:00 Uhr~~ | ~~Teams~~ | ~~Lies dir im C-Skriptum Seite 22+23 als Vorbereitung für Dienstag durch. Datei in Teams!~~ |
-| ~~2~~ | ~~Aufgabe: 605_StringOps~~ | ~~Mo, 23.03.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps)~~ |
-| ~~3~~ | ~~Aufgabe: 608_TicTacToe~~ | ~~Mo, 30.03.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/608_TicTacToe)~~ |
-| ~~4~~ | ~~Aufgabe: 609_ArrayBereinigung~~ | ~~Do, 16.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/609_ArrayBereinigung)~~ |
-| ~~5~~ | ~~Aufgabe: 610_Erathostenes~~ | ~~Do, 16.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/610_Erathostenes)~~ |
-| ~~6~~ | ~~Aufgabe: 612_Adressen~~ | ~~Mo, 04.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/612_Adressen)~~ |
+| ~~2~~ | ~~Aufgabe: 605 StringOps~~ | ~~Mo, 23.03.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/605_StringOps)~~ |
+| ~~3~~ | ~~Aufgabe: 608 TicTacToe~~ | ~~Mo, 30.03.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/608_TicTacToe)~~ |
+| ~~4~~ | ~~Aufgabe: 609 ArrayBereinigung~~ | ~~Do, 16.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/609_ArrayBereinigung)~~ |
+| ~~5~~ | ~~Aufgabe: 610 Erathostenes~~ | ~~Do, 16.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/610_Erathostenes)~~ |
+| ~~6~~ | ~~Aufgabe: 612 Adressen~~ | ~~Mo, 04.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/612_Adressen)~~ |
+| 7 | Aufgabe: 614 Doppelt verkettete Liste | Mo, 08.06.2020 | GitHub & Teams | [siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/614_Doppelt_verkettete_Liste) |
 
 ## Datenbanken
 
