@@ -6,7 +6,7 @@
 | Di, 26.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
 | Mi, 27.05.2020 | - Datenbanken Unterricht: 10:00 bis 11:00 Uhr<br>- Datenbanken `#8`<br>- Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
 | Do, 28.05.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 bis 11:35 Uhr<br>- Chemie Unterricht: 14:00  bis 14:40 Uhr (Notenbesprechung)<br>- Mathematik `#11` |
-| Fr, 29.05.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr<br>- Geschichte `#5`<br>- Deutsch `#4` |
+| Fr, 29.05.2020 | - Betriebssysteme (REFR) Unterricht: 08:00 bis 09:00 Uhr<br>- Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr<br>- Geschichte `#5`<br>- Deutsch `#4` |
 | Sa, 30.05.2020 | `Pfingstferien` |
 | So, 31.05.2020 | `Feiertag: Pfingstsonntag` |
 
