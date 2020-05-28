@@ -5,10 +5,22 @@
 | Mo, 25.05.2020 | - Mathematik `#10`<br>- Informationstechnische Projekte (WINJ) 12:35 bis 13:25 Uhr (Präsentationen!)<br>- Elektrotechnik Unterricht: 15:20 bis 17:05 Uhr<br>- Englisch `#22` |
 | Di, 26.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
 | Mi, 27.05.2020 | - Datenbanken Unterricht: 10:00 bis 11:00 Uhr<br>- Datenbanken `#8`<br>- Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
-| Do, 28.05.2020 | - Mathematik `#11`<br>- Betriebssysteme (LERI) Unterricht: 9:40 bis 11:35Uhr |
+| Do, 28.05.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 bis 11:35 Uhr<br>- Mathematik `#11` |
 | Fr, 29.05.2020 | - Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr<br>- Geschichte `#5`<br>- Deutsch `#4` |
-| Sa, 30.05.2020 | n/a |
+| Sa, 30.05.2020 | `Pfingstferien` |
 | So, 31.05.2020 | `Feiertag: Pfingstsonntag` |
+
+## Wochenübersicht 11 (01.06. bis 07.06.2020; Präsenz: Gruppe A)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 01.06.2020 | `Pfingstferien` |
+| Di, 02.06.2020 | `Pfingstferien` |
+| Mi, 03.06.2020 | - Betriebssysteme `#6` |
+| Do, 04.06.2020 | n/a |
+| Fr, 05.06.2020 | - **Gruppe A:** Softwareentwicklung `#7` (Zwischenstand)<br> - Physik `#10` |
+| Sa, 06.06.2020 | n/a |
+| So, 07.06.2020 | n/a |
 
 ## Softwareentwicklung
 
@@ -91,6 +103,7 @@
 | ~~3~~ | ~~LERI: PowerShell - Script AddUser~~ | ~~Mi, 06.05.2020 10:00 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 | ~~4~~ | ~~REFR: Gpt-Analyse Programm in C~~ | ~~Do, 07.05.2020 00:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14378)~~ | ~~siehe zusätzlich Discord Chat~~ |
 | ~~5~~ | ~~REFR: Gpt-Analyse - Erweiterung~~ | ~~Do, 14.05.2020 00:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14401)~~ | ~~siehe Discord Chat & Moodle~~ |
+| 6 | LERI: Virtualisierung | Mi, 03.06.2020 12:00 Uhr | Teams | Infos in Teams |
 
 
 ## Elektrotechnik
