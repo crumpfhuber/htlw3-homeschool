@@ -7,7 +7,7 @@
 | Mi, 27.05.2020 | - Datenbanken Unterricht: 10:00 bis 11:00 Uhr<br>- Datenbanken `#8`<br>- Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
 | Do, 28.05.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 bis 11:35 Uhr<br>- Chemie Unterricht: 14:00  bis 14:40 Uhr (Notenbesprechung)<br>- Mathematik `#11` |
 | Fr, 29.05.2020 | - Betriebssysteme (REFR) Unterricht: 08:00 bis 09:00 Uhr<br>~~- Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr~~<br>- Geschichte `#5`<br>- Deutsch `#4` |
-| Sa, 30.05.2020 | `Pfingstferien` |
+| Sa, 30.05.2020 | - Chemie `#4` |
 | So, 31.05.2020 | `Feiertag: Pfingstsonntag` |
 
 ## Wochenübersicht 11 (01.06. bis 07.06.2020; Präsenz: Gruppe A)
@@ -16,7 +16,7 @@
 |---|---|
 | Mo, 01.06.2020 | `Pfingstferien` |
 | Di, 02.06.2020 | `Pfingstferien` |
-| Mi, 03.06.2020 | - Betriebssysteme `#6`<br>- Betriebssysteme `#7`<br>- Chemie `#4` |
+| Mi, 03.06.2020 | - Betriebssysteme `#6`<br>- Betriebssysteme `#7` |
 | Do, 04.06.2020 | n/a |
 | Fr, 05.06.2020 | - **Gruppe A:** Softwareentwicklung `#7` (Zwischenstand)<br> - Physik `#10` |
 | Sa, 06.06.2020 | n/a |
@@ -122,7 +122,7 @@
 | ~~1~~ | ~~Kunststoffe~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsaufträge gesammelt abgeben!Selbststudium Kunststoffe: Jungwirth S. 194-198: Übungen 8.6., 8.7. 8.10. 8.17~~ |
 | ~~2~~ | ~~Waschmittel~~ | ~~Fr, 03.04.2020~~ | ~~E-Mail~~ | ~~Arbeitsaufträge gesammelt abgeben! [siehe Arbeitsauftrag](Chemie/Arbeitsauftrag.md)~~|
 | ~~3~~ | ~~Farbstoffe~~ | ~~Di, 12.05.2020~~ | ~~E-Mail~~ | ~~Im Folgenden die Aufgaben aus dem Jungwirth für heute bis einschl. 12.5. bezüglich Farbstoffen:<br>- Selbststudium S. 177 bis 184, darauf basierend Ü 7.3, 7.4. 7.5 lösen<br>- Selbststudium S. 184 bis 186, darauf basierend Ü 7.7 und 7.8.<br>Nicht abschreiben! Einreichen wie gehabt.~~ |
-| 4 | Arzneimittel | ? | E-Mail | Buch S. 175 Aufgaben 6.1 und 6.4 bearbeiten |
+| 4 | Arzneimittel | Sa, 30.05.2020 | E-Mail | Buch S. 175 Aufgaben 6.1 und 6.4 bearbeiten |
 
 ## Mathematik
 
