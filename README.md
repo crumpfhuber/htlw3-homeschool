@@ -14,13 +14,25 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 01.06.2020 | `Pfingstferien` |
-| Di, 02.06.2020 | `Pfingstferien` |
+| Mo, 01.06.2020 | `Schulfrei: Pfingstferien` |
+| Di, 02.06.2020 | `Schulfrei: Pfingstferien` |
 | Mi, 03.06.2020 | - Betriebssysteme `#6`<br>- Betriebssysteme `#7` |
-| Do, 04.06.2020 | n/a |
+| Do, 04.06.2020 | - **Gruppe A:** Mathematik `#12` |
 | Fr, 05.06.2020 | - **Gruppe A:** Softwareentwicklung `#7` (Zwischenstand)<br> - Physik `#10` |
 | Sa, 06.06.2020 | n/a |
 | So, 07.06.2020 | n/a |
+
+## Wochenübersicht 12 (08.06. bis 14.06.2020; Präsenz: Gruppe B)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 08.06.2020 | - Softwareentwicklung `#7`<br>- **Gruppe B:** Mathematik `#12` |
+| Di, 09.06.2020 | n/a |
+| Mi, 10.06.2020 | n/a |
+| Do, 11.06.2020 | `Feiertag: Fronleichnam` |
+| Fr, 12.06.2020 | `Schulfrei: SGA` |
+| Sa, 13.06.2020 | n/a |
+| So, 14.06.2020 | n/a |
 
 ## Softwareentwicklung
 
@@ -138,7 +150,8 @@
 | ~~8~~ | ~~Bestimmtes Integral~~ | ~~Do, 07.05.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_8.md)<br><br>Ergänzung von Prof. Springer:<br>- [Integral mit Mathematik - Mathcad](Mathematik/Integral_mit_Mathcad.mcdx)<br>- [Integral mit Mathematik - PDF](Mathematik/Integral_mit_Mathcad.pdf)~~ |
 | ~~9~~ | ~~Hauptsatz der Differential- und Integralrechnung~~ | ~~Do, 14.05.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_9.md)~~ |
 | ~~10~~ | ~~Anwendung der Integralrechnung~~ | ~~Mo, 25.05.2020~~ | ~~n/a~~ | ~~- [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_10.md)<br> - [Anwendungen der Integralrechnung - Flächeninhalte](Mathematik/Integral_Flaechenberechnung.pdf)~~ |
-| 11 | Volumens von Rotationskörper | Do, 28.05.2020 | n/a | - [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_11.md)<br>- [Beispiel: 7.35d](Mathematik/Volumen_Rotationskoerper_7.35d.jpg) |
+| ~~11~~ | ~~Volumens von Rotationskörper~~ | ~~Do, 28.05.2020~~ | ~~n/a~~ | ~~- [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_11.md)<br>- [Beispiel: 7.35d](Mathematik/Volumen_Rotationskoerper_7.35d.jpg)~~ |
+| 12 | Bogenläge und Mantelfläche | Gruppe A: Do, 04.06.2020<br>Gruppe B: Mo, 08.06.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_12.md) |
 
 ## Deutsch
 
