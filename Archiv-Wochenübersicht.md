@@ -107,3 +107,15 @@
 | Fr, 22.05.2020 | `Schulfrei: SGA` |
 | Sa, 23.05.2020 | n/a |
 | So, 24.05.2020 | - Physik `#9`<br>- Religion `#8` |
+
+## Wochenübersicht 10 (25.05. bis 31.05.2020)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 25.05.2020 | - Mathematik `#10`<br>- Informationstechnische Projekte (WINJ) 12:35 bis 13:25 Uhr (Präsentationen!)<br>- Elektrotechnik Unterricht: 15:20 bis 17:05 Uhr<br>- Englisch `#22` |
+| Di, 26.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
+| Mi, 27.05.2020 | - Datenbanken Unterricht: 10:00 bis 11:00 Uhr<br>- Datenbanken `#8`<br>- Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
+| Do, 28.05.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 bis 11:35 Uhr<br>- Chemie Unterricht: 14:00  bis 14:40 Uhr (Notenbesprechung)<br>- Mathematik `#11` |
+| Fr, 29.05.2020 | - Betriebssysteme (REFR) Unterricht: 08:00 bis 09:00 Uhr<br>~~- Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr~~<br>- Geschichte `#5`<br>- Deutsch `#4` |
+| Sa, 30.05.2020 | - Chemie `#4` |
+| So, 31.05.2020 | `Feiertag: Pfingstsonntag` |
