@@ -1,21 +1,9 @@
-## Wochenübersicht 10 (25.05. bis 31.05.2020)
-
-| Datum | Beschreibung |
-|---|---|
-| Mo, 25.05.2020 | - Mathematik `#10`<br>- Informationstechnische Projekte (WINJ) 12:35 bis 13:25 Uhr (Präsentationen!)<br>- Elektrotechnik Unterricht: 15:20 bis 17:05 Uhr<br>- Englisch `#22` |
-| Di, 26.05.2020 | - Chemie Unterricht: 08:30 bis 09:30 Uhr<br>- Softwareentwicklung Unterricht: 09:40 bis 12:30 Uhr |
-| Mi, 27.05.2020 | - Datenbanken Unterricht: 10:00 bis 11:00 Uhr<br>- Datenbanken `#8`<br>- Medientechnik (HELT) `#3`<br>- Medientechnik (LOIS) `#6` |
-| Do, 28.05.2020 | - Betriebssysteme (LERI) Unterricht: 09:40 bis 11:35 Uhr<br>- Chemie Unterricht: 14:00  bis 14:40 Uhr (Notenbesprechung)<br>- Mathematik `#11` |
-| Fr, 29.05.2020 | - Betriebssysteme (REFR) Unterricht: 08:00 bis 09:00 Uhr<br>~~- Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr~~<br>- Geschichte `#5`<br>- Deutsch `#4` |
-| Sa, 30.05.2020 | - Chemie `#4` |
-| So, 31.05.2020 | `Feiertag: Pfingstsonntag` |
-
 ## Wochenübersicht 11 (01.06. bis 07.06.2020; Präsenz: Gruppe A)
 
 | Datum | Beschreibung |
 |---|---|
 | Mo, 01.06.2020 | `Schulfrei: Pfingstferien` |
-| Di, 02.06.2020 | `Schulfrei: Pfingstferien` |
+| Di, 02.06.2020 | `Schulfrei: Pfingstferien`<br>- Religion (röm.-kath.) `#9` |
 | Mi, 03.06.2020 | - Betriebssysteme `#6`<br>- Betriebssysteme `#7` |
 | Do, 04.06.2020 | - **Gruppe A:** Mathematik `#12` |
 | Fr, 05.06.2020 | - **Gruppe A:** Softwareentwicklung `#7` (Zwischenstand)<br> - Physik `#10` |
@@ -200,6 +188,7 @@
 | ~~6~~ | ~~Erster Mai: Tag der Arbeit & Brauchtum~~ | ~~Di, 05.05.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Mai1_Brauchtum.pdf) oder [Word](Religion/Mai1_Brauchtum.docx)~~ |
 | ~~7~~ | ~~Islam & Koran~~ | ~~Fr, 15.05.2020~~ | ~~E-Mail~~ | ~~- Islam: [PDF](Religion/Islam.pdf) oder [Word](Religion/Islam.docx)<br>- Islam Rätsel: [PDF](Religion/Islam_Ratsel.pdf)<br>- Koran Frauen: [PDF](Religion/Koran_Frauen.pdf)~~ |
 | ~~8~~ | ~~Islam~~ | ~~So, 24.05.2020~~ | ~~E-Mail~~ | ~~In dieser kurzen Woche noch eine kurze Aufgabe zum Islam .<br>- Wer sind Sunniten?<br>- Wer sind Schiiten?<br>- Wo leben sie jeweils?<br>- Konflikte?~~ |
+| 9 | Reflexion und Feedback | Di, 02.06.2020 | E-Mail | ~~Arbeitsauftrag: [PDF](Religion/Back_to_School_Wie_gehts.pdf) oder [Word](Religion/Back_to_School_Wie_gehts.docx)~~ |
 
 ## Englisch
 
