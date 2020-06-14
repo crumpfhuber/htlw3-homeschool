@@ -2,7 +2,7 @@
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 15.06.2020 | - **Gruppe A:** Englisch Hausübung<br>- **Gruppe A:** Mathematik Hausübung |
+| Mo, 15.06.2020 | - **Gruppe A:** Englisch Hausübung<br>- **Gruppe A:** Mathematik Hausübung<br>- **Gruppe A:** Elektrotechnik Wiederholung |
 | Di, 16.06.2020 | - Geschichte `#6`<br> - Medientechnik (HELT) `#3` |
 | Mi, 17.06.2020 | - **Gruppe A:** Englisch SMÜP<br>- **Gruppe A:** Informationstechnische Projekte (WIDM) Projektpräsentation (GradUs, AVS)  |
 | Do, 18.06.2020 | - **Gruppe A:** Datenbanken SMÜP<br> - Betriebssysteme (LERI) `#8 ` |
