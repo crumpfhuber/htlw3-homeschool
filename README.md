@@ -1,26 +1,26 @@
-## Wochenübersicht 11 (01.06. bis 07.06.2020; Präsenz: Gruppe A)
+## Wochenübersicht 13 (15.06. bis 21.06.2020; Präsenz: Gruppe A)
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 01.06.2020 | `Schulfrei: Pfingstferien` |
-| Di, 02.06.2020 | `Schulfrei: Pfingstferien`<br>- Religion (röm.-kath.) `#9` |
-| Mi, 03.06.2020 | - Betriebssysteme `#6`<br>- Betriebssysteme `#7` |
-| Do, 04.06.2020 | - **Gruppe A:** Mathematik `#12` |
-| Fr, 05.06.2020 | - **Gruppe A:** Softwareentwicklung `#7` (Zwischenstand)<br> - Physik `#10` |
-| Sa, 06.06.2020 | n/a |
-| So, 07.06.2020 | n/a |
+| Mo, 15.06.2020 | - **Gruppe A:** Englisch Hausübung<br>- **Gruppe A:** Mathematik Hausübung |
+| Di, 16.06.2020 | - Geschichte `#6`<br> - Medientechnik (HELT) `#3` |
+| Mi, 17.06.2020 | - **Gruppe A:** Englisch SMÜP<br>- **Gruppe A:** Informationstechnische Projekte (WIDM) Projektpräsentation (GradUs, AVS)  |
+| Do, 18.06.2020 | - **Gruppe A:** Datenbanken SMÜP<br> - Betriebssysteme (LERI) `#8 ` |
+| Fr, 19.06.2020 | - **Gruppe A:** Informationstechnische Projekte (WIDM) Projektpräsentation (Gradulator, Spielautomat) |
+| Sa, 20.06.2020 | n/a |
+| So, 21.06.2020 | n/a |
 
-## Wochenübersicht 12 (08.06. bis 14.06.2020; Präsenz: Gruppe B)
+## Wochenübersicht 14 (22.06. bis 27.06.2020; Präsenz: Gruppe B)
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 08.06.2020 | - Softwareentwicklung `#7`<br>- **Gruppe B:** Mathematik `#12` |
-| Di, 09.06.2020 | n/a |
-| Mi, 10.06.2020 | n/a |
-| Do, 11.06.2020 | `Feiertag: Fronleichnam` |
-| Fr, 12.06.2020 | `Schulfrei: SGA` |
-| Sa, 13.06.2020 | n/a |
-| So, 14.06.2020 | n/a |
+| Mo, 21.06.2020 | n/a |
+| Di, 22.06.2020 | n/a |
+| Mi, 23.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)  |
+| Do, 24.06.2020 | - **Gruppe B:** Datenbanken SMÜP |
+| Fr, 25.06.2020 | n/a |
+| Sa, 26.06.2020 | n/a |
+| So, 27.06.2020 | n/a |
 
 ## Softwareentwicklung
 
@@ -56,6 +56,7 @@
 | ~~3~~ | ~~Lesen & Unterstreichen~~ | ~~Mi, 22.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~- Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden.<br>- Unterstrichene Seiten auf Teams hochladen.~~ |
 | ~~4~~ | ~~Nationalismus, Kolonialismus & Imperialismus~~ | ~~Mi, 29.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei und Infos in Teams~~ |
 | 5 | Medien und Politik | Fr, 29.05.2020 23:59 Uhr | Teams | Infos in Teams |
+| 6 | Rassismus USA | Di, 16.06.2020 23:59 Uhr | Teams | Infos in Teams |
 
 ## Physik
 
@@ -105,6 +106,7 @@
 | ~~5~~ | ~~REFR: Gpt-Analyse - Erweiterung~~ | ~~Do, 14.05.2020 00:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14401)~~ | ~~siehe Discord Chat & Moodle~~ |
 | 6 | LERI: Virtualisierung | Mi, 03.06.2020 12:00 Uhr | Teams | Infos in Teams |
 | 7 | REFR: BTRFS | Do, 04.06.2020 00:00 Uhr| [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14495) | Infos in Moodle |
+| 8 | LERI: Verzeichnisdienste - LDAP | Do, 18.06.2020 08:00 Uhr| Teams | Infos in Teams |
 
 
 ## Elektrotechnik
@@ -173,7 +175,7 @@
 |---|-------------|-------------|--------|-----------|
 | ~~1~~ | ~~Filmprojekt: 50 Jahre HTL-Wels - Ideefindung~~ | ~~Di, 24.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 | ~~2~~ | ~~Filmprojekt: 50 Jahre HTL-Wels - Drehbuch~~ | ~~Di, 14.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
-| 3 | Filmprojekt - "Corona 2020" | Mi, 27.05.2020 23:59 Uhr | Teams | Infos in Teams |
+| 3 | Filmprojekt - "Corona 2020" | Di, 16.06.2020 23:59 Uhr | Teams | Infos in Teams |
 | ~~4~~ | ~~Filmprojekt "Corona" - Exposé~~ | ~~Fr, 03.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 
 ## Religion (röm.-kath.)
