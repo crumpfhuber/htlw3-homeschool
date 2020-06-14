@@ -119,3 +119,27 @@
 | Fr, 29.05.2020 | - Betriebssysteme (REFR) Unterricht: 08:00 bis 09:00 Uhr<br>~~- Informationstechnische Projekte (WINJ) Unterricht: 09:40 bis 10:30 Uhr~~<br>- Geschichte `#5`<br>- Deutsch `#4` |
 | Sa, 30.05.2020 | - Chemie `#4` |
 | So, 31.05.2020 | `Feiertag: Pfingstsonntag` |
+
+## Wochenübersicht 11 (01.06. bis 07.06.2020; Präsenz: Gruppe A)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 01.06.2020 | `Schulfrei: Pfingstferien` |
+| Di, 02.06.2020 | `Schulfrei: Pfingstferien`<br>- Religion (röm.-kath.) `#9` |
+| Mi, 03.06.2020 | - Betriebssysteme `#6`<br>- Betriebssysteme `#7` |
+| Do, 04.06.2020 | - **Gruppe A:** Mathematik `#12` |
+| Fr, 05.06.2020 | - **Gruppe A:** Softwareentwicklung `#7` (Zwischenstand)<br> - Physik `#10` |
+| Sa, 06.06.2020 | n/a |
+| So, 07.06.2020 | n/a |
+
+## Wochenübersicht 12 (08.06. bis 14.06.2020; Präsenz: Gruppe B)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 08.06.2020 | - Softwareentwicklung `#7`<br>- **Gruppe B:** Mathematik `#12` |
+| Di, 09.06.2020 | n/a |
+| Mi, 10.06.2020 | n/a |
+| Do, 11.06.2020 | `Feiertag: Fronleichnam` |
+| Fr, 12.06.2020 | `Schulfrei: SGA` |
+| Sa, 13.06.2020 | n/a |
+| So, 14.06.2020 | n/a |
