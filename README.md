@@ -15,8 +15,8 @@
 | Datum | Beschreibung |
 |---|---|
 | Mo, 21.06.2020 | n/a |
-| Di, 22.06.2020 | - **Gruppe B:** Chemie HÜ |
-| Mi, 23.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)  |
+| Di, 22.06.2020 | n/a |
+| Mi, 23.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)<br> - **Gruppe B:** Chemie HÜ  |
 | Do, 24.06.2020 | - **Gruppe B:** Datenbanken SMÜP |
 | Fr, 25.06.2020 | n/a |
 | Sa, 26.06.2020 | n/a |
