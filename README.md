@@ -10,17 +10,29 @@
 | Sa, 20.06.2020 | n/a |
 | So, 21.06.2020 | n/a |
 
-## Wochenübersicht 14 (22.06. bis 27.06.2020; Präsenz: Gruppe B)
+## Wochenübersicht 14 (22.06. bis 28.06.2020; Präsenz: Gruppe B)
 
 | Datum | Beschreibung |
 |---|---|
-| Mo, 21.06.2020 | n/a |
-| Di, 22.06.2020 | n/a |
-| Mi, 23.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)<br> - **Gruppe B:** Chemie HÜ  |
-| Do, 24.06.2020 | - **Gruppe B:** Datenbanken SMÜP |
-| Fr, 25.06.2020 | n/a |
-| Sa, 26.06.2020 | n/a |
-| So, 27.06.2020 | n/a |
+| Mo, 22.06.2020 | n/a |
+| Di, 23.06.2020 | n/a |
+| Mi, 24.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)<br> - **Gruppe B:** Chemie HÜ  |
+| Do, 25.06.2020 | - **Gruppe B:** Datenbanken SMÜP |
+| Fr, 26.06.2020 | n/a |
+| Sa, 27.06.2020 | n/a |
+| So, 28.06.2020 | n/a |
+
+## Wochenübersicht 15 (29.06. bis 05.07.2020; Präsenz: Gruppe A)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 29.06.2020 | - **Gruppe A:** Mathematik HÜ `#13`<br>- **Gruppe A:** Elektrotechnik: Protokollabgabe  |
+| Di, 30.06.2020 | n/a |
+| Mi, 01.07.2020 | - **Gruppe A:** Chemie HÜ |
+| Do, 02.07.2020 | `Ende der Noteneintragung` |
+| Fr, 03.07.2020 | n/a |
+| Sa, 04.07.2020 | n/a |
+| So, 05.07.2020 | n/a |
 
 ## Softwareentwicklung
 
@@ -142,6 +154,7 @@
 | ~~10~~ | ~~Anwendung der Integralrechnung~~ | ~~Mo, 25.05.2020~~ | ~~n/a~~ | ~~- [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_10.md)<br> - [Anwendungen der Integralrechnung - Flächeninhalte](Mathematik/Integral_Flaechenberechnung.pdf)~~ |
 | ~~11~~ | ~~Volumens von Rotationskörper~~ | ~~Do, 28.05.2020~~ | ~~n/a~~ | ~~- [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_11.md)<br>- [Beispiel: 7.35d](Mathematik/Volumen_Rotationskoerper_7.35d.jpg)~~ |
 | 12 | Bogenläge und Mantelfläche | Gruppe A: Do, 04.06.2020<br>Gruppe B: Mo, 08.06.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_12.md) |
+| 13 | Mittelwerte von Funktionen | n/a | n/a | Buch Seite 282-289<br><br>Beispiele:<br> - 7.164<br> - 7.165<br> - 7.167<br> - 7.171 |
 
 ## Deutsch
 
