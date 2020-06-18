@@ -34,6 +34,18 @@
 | Sa, 04.07.2020 | n/a |
 | So, 05.07.2020 | n/a |
 
+## Wochenübersicht 16 (06.07. bis 12.07.2020; Präsenz: Gruppe B)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 06.07.2020 | `Schulfrei: SGA` |
+| Di, 07.07.2020 | n/a |
+| Mi, 08.07.2020 | n/a |
+| Do, 09.07.2020 | n/a |
+| Fr, 10.07.2020 | - Zeugnisverteilung |
+| Sa, 11.07.2020 | n/a |
+| So, 12.07.2020 | n/a |
+
 ## Softwareentwicklung
 
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
