@@ -16,7 +16,7 @@
 |---|---|
 | Mo, 22.06.2020 | n/a |
 | Di, 23.06.2020 | n/a |
-| Mi, 24.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)<br> - **Gruppe B:** Chemie HÜ<br>- Betriebssysteme (REFR) `#9`  |
+| Mi, 24.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)<br> - **Gruppe B:** Chemie HÜ<br>- Betriebssysteme (REFR) `#9`<br> - Netzwerktechnik `#2`  |
 | Do, 25.06.2020 | - **Gruppe B:** Datenbanken SMÜP |
 | Fr, 26.06.2020 | n/a |
 | Sa, 27.06.2020 | n/a |
@@ -183,6 +183,7 @@
 | #      | Bezeichnung   | Abgabedatum | Abgabe | Bemerkung |
 |--------|---------------|-------------|--------|-----------|
 | ~~1~~ | ~~DNS Übung~~ | ~~Di, 15.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~siehe Teams~~ |
+| 2 | Cisco Übung | Mi, 24.06.2020 23:59 Uhr | Teams | siehe Teams |
 
 ## Medientechnik (LOIS)
 
