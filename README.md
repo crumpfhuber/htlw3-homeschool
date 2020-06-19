@@ -16,7 +16,7 @@
 |---|---|
 | Mo, 22.06.2020 | n/a |
 | Di, 23.06.2020 | n/a |
-| Mi, 24.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)<br> - **Gruppe B:** Chemie HÜ<br>- Betriebssysteme (REFR) `#9`<br> - Netzwerktechnik `#2`  |
+| Mi, 24.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)<br> - **Gruppe B:** Chemie HÜ<br>- Betriebssysteme (REFR) `#9`<br> - Netzwerktechnik `#2`<br>- Medientechnik (LOIS) `#7`  |
 | Do, 25.06.2020 | - **Gruppe B:** Datenbanken SMÜP |
 | Fr, 26.06.2020 | n/a |
 | Sa, 27.06.2020 | n/a |
@@ -194,7 +194,8 @@
 | ~~3~~ | ~~Übung 3 - Preisberechnung~~ | ~~Mi, 25.03.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 3](Medientechnik/UE3_Preisberechnung.pdf)~~ |
 | ~~4~~ | ~~Übung 5 - Taschenrechner~~ | ~~Mi, 22.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~[Angabe: Übung 5](Medientechnik/UE5_Taschenrechner.md)~~ |
 | ~~5~~ | ~~Übung 6 - Terminkalender mit Dateien~~ | ~~Mi, 13.05.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
-| 6 | Übung 7 - Verzeichnisse, Dateien, Array | Mi, 27.05.2020 23:59 Uhr | Teams | Infos in Teams |
+| ~~6~~ | ~~Übung 7 - Verzeichnisse, Dateien, Array~~ | ~~Mi, 27.05.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| 7 | PHP Nachhilfe-Portal | Mi, 24.06.2020 23:59 Uhr | Teams | Infos in Teams |
 
 ## Medientechnik (HELT)
 
