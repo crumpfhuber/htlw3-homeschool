@@ -56,7 +56,7 @@
 | ~~4~~ | ~~Aufgabe: 609 ArrayBereinigung~~ | ~~Do, 16.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/609_ArrayBereinigung)~~ |
 | ~~5~~ | ~~Aufgabe: 610 Erathostenes~~ | ~~Do, 16.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/610_Erathostenes)~~ |
 | ~~6~~ | ~~Aufgabe: 612 Adressen~~ | ~~Mo, 04.04.2020 23:59 Uhr~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/612_Adressen)~~ |
-| 7 | Aufgabe: 614 Doppelt verkettete Liste | Mo, 08.06.2020 | GitHub & Teams | [siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/614_Doppelt_verkettete_Liste) |
+| ~~7~~ | ~~Aufgabe: 614 Doppelt verkettete Liste~~ | ~~Mo, 08.06.2020~~ | ~~GitHub & Teams~~ | ~~[siehe Angabe](https://github.com/Javaw0cky/SEW3/tree/master/600-C/614_Doppelt_verkettete_Liste)~~ |
 
 ## Datenbanken
 
@@ -69,7 +69,7 @@
 | ~~5~~ | ~~Join Übungen Teil 1~~ | ~~Fr, 24.04.2020~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14279)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14268)~~ |
 | ~~6~~ | ~~Join Übungen Teil 2~~ | ~~Mi, 06.05.2020 09:40 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14383)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14365)~~ |
 | ~~7~~ | ~~Join Übungen Teil 3~~ | ~~Mi, 20.05.2020 09:40 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14445&action=view)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/mod/page/view.php?id=14366)~~ |
-| 8 | Einzeljoin | Mi, 27.05.2020 11:00 Uhr | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14481) | [Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/course/view.php?id=334) |
+| ~~8~~ | ~~Einzeljoin | Mi, 27.05.2020 11:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14481)~~ | ~~[Aufgabenstellung siehe Moodle](https://elearn.htl-wels.at/course/view.php?id=334)~~ |
 
 ## Geschichte
 
@@ -79,8 +79,8 @@
 | ~~2~~ | ~~Bildanalyse~~ | ~~Fr, 27.03.2020~~ | ~~E-Mail~~ | ~~[Arbeitsauftrag](Geschichte/Arbeitsauftrag_01.pdf) & [Karikatur](Geschichte/Industrielle_Revolution_Karikatur.pdf)<br> - Ausformulierte Bildanalyse über die Karikatur zur Industriellen Revolution (siehe Handout)<br> - Dokument (Klasse_Nachnamen) in mein Abgabeverzeichnis hochladen~~ | 
 | ~~3~~ | ~~Lesen & Unterstreichen~~ | ~~Mi, 22.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~- Hotspots 3/4, S. 23-34: Information lesen und unterstreichen, Aufgaben müssen nicht erfüllt werden.<br>- Unterstrichene Seiten auf Teams hochladen.~~ |
 | ~~4~~ | ~~Nationalismus, Kolonialismus & Imperialismus~~ | ~~Mi, 29.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Datei und Infos in Teams~~ |
-| 5 | Medien und Politik | Fr, 29.05.2020 23:59 Uhr | Teams | Infos in Teams |
-| 6 | Rassismus USA | Di, 16.06.2020 23:59 Uhr | Teams | Infos in Teams |
+| ~~5~~ | ~~Medien und Politik~~ | ~~Fr, 29.05.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| ~~6~~ | ~~Rassismus USA~~ | ~~Di, 16.06.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 
 ## Physik
 
@@ -95,7 +95,7 @@
 | ~~7~~ | ~~Linsen~~ | ~~Do, 30.04.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 | ~~8~~ | ~~Das Auge~~ | ~~Fr, 15.05.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 | ~~9~~ | ~~Optische Instrumente~~ | ~~So, 24.05.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
-| 10 | Dopplereffekt | Fr, 05.06.2020 23:59 Uhr | Teams | Infos in Teams |
+| ~~10~~ | ~~Dopplereffekt~~ | ~~Fr, 05.06.2020 23:59 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 
 ## Geographie
 
@@ -128,10 +128,10 @@
 | ~~3~~ | ~~LERI: PowerShell - Script AddUser~~ | ~~Mi, 06.05.2020 10:00 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
 | ~~4~~ | ~~REFR: Gpt-Analyse Programm in C~~ | ~~Do, 07.05.2020 00:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14378)~~ | ~~siehe zusätzlich Discord Chat~~ |
 | ~~5~~ | ~~REFR: Gpt-Analyse - Erweiterung~~ | ~~Do, 14.05.2020 00:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14401)~~ | ~~siehe Discord Chat & Moodle~~ |
-| 6 | LERI: Virtualisierung | Mi, 03.06.2020 12:00 Uhr | Teams | Infos in Teams |
-| 7 | REFR: BTRFS | Do, 04.06.2020 00:00 Uhr| [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14495) | Infos in Moodle |
-| 8 | LERI: Verzeichnisdienste - LDAP | Do, 18.06.2020 08:00 Uhr| Teams | Infos in Teams |
-| 9 | SW-Raid mit mdam | Do, 25.06.2020, 00:00 | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14527) | Infos in Moodle |
+| ~~6~~ | ~~LERI: Virtualisierung~~ | ~~Mi, 03.06.2020 12:00 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| ~~7~~ | ~~REFR: BTRFS~~ | ~~Do, 04.06.2020 00:00 Uhr~~ | ~~[Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14495)~~ | ~~Infos in Moodle~~ |
+| ~~8~~ | ~~LERI: Verzeichnisdienste - LDAP~~ | ~~Do, 18.06.2020 08:00 Uhr~~ | ~~Teams~~ | ~~Infos in Teams~~ |
+| ~~9~~ | SW-Raid mit mdam | Do, 25.06.2020, 00:00 | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14527) | Infos in Moodle |
 
 
 ## Elektrotechnik
@@ -166,7 +166,7 @@
 | ~~9~~ | ~~Hauptsatz der Differential- und Integralrechnung~~ | ~~Do, 14.05.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_9.md)~~ |
 | ~~10~~ | ~~Anwendung der Integralrechnung~~ | ~~Mo, 25.05.2020~~ | ~~n/a~~ | ~~- [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_10.md)<br> - [Anwendungen der Integralrechnung - Flächeninhalte](Mathematik/Integral_Flaechenberechnung.pdf)~~ |
 | ~~11~~ | ~~Volumens von Rotationskörper~~ | ~~Do, 28.05.2020~~ | ~~n/a~~ | ~~- [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_11.md)<br>- [Beispiel: 7.35d](Mathematik/Volumen_Rotationskoerper_7.35d.jpg)~~ |
-| 12 | Bogenläge und Mantelfläche | Gruppe A: Do, 04.06.2020<br>Gruppe B: Mo, 08.06.2020 | n/a | [siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_12.md) |
+| ~~12~~ | ~~Bogenläge und Mantelfläche~~ | ~~Gruppe A: Do, 04.06.2020<br>Gruppe B: Mo, 08.06.2020~~ | ~~n/a~~ | ~~[siehe Arbeitsauftrag](Mathematik/Arbeitsauftrag_12.md)~~ |
 | 13 | Mittelwerte von Funktionen | n/a | n/a | Buch Seite 282-289<br><br>Beispiele:<br> - 7.164<br> - 7.165<br> - 7.167<br> - 7.171 |
 
 ## Deutsch
@@ -176,7 +176,7 @@
 | ~~1~~ | ~~Kommentar: "Fairplay im Sport"~~ | ~~Fr, 20.03.2020 23:59 Uhr~~ | ~~E-Mail~~ | ~~- [Angabe (Paket 2, Text 1)](https://www.matura.gv.at/fileadmin/user_upload/downloads/Matura-2018-19/DEU/KL19_PT3_ALL_DEU_SR_CC_AU.pdf)~~ |
 | ~~2~~ | ~~Kommentar: "Sterben Tiere gern?"~~ | ~~Mi, 15.04.2020 23:59 Uhr~~ | ~~E-Mail~~ | ~~- [E-Mail von Prof. Lugerbauer](Deutsch/02_Email.md)<br>- [Sterben Tiere gern - Angabe](Deutsch/02_Aufgabe_Angabe.pdf)<br>- [Sterben Tiere gern - Text](Deutsch/02_Aufgabe_Text.pdf)~~ |
 | ~~3~~ | ~~Literaturepoche der Romantik~~ | ~~Mi, 06.05.2020~~ | ~~E-Mail~~ | ~~- [Arbeitsauftrag](Deutsch/03_Arbeitsauftrag.md)<br>- [Romantik](Deutsch/03_Romantik.pdf)<br>- [Arbeitsblatt](Deutsch/03_Arbeitsblatt.docx)~~ |
-| 4 | Leseaufgabe - "Der Sandmann" | Fr, 29.05.2020 | E-Mail | - [Arbeitsauftrag](Deutsch/04_Arbeitsauftrag.md) |
+| ~~4~~ | ~~Leseaufgabe - "Der Sandmann"~~ | ~~Fr, 29.05.2020~~ | ~~E-Mail~~ | ~~- [Arbeitsauftrag](Deutsch/04_Arbeitsauftrag.md)~~ |
 
 ## Netzwerktechnik
 
@@ -218,7 +218,7 @@
 | ~~6~~ | ~~Erster Mai: Tag der Arbeit & Brauchtum~~ | ~~Di, 05.05.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Mai1_Brauchtum.pdf) oder [Word](Religion/Mai1_Brauchtum.docx)~~ |
 | ~~7~~ | ~~Islam & Koran~~ | ~~Fr, 15.05.2020~~ | ~~E-Mail~~ | ~~- Islam: [PDF](Religion/Islam.pdf) oder [Word](Religion/Islam.docx)<br>- Islam Rätsel: [PDF](Religion/Islam_Ratsel.pdf)<br>- Koran Frauen: [PDF](Religion/Koran_Frauen.pdf)~~ |
 | ~~8~~ | ~~Islam~~ | ~~So, 24.05.2020~~ | ~~E-Mail~~ | ~~In dieser kurzen Woche noch eine kurze Aufgabe zum Islam .<br>- Wer sind Sunniten?<br>- Wer sind Schiiten?<br>- Wo leben sie jeweils?<br>- Konflikte?~~ |
-| 9 | Reflexion und Feedback | Di, 02.06.2020 | E-Mail | ~~Arbeitsauftrag: [PDF](Religion/Back_to_School_Wie_gehts.pdf) oder [Word](Religion/Back_to_School_Wie_gehts.docx)~~ |
+| ~~9~~ | ~~Reflexion und Feedback~~ | ~~Di, 02.06.2020~~ | ~~E-Mail~~ | ~~Arbeitsauftrag: [PDF](Religion/Back_to_School_Wie_gehts.pdf) oder [Word](Religion/Back_to_School_Wie_gehts.docx)~~ |
 
 ## Englisch
 
