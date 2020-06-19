@@ -16,7 +16,7 @@
 |---|---|
 | Mo, 22.06.2020 | n/a |
 | Di, 23.06.2020 | n/a |
-| Mi, 24.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)<br> - **Gruppe B:** Chemie HÜ  |
+| Mi, 24.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)<br> - **Gruppe B:** Chemie HÜ<br>- Betriebssysteme (REFR) `#9`  |
 | Do, 25.06.2020 | - **Gruppe B:** Datenbanken SMÜP |
 | Fr, 26.06.2020 | n/a |
 | Sa, 27.06.2020 | n/a |
@@ -131,6 +131,7 @@
 | 6 | LERI: Virtualisierung | Mi, 03.06.2020 12:00 Uhr | Teams | Infos in Teams |
 | 7 | REFR: BTRFS | Do, 04.06.2020 00:00 Uhr| [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14495) | Infos in Moodle |
 | 8 | LERI: Verzeichnisdienste - LDAP | Do, 18.06.2020 08:00 Uhr| Teams | Infos in Teams |
+| 9 | SW-Raid mit mdam | Do, 25.06.2020, 00:00 | [Moodle](https://elearn.htl-wels.at/mod/assign/view.php?id=14527) | Infos in Moodle |
 
 
 ## Elektrotechnik
