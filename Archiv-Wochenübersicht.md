@@ -143,3 +143,27 @@
 | Fr, 12.06.2020 | `Schulfrei: SGA` |
 | Sa, 13.06.2020 | n/a |
 | So, 14.06.2020 | n/a |
+
+## Wochenübersicht 13 (15.06. bis 21.06.2020; Präsenz: Gruppe A)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 15.06.2020 | - **Gruppe A:** Englisch Hausübung<br>- **Gruppe A:** Mathematik Hausübung<br>- **Gruppe A:** Elektrotechnik Wiederholung |
+| Di, 16.06.2020 | - Geschichte `#6`<br> - Medientechnik (HELT) `#3` |
+| Mi, 17.06.2020 | - **Gruppe A:** Englisch SMÜP<br>- **Gruppe A:** Informationstechnische Projekte (WIDM) Projektpräsentation (GradUs, AVS)  |
+| Do, 18.06.2020 | - **Gruppe A:** Datenbanken SMÜP<br> - Betriebssysteme (LERI) `#8 ` |
+| Fr, 19.06.2020 | - **Gruppe A:** Informationstechnische Projekte (WIDM) Projektpräsentation (Gradulator, Spielautomat) |
+| Sa, 20.06.2020 | n/a |
+| So, 21.06.2020 | n/a |
+
+## Wochenübersicht 14 (22.06. bis 28.06.2020; Präsenz: Gruppe B)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 22.06.2020 | n/a |
+| Di, 23.06.2020 | n/a |
+| Mi, 24.06.2020 | - **Gruppe B:** Englisch SMÜP<br>- **Gruppe B:** Informationstechnische Projekte (WIDM) Projektpräsentation (ManTheGuns, ClickToGraduate)<br> - **Gruppe B:** Chemie HÜ<br>- Betriebssysteme (REFR) `#9`<br> - Netzwerktechnik `#2`<br>- Medientechnik (LOIS) `#7`  |
+| Do, 25.06.2020 | - **Gruppe B:** Datenbanken SMÜP |
+| Fr, 26.06.2020 | n/a |
+| Sa, 27.06.2020 | n/a |
+| So, 28.06.2020 | n/a |
