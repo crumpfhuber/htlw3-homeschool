@@ -167,3 +167,27 @@
 | Fr, 26.06.2020 | n/a |
 | Sa, 27.06.2020 | n/a |
 | So, 28.06.2020 | n/a |
+
+## Wochenübersicht 15 (29.06. bis 05.07.2020; Präsenz: Gruppe A)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 29.06.2020 | - **Gruppe A:** Mathematik HÜ `#13`<br>- **Gruppe A:** Elektrotechnik: Protokollabgabe  |
+| Di, 30.06.2020 | n/a |
+| Mi, 01.07.2020 | - **Gruppe A:** Chemie HÜ |
+| Do, 02.07.2020 | `Ende der Noteneintragung` |
+| Fr, 03.07.2020 | n/a |
+| Sa, 04.07.2020 | n/a |
+| So, 05.07.2020 | n/a |
+
+## Wochenübersicht 16 (06.07. bis 12.07.2020; Präsenz: Gruppe B)
+
+| Datum | Beschreibung |
+|---|---|
+| Mo, 06.07.2020 | `Schulfrei: SGA` |
+| Di, 07.07.2020 | n/a |
+| Mi, 08.07.2020 | n/a |
+| Do, 09.07.2020 | n/a |
+| Fr, 10.07.2020 | - Zeugnisverteilung |
+| Sa, 11.07.2020 | n/a |
+| So, 12.07.2020 | n/a |
