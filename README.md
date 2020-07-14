@@ -1,6 +1,6 @@
 ## Archiv: Wochenübersicht
 
-[Archiv: Wochenübersicht](Archiv-Wochenübersichten.md)
+[Archiv: Wochenübersicht](Archiv-Wochenübersicht.md)
 
 ## Softwareentwicklung
 
